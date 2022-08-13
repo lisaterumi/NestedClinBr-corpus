@@ -1,0 +1,54 @@
+version: 2
+workflows:
+  version: 2
+  bratutils-flow:
+    jobs:
+      - test:
+          filters:
+            branches:
+              ignore:
+                - master
+      - tag:
+          filters:
+            branches:
+              ignore: /.*/
+            tags:
+              only: /^.*/
+      - coverage:
+          filters:
+            branches:
+              only: master
+
+bratutils-env: &bratutils-env
+  docker:
+    - image: python:3.6.8-stretch
+  working_directory: ~/project
+
+jobs:
+  test:
+    <<: *bratutils-env
+    steps:
+      - checkout
+      - run: make build
+      - run: make lint
+      - run: make test
+
+  coverage:
+    <<: *bratutils-env
+    steps:
+      - checkout
+      - run: make build
+      - run: make lint
+      - run:
+          name: Test
+          command: |
+            curl -L -o cc-test-reporter https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64
+            chmod +x cc-test-reporter
+            ./cc-test-reporter before-build
+            make test
+            ./cc-test-reporter after-build -t coverage.py --exit-code $?
+  tag:
+    <<: *bratutils-env
+    steps:
+      - checkout
+      - run: make release
