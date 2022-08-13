@@ -433,10 +433,13 @@ class Annotation:
         :rtype: list
         """
         same = []
+        f = open('log_iaa.txt','a', encoding='utf-8')
         for ann in parallel_anns:
             if self == ann:
                 same.append(ann)
-                logger.debug('Matching annotations: {} : {}'.format(self, ann))
+                #logger.debug('Matching annotations: {} : {}'.format(self, ann))
+                f.write('Matching annotations: {} : {}'.format(self, ann))
+        f.close()
         return same
 
     def get_coinciding_anns(self, parallel_anns):
@@ -447,11 +450,14 @@ class Annotation:
         :return: list of coinciding annotations
         """
         coinciding = []
+        f = open('log_iaa.txt','a', encoding='utf-8')
+
         for ann in parallel_anns:
             if self.coincides_with(ann):
                 coinciding.append(ann)
-                logger.debug('Coinciding annotations: {} : {}'
-                             .format(self, ann))
+                #logger.debug('Coinciding annotations: {} : {}'.format(self, ann))
+                f.write('Coinciding annotations: {} : {}'.format(self, ann))
+        f.close()
         return coinciding
 
     def get_contained_anns(self, parallel_anns):
@@ -462,10 +468,13 @@ class Annotation:
         :rtype: list
         """
         contained = []
+        f = open('log_iaa.txt','a', encoding='utf-8')
         for ann in parallel_anns:
             if self.contains_ann(ann):
                 contained.append(ann)
-                logger.debug('`{}` contained in `{}`'.format(ann, self))
+                #ogger.debug('`{}` contained in `{}`'.format(ann, self))
+                f.write('`{}` contained in `{}`'.format(ann, self))
+        f.close()
         return contained
 
     def get_containing_ann(self, parallel_anns):
@@ -695,18 +704,22 @@ class Document:
 
     @staticmethod
     def handle_coinciding_tags(tag, ctags, muc):
+        f = open('log_iaa.txt','a', encoding='utf-8')
         for ctag in ctags:
             if tag == ctag:
                 tag.comp_status = MucTable.CORRECT
                 ctag.comp_status = MucTable.CORRECT
                 muc.cor += 1
-                logger.debug('Correct match: {} : {}'.format(tag, ctag))
+                #logger.debug('Correct match: {} : {}'.format(tag, ctag))
+                f.write('Correct match: {} : {}'.format(tag, ctag))
             else:
                 ctag.comp_status = MucTable.INCORRECT
                 muc.inc += 1
-                logger.debug('Incorrect match: {} : {}'.format(tag, ctag))
+                #ogger.debug('Incorrect match: {} : {}'.format(tag, ctag))
+                f.write('Incorrect match: {} : {}'.format(tag, ctag))
         if tag.comp_status != MucTable.CORRECT:
             tag.comp_status = MucTable.INCORRECT
+        f.close()
 
     @staticmethod
     def handle_contained_tags(tag, ctags, muc):

@@ -1,0 +1,4071 @@
+T1	Problema 43 75	Dispneia importante aos esforços
+T2	Problema 78 111	dor tipo peso no peito no esforço
+T3	Problema 113 118	Obeso
+T4	Problema 120 123	has
+T5	Problema 125 128	icc
+T6	Teste 134 158	cintilografia miocardica
+T7	Teste 164 171	avaliar
+T8	Problema 172 178	angina
+T9	Anatomia 95 100	peito
+T10	Anatomia 148 158	miocardica
+T1	Tratamento 43 57	Plastia Mitral
+T2	Problema 60 73	Insuficiencia
+T3	Tratamento 77 80	CRM
+T4	Tratamento 120 127	AAS 100
+T5	Tratamento 135 149	Metoprolol  25
+T6	Tratamento 156 159	FSM
+T7	Tratamento 167 183	Levotiroxina 175
+T8	Tratamento 191 199	Sinva 40
+T9	Tratamento 206 219	Fluoxetina 20
+T10	Problema 244 252;283 306	dispneia mdoeardos-leves esforço
+T11	Tratamento 263 265	cx
+T12	Problema 308 344	Discreto edema mmii pricn a esquerda
+T13	Problema 350 360	palpitação
+T14	Problema 361 388	Dor a movimentação do torax
+T15	Problema 408 418	ruidos adv
+T16	Problema 439 445	sopros
+T17	Teste 447 449	PA
+T18	Teste 463 464	P
+T19	Teste 474 476	Fr
+T20	Teste 501 510	Ecocardio
+T21	Teste 513 516	lab
+T22	Anatomia 51 57	Mitral
+T23	Anatomia 323 327	mmii
+T24	Anatomia 383 388	torax
+T1	Tratamento 47 59	angioplastia
+T2	Tratamento 73 83	marcapasso
+T3	Teste 106 120	ecg de repouso
+T4	Problema 125 147	bav de 2 grau mobitz 2
+T5	Teste 150 153	cat
+T6	Problema 206 208	DM
+T7	Problema 210 213	HAS
+T8	Problema 215 218	DAC
+T9	Tratamento 220 223	rvm
+T10	Problema 236 248	dislipidemia
+T11	Tratamento 260 272	insulina nph
+T12	Tratamento 274 284	metformina
+T13	Tratamento 286 303	sinvastatina 40mg
+T14	Tratamento 310 327	carvedilol 6,25mg
+T15	Tratamento 329 343	losartana 50mg
+T16	Tratamento 353 362	AAS 100mg
+T17	Tratamento 364 380	clopidogrel 75mg
+T18	Problema 382 391	Tabagista
+T19	Problema 470 477	queixas
+T20	Teste 484 496	LAboratorial
+T21	Teste 509 511	HB
+T22	Teste 519 530	Hematocrito
+T23	Teste 537 545	glicemia
+T24	Teste 552 568	microalbuminuria
+T25	Teste 582 618	Cintilografia de perfusao miocardica
+T26	Problema 648 667	isquemia miocardica
+T27	Problema 693 711	hipocinesia septal
+T28	Problema 713 728	DIlatação do VE
+T29	Teste 778 781	CAt
+T30	Problema 795 824	reestenose de stent 70% em cd
+T31	Problema 826 867	Oclusao total de stent em ramo diagonalis
+T32	Tratamento 870 882;901 918	angioplastia cornoaria direita
+T33	Teste 986 988	PA
+T34	Teste 1031 1037	exames
+T35	Tratamento 1049 1059	anlodipino
+T36	Tratamento 1062 1071	enalapril
+T37	Teste 1084 1100	microalbuminuria
+T38	Teste 935 958	EF cardiaco e abdominal
+T39	Anatomia 608 618	miocardica
+T40	Anatomia 657 667	miocardica
+T41	Anatomia 705 711	septal
+T42	Anatomia 675 677	VE
+T43	Anatomia 822 824	cd
+T44	Anatomia 852 867	ramo diagonalis
+T45	Anatomia 901 918	cornoaria direita
+T46	Anatomia 726 728	VE
+T47	Anatomia 733 735	VE
+T48	Anatomia 755 757	VE
+T49	Anatomia 938 946	cardiaco
+T50	Anatomia 949 958	abdominal
+T51	Anatomia 963 971	Pulmonar
+T52	Anatomia 978 984	base E
+T1	Problema 61 63	DM
+T2	Problema 68 71	HAS
+T3	Problema 80 83	iam
+T4	Tratamento 96 99	atc
+T5	Tratamento 103 106	RVM
+T6	Tratamento 118 121;133 135	ATC CD
+T7	Tratamento 150 152	MP
+T8	Problema 154 176	bav de 2 grau mobitz 2
+T9	Problema 180 192	Dislipidemia
+T10	Problema 196 205	Tabagista
+T11	Tratamento 258 270	insulina nph
+T12	Tratamento 284 300	metformina 850MG
+T13	Tratamento 324 336	ARADOIS 50MG
+T14	Tratamento 343 357	ANLODIPINA 5MG
+T15	Tratamento 368 382	ENALAPRIL 20MG
+T16	Tratamento 393 410	sinvastatina 80mg
+T17	Tratamento 413 425	SELOZOK 50MG
+T18	Tratamento 432 441	AAS 100mg
+T19	Problema 454 467	PRECORDIALGIA
+T20	Problema 474 482	DISPNEIA
+T21	Problema 484 493	ORTOPNEIA
+T22	Problema 495 498	DPN
+T23	Problema 507 555	CLAUDICAÇÃO INTERMITENTE PARA MODERADOS ESFORÇOS
+T24	Problema 603 610	AFEBRIL
+T25	Teste 612 614	PA
+T26	Teste 623 625	FC
+T27	Problema 652 654	SS
+T28	Problema 660 684	MV+ REDUZIDO DIFUSAMENTE
+T29	Problema 690 692	RA
+T30	Problema 703 707;709 731	MMII PULSOS REDUZIDOS BILAT
+T31	Problema 703 707;737 742	MMII EDEMA
+T32	Problema 703 707;746 758	MMII EMPASTAMENTO
+T33	Teste 761 764	LAB
+T34	Teste 775 782	GLICOSE
+T35	Teste 788 808	GLICOSE PÓS-PRANDIAL
+T36	Teste 814 816	CT
+T37	Teste 822 825	HDL
+T38	Teste 830 832	TG
+T39	Teste 838 841	TGO
+T40	Teste 846 851	HBA1C
+T41	Teste 858 861	CPK
+T42	Teste 866 868	CR
+T43	Teste 875 876	K
+T44	Teste 882 884	UR
+T45	Teste 889 911	MICROALBUMINURIA 24 HS
+T46	Teste 923 925	PU
+T47	Teste 927 934	GLICOSE
+T48	Teste 939 943	LEUC
+T49	Problema 954 957	DAC
+T50	Problema 959 962	HAS
+T51	Problema 964 966	DM
+T52	Problema 74 77	DAC
+T53	Tratamento 981 999	SELOZOK PARA 100MG
+T54	Anatomia 133 135	CD
+T55	Anatomia 703 707	MMII
+T56	Anatomia 694 697	ABD
+T57	Anatomia 630 632	CP
+T1	Problema 106 108	FA
+T2	Tratamento 117 128	marevan 5mg
+T3	Problema 142 154	Comorbidades
+T4	Problema 156 158	DM
+T5	Tratamento 180 196	metformina 850mg
+T6	Tratamento 207 215	acarbose
+T7	Tratamento 227 241	glicazida 60mg
+T8	Tratamento 253 261	insulina
+T9	Problema 277 280	HAS
+T10	Tratamento 302 316	losartana 50mg
+T11	Tratamento 324 332	digoxina
+T12	Tratamento 346 359	carvedilol 25
+T13	Tratamento 367 371	HCTZ
+T14	Problema 373 377	DSLP
+T15	Tratamento 388 400	sinvastatina
+T16	Tratamento 402 409	marevan
+T17	Problema 472 480	dispnéia
+T18	Problema 482 485	DPN
+T19	Problema 488 497	ortopneia
+T20	Problema 499 510	palpitações
+T21	Problema 513 520	sincope
+T22	Problema 551 558	afebril
+T23	Teste 560 562	fc
+T24	Teste 567 570	so2
+T25	Teste 576 578	pa
+T26	Problema 615 617	RA
+T27	Problema 619 632	BC arritmicas
+T28	Problema 637 639	SS
+T29	Problema 690 693	VCM
+T30	Problema 695 699;704 709	MMII edema
+T31	Teste 733 739	Exames
+T32	Teste 743 749	Holter
+T33	Teste 776 778	Cr
+T34	Teste 787 791	glic
+T35	Teste 801 806	ureia
+T36	Teste 814 817	CPK
+T37	Teste 825 837	Triglerideos
+T38	Teste 847 850	HDL
+T39	Teste 859 861	CT
+T40	Teste 871 874	LDL
+T41	Teste 883 884	K
+T42	Teste 892 895	RNI
+T43	Teste 906 922	Microalbuminúria
+T44	Teste 934 948	Ecocardiograma
+T45	Problema 951 1015	ventrículo esquerdo com hipertrofia concentrica de grau discreto
+T46	Problema 1047 1081	aumento moderado de átrio esquerdo
+T47	Problema 1083 1129	calcificação mitral e aórtica com refluxo leve
+T48	Problema 1137 1139	FA
+T49	Teste 1142 1144	PA
+T50	Teste 1155 1156	P
+T51	Problema 1163 1181	bulhas arritimicas
+T52	Problema 1203 1209	sopros
+T53	Problema 1242 1257	visceromegalias
+T54	Problema 1263 1282	alterações nos MMII
+T55	Tratamento 1300 1322	sinvastatina para 40mg
+T56	Anatomia 1212 1219	Abdomen
+T57	Anatomia 644 647	Abd
+T58	Anatomia 695 699	MMII
+T59	Anatomia 711 723	panturrilhas
+T60	Anatomia 951 970	ventrículo esquerdo
+T61	Anatomia 1067 1081	átrio esquerdo
+T62	Anatomia 1096 1102	mitral
+T63	Anatomia 1105 1112	aórtica
+T64	Anatomia 1278 1282	MMII
+T1	Problema 63 66	HAS
+T2	Problema 70 74	Gota
+T3	Problema 78 81	DAC
+T4	Problema 84 87	IAM
+T5	Tratamento 90 93	ATC
+T6	Problema 103 118	angina instavel
+T7	Teste 123 137	Ecocardiograma
+T8	Problema 155 197	comprometimento difuso do VE grau moderado
+T9	Problema 199 216	insuf Mi discreta
+T10	Problema 218 236	insuf Tri discreta
+T11	Problema 238 266	hipetensao pulmonar discreta
+T12	Problema 285 314	fraqueza intermitente em MMII
+T13	Problema 328 335	tontura
+T14	Problema 337 352	turvação visual
+T15	Problema 355 368	epigastralgia
+T16	Problema 375 387	dor toracica
+T17	Problema 401 409	dispneia
+T18	Problema 417 420	DPN
+T19	Problema 427 434	sincope
+T20	Problema 442 455	edema de MMII
+T21	Problema 479 516	queixas urinarias e gastrointestinais
+T22	Teste 556 567	Laboratorio
+T23	Teste 568 570	Cr
+T24	Teste 577 584	glicose
+T25	Teste 590 595	ureia
+T26	Teste 601 604	CPK
+T27	Teste 611 622	acido urico
+T28	Teste 629 631	TG
+T29	Teste 638 641	TGP
+T30	Teste 647 650	HDL
+T31	Teste 656 658	Na
+T32	Teste 665 668	TGO
+T33	Teste 674 676	CT
+T34	Teste 683 686	LDL
+T35	Teste 692 693	K
+T36	Teste 700 702	HB
+T37	Teste 710 720	leucocitos
+T38	Teste 728 737	plaquetas
+T39	Teste 749 768	Albumina/Cr isolada
+T40	Teste 781 784	CKD
+T41	Tratamento 866 882	alopurinol 150mg
+T42	Tratamento 889 903	anlodipino 5mg
+T43	Tratamento 912 926	enalapril 10mg
+T44	Tratamento 936 949	selozok 100mg
+T45	Tratamento 956 965	AAS 100mg
+T46	Tratamento 972 988	clopidogrel 75mg
+T47	Tratamento 995 1012	sinvastatina 40mg
+T48	Tratamento 1019 1033	colecalciferol
+T49	Teste 1056 1061	exame
+T50	Teste 1063 1065	PA
+T51	Teste 1080 1082	FC
+T52	Problema 1098 1100	SS
+T53	Problema 1127 1129	RA
+T54	Problema 1131 1156	MMII edema +/IV bilateral
+T55	Tratamento 1173 1183	anlodipino
+T56	Tratamento 1213 1224	clopidogrel
+T57	Tratamento 1235 1252	demais medicações
+T58	Teste 1297 1303	exames
+T59	Problema 1358 1361	HAS
+T60	Problema 1364 1368	Gota
+T61	Problema 1371 1374	DAC
+T62	Problema 1377 1380	IAM
+T63	Tratamento 1383 1386	ATC
+T64	Problema 1396 1411	angina instavel
+T65	Problema 524 533	tabagismo
+T68	Anatomia 181 183	VE
+T69	Anatomia 205 207	Mi
+T70	Anatomia 224 227	Tri
+T71	Anatomia 249 257	pulmonar
+T72	Anatomia 310 314	MMII
+T73	Anatomia 379 387	toracica
+T74	Anatomia 451 455	MMII
+T75	Anatomia 487 496	urinarias
+T76	Anatomia 499 516	gastrointestinais
+T66	Anatomia 1131 1135	MMII
+T1	Problema 74 81	queixas
+T2	Problema 95 103	dispneia
+T3	Problema 105 116	palpitações
+T4	Problema 118 130	dor toracica
+T5	Problema 161 174	Edema matinal
+T6	Problema 205 239	cardiomiopatia dilatada idiopatica
+T7	Problema 242 259	fibrilação atrial
+T8	Problema 262 274	Comorbidades
+T9	Problema 276 279	HAS
+T10	Problema 281 283	DM
+T11	Problema 286 290	gota
+T12	Tratamento 310 325	furosemida 40mg
+T13	Tratamento 339 354	digoxina 0,25mg
+T14	Tratamento 365 380	carvedilol 25mg
+T15	Tratamento 391 406	monocordil 20mg
+T16	Tratamento 417 433	hidralazina 25mg
+T17	Tratamento 444 460	alopurinol 300mg
+T18	Tratamento 471 487	colchicina 0,5mg
+T19	Problema 492 495	dor
+T20	Tratamento 497 508	marevan 5mg
+T21	Tratamento 553 569	metformina 850mg
+T22	Tratamento 618 629	transplante
+T23	Teste 663 667	CATE
+T24	Problema 703 721	doença coronariana
+T25	Problema 737 756	insuficiência renal
+T26	Tratamento 776 808	Herniorrafia de parede abdominal
+T27	Problema 810 837	sangramento retroperitoneal
+T28	Problema 842 861	discrasia sanguinea
+T29	Problema 885 894	tabagismo
+T30	Problema 897 905	etilismo
+T31	Problema 907 917	sedentário
+T32	Teste 1022 1028	Exames
+T33	Problema 1030 1050	Leucocitose discreta
+T34	Teste 1062 1073	segmentados
+T35	Teste 1080 1085	Ureia
+T36	Teste 1091 1093	Cr
+T37	Teste 1100 1111	Acido urico
+T38	Teste 1118 1123	Sodio
+T39	Teste 1130 1131	K
+T40	Teste 1139 1152	TFG (CKD-EPI)
+T41	Problema 134 159	outros sintomas cardíacos
+T42	Anatomia 792 808	parede abdominal
+T43	Anatomia 122 130	toracica
+T44	Anatomia 150 159	cardíacos
+T45	Anatomia 253 259	atrial
+T46	Anatomia 710 721	coronariana
+T47	Anatomia 751 756	renal
+T48	Anatomia 822 837	retroperitoneal
+T1	Tratamento 55 65	tratamento
+T2	Problema 71 85	ICC diastólica
+T3	Problema 174 205	dispneia aos moderados esforços
+T4	Problema 212 240	disnpneía paroxística notrna
+T5	Problema 279 315	precordialgia aos moderados esforços
+T6	Problema 322 341	episódios anginosos
+T7	Problema 348 362	outras queixas
+T10	Teste 449 451	EF
+T11	Teste 453 455	PA
+T12	Teste 475 477	PA
+T13	Teste 521 523	FC
+T14	Problema 541 543	RA
+T15	Problema 564 570	sopros
+T16	Problema 576 596	hipofonese de bulhas
+T17	Problema 601 607;649 655	abdome massas
+T18	Problema 659 674	visceromegalias
+T19	Teste 675 683	Giordano
+T20	Problema 686 690;695 700	MMII edema
+T21	Teste 702 708	ex lab
+T22	Teste 723 725	Cr
+T23	Teste 733 735	Ur
+T24	Teste 742 744	Na
+T25	Teste 753 754	K
+T26	Teste 761 766	HBa1C
+T27	Teste 775 787	Clearence Cr
+T28	Teste 794 801	CKD-EPI
+T29	Teste 808 812	MDRD
+T30	Problema 822 845	ICC diastólica classe I
+T31	Problema 848 851	HAS
+T32	Problema 854 858	DMII
+T33	Problema 861 873	Dislipidemia
+T34	Tratamento 891 900	medicação
+T35	Teste 934 943	Ecocardio
+T36	Teste 957 962	exame
+T37	Problema 965 982	ICC classe I NYHA
+T38	Problema 983 986	HAS
+T39	Tratamento 998 1012	atenolol 100mg
+T40	Tratamento 1020 1029	AAS 100mg
+T41	Tratamento 1037 1052	furosemida 40mg
+T42	Tratamento 1064 1078	losartana 50mg
+T43	Tratamento 1092 1108	metformina 850mg
+T44	Problema 1119 1131	Dislipidemia
+T45	Tratamento 1144 1161	sinvastatina 20mg
+T46	Tratamento 150 160	tratamento
+T47	Anatomia 395 407	supra púbica
+T48	Anatomia 601 607	abdome
+T49	Anatomia 686 690	MMII
+T8	Problema 371 378	disúria
+T9	Problema 391 407	dor supra púbica
+T1	Tratamento 55 65	tratamento
+T2	Problema 106 163;71 85	melhora importante dos sintomas após início do tratamento ICC diastólica
+T3	Problema 177 208	dispneia aos moderados esforços
+T4	Problema 215 243	disnpneía paroxística notrna
+T5	Problema 282 318	precordialgia aos moderados esforços
+T6	Problema 325 344	episódios anginosos
+T7	Problema 351 365	outras queixas
+T8	Teste 380 386	exames
+T9	Teste 392 408	Microalbuminúria
+T10	Teste 429 439	creatinina
+T11	Teste 443 458	US abdome total
+T12	Problema 461 489	rins com alterações tróficas
+T13	Teste 493 496	ECG
+T14	Problema 507 538	isquemia subepicárdica anterior
+T15	Problema 540 593	alteração de repolarização ventricular infero-lateral
+T16	Teste 597 610	Laboratoriais
+T17	Teste 621 622	K
+T18	Teste 629 649	clearence creatinina
+T19	Teste 657 659	EF
+T20	Teste 661 663	PA
+T21	Teste 684 686	PA
+T22	Teste 730 732	FC
+T23	Problema 750 752	RA
+T24	Problema 773 779	sopros
+T25	Problema 785 805	hipofonese de bulhas
+T26	Problema 810 816;858 864	abdome massas
+T27	Problema 868 883	visceromegalias
+T28	Problema 884 888;893 898	MMII edema
+T29	Problema 908 933	ICC diastólica classe III
+T30	Problema 936 939	HAS
+T31	Problema 942 946	DMII
+T32	Problema 949 961	Dislipidemia
+T33	Tratamento 979 988	medicação
+T34	Teste 1010 1030	exames laboratoriais
+T35	Teste 1033 1036	ECG
+T36	Problema 1038 1052	ICC classe III
+T37	Problema 1053 1056	HAS
+T38	Tratamento 1068 1082	atenolol 100mg
+T39	Tratamento 1090 1093	AAS
+T40	Tratamento 1108 1123	furosemida 40mg
+T41	Tratamento 1135 1149	anlodipino 5mg
+T42	Tratamento 1166 1180	losartana 50mg
+T43	Problema 1188 1192	DMII
+T44	Tratamento 1194 1210	metformina 850mg
+T45	Problema 1218 1230	Dislipidemia
+T46	Tratamento 1243 1260	sinvastatina 20mg
+T47	Tratamento 153 163	tratamento
+T48	Anatomia 446 452	abdome
+T49	Anatomia 810 816	abdome
+T50	Anatomia 461 465	rins
+T51	Anatomia 516 538	subepicárdica anterior
+T52	Anatomia 884 888	MMII
+T53	Anatomia 567 593	ventricular infero-lateral
+T1	Tratamento 115 125	Medicações
+T2	Tratamento 137 152	losartana 50 mg
+T3	Tratamento 163 173	AAS 100 mg
+T4	Tratamento 176 185	captopril
+T5	Tratamento 200 223	hidroclorotiazida 25 mg
+T6	Tratamento 236 252	flutamida 250 mg
+T7	Problema 261 273	Comorbidades
+T8	Problema 276 279	HAS
+T9	Problema 281 295	Ca de Prostata
+T10	Teste 342 348	exames
+T11	Problema 392 412	hipertensão arterial
+T12	Problema 457 464	tontura
+T13	Problema 466 474	dispneia
+T14	Problema 476 488	dor no peito
+T15	Problema 490 497	cansaço
+T16	Problema 544 553	Tabagista
+T17	Problema 611 619	etilismo
+T18	Tratamento 658 663	Dieta
+T19	Teste 672 692	Exames laboratoriais
+T20	Teste 703 713	Creatinina
+T21	Teste 728 731	TFG
+T22	Problema 748 765	estádio II de DRC
+T23	Teste 770 786	Glicose em jejum
+T24	Teste 956 968	Glicose TOTG
+T25	Teste 983 994	Eritrocitos
+T26	Teste 1011 1021	Hb glicada
+T27	Teste 1031 1060	Microalbuminuria / creatinina
+T28	Teste 1073 1083	creatinina
+T29	Teste 1087 1090	ETT
+T31	Problema 1218 1238	disfunção diastólica
+T32	Teste 1300 1302	EF
+T33	Teste 1305 1311	Altura
+T34	Teste 1321 1325	Peso
+T35	Teste 1333 1336	IMC
+T36	Teste 1367 1372	Pulso
+T37	Teste 1382 1384	FR
+T38	Problema 1450 1458;1460 1494	pulmonar crepitação em região interscapular
+T39	Teste 1496 1516	Exame cardiovascular
+T40	Problema 1502 1516;1518 1537	cardiovascular Bulhas não audíveis
+T41	Problema 1539 1571	ictus não palpável e não visível
+T42	Problema 1649 1664	visceromegalias
+T43	Problema 1671 1685	HAS controlada
+T44	Tratamento 1690 1699	medicação
+T45	Problema 1700 1719	Síndrome metabólica
+T46	Problema 1721 1724	HAS
+T47	Problema 1725 1738	sd metabolica
+T48	Problema 1739 1750	ca prostata
+T49	Teste 801 806	Ureia
+T50	Teste 819 833	Triglicerideos
+T51	Teste 847 850	HDL
+T52	Teste 864 866	Na
+T53	Teste 882 883	K
+T54	Teste 897 913	Colesterol Total
+T55	Teste 928 942	Colesterol LDL
+T56	Problema 502 516	outras queixas
+T57	Teste 1350 1352	PA
+T59	Anatomia 287 295	Prostata
+T60	Anatomia 1271 1287	Valvas cardíacas
+T58	Anatomia 483 488	peito
+T61	Anatomia 1093 1095	VE
+T62	Anatomia 1502 1516	cardiovascular
+T63	Anatomia 1450 1458	pulmonar
+T64	Anatomia 1481 1494	interscapular
+T65	Anatomia 1573 1582	Abdominal
+T66	Anatomia 1584 1591	Abdomen
+T67	Anatomia 1742 1750	prostata
+T30	Problema 1119 1151	hipertrofia concentrica discreta
+T68	Anatomia 1539 1544	ictus
+T1	Teste 200 206	exames
+T2	Problema 246 266	mudança nos sintomas
+T3	Problema 285 314	dispneia aos mínimos esforços
+T4	Problema 316 319	ICC
+T5	Problema 345 347	TB
+T6	Tratamento 362 372	tratamento
+T7	Tratamento 396 423	cirurgia de ponte de safena
+T8	Problema 460 479	infecção hospitalar
+T9	Tratamento 499 519	transfusão de sangue
+T10	Tratamento 525 538	3 cateterismo
+T11	Tratamento 569 595	cirurgia de apendicectomia
+T12	Tratamento 620 640	ressecção intestinal
+T13	Problema 677 698	disturbio do potassio
+T14	Problema 732 761	DM TIPO 2 INSULINO-DEPENDENTE
+T15	Problema 764 767	IAM
+T16	Tratamento 770 773	RVM
+T17	Problema 788 799	EX-ETILISTA
+T18	Problema 825 837	EX-TABAGISTA
+T19	Tratamento 889 901	Medicamentos
+T20	Tratamento 903 918	Enalapril 2.5mg
+T21	Tratamento 926 935	AAS 100mg
+T22	Tratamento 936 951	Furosemida 40mg
+T23	Tratamento 957 972	Carvedilol 25mg
+T24	Tratamento 980 998	Rosuvastatina 10mg
+T25	Tratamento 999 1014	Doxasozinha 2mg
+T26	Tratamento 1015 1029	Omeprazol 20mg
+T27	Tratamento 1031 1049	Insulina NPH - 20U
+T28	Teste 1052 1063	Laboratório
+T29	Teste 1075 1086	Eritrócitos
+T30	Teste 1092 1103	Hemoglobina
+T31	Teste 1109 1120	Hematocrito
+T32	Teste 1127 1137	Leucocitos
+T33	Teste 1144 1155	Eosinofilos
+T35	Teste 1176 1187	Acido Urico
+T36	Teste 1193 1196	TAP
+T37	Teste 1202 1207	Sodio
+T38	Teste 1212 1220	Potassio
+T39	Teste 1225 1235	Creatinina
+T40	Teste 1241 1252	TFG CKD EPI
+T41	Teste 1273 1280	Glicose
+T42	Teste 1285 1290	Ureia
+T43	Teste 1295 1297	BT
+T44	Teste 1304 1306	BD
+T45	Teste 1313 1315	BI
+T46	Teste 1321 1325	Peso
+T47	Teste 1331 1333	PA
+T48	Teste 1340 1342	FC
+T49	Teste 1346 1350	SpO2
+T50	Tratamento 1385 1400	apresolina 25mg
+T51	Teste 1417 1432	perfil de ferro
+T52	Tratamento 1443 1449	Annita
+T53	Problema 713 721	alergias
+T58	Anatomia 630 640	intestinal
+T34	Teste 1160 1169	Basofilos
+T54	Anatomia 1365 1368	cpp
+T1	Tratamento 84 86	RM
+T3	Tratamento 147 175;177 185	RM COM 2 SAFENAS E 1 MAMARIA CIRURGIA
+T4	Tratamento 177 185	CIRURGIA
+T5	Problema 220 228	DISPNEIA
+T6	Problema 234 241	SINCOPE
+T7	Problema 251 291;325 359;361 386	DOR TIPO QUEIMAÇÃO EM HEMITORAX ESQUERDO SEM RELÇAO COM EXERCICIIOS FISICOS ALIVIANDO COM PARACETAMOL
+T8	Tratamento 375 386	PARACETAMOL
+T9	Problema 395 398	HAS
+T10	Problema 400 402	DM
+T11	Tratamento 405 417	MEDICAMENTOS
+T12	Tratamento 440 450	AAS 100 MG
+T13	Tratamento 452 469	CLOPIDROGEL 75 MG
+T14	Tratamento 471 489	SINVASTATINA 40 MG
+T15	Tratamento 491 506	CAPTOPRIL 25 MG
+T16	Tratamento 508 523	CARVEDILOL 12,5
+T17	Tratamento 525 540	OMEPRAZOL 20 MG
+T18	Tratamento 542 560	PARACETAMOL 500 MG
+T19	Tratamento 563 580	METFORMINA 850 MG
+T20	Tratamento 583 595	INSULINA NPH
+T21	Teste 632 638	EXAMES
+T22	Teste 644 647	ECG
+T23	Problema 650 703	ALTERAÇÃO DA REPOLARIZAÇÃO VENTRICULAR LATERAL E ALTA
+T24	Teste 736 741	SODIO
+T25	Teste 750 760	CREATININA
+T26	Teste 786 793	GLICOSE
+T27	Teste 802 807	UREIA
+T28	Teste 815 823	POTASSIO
+T29	Teste 832 835	HDL
+T30	Teste 843 845	TG
+T31	Teste 854 859	HB1AC
+T32	Teste 870 872	RX
+T33	Problema 879 892	ANORMALIDADES
+T34	Teste 894 906	EXAME FISICO
+T35	Teste 911 913	FC
+T36	Teste 925 927	FR
+T37	Teste 935 937	PA
+T38	Tratamento 1019 1054	CONTROLE DE DIABETES MAL CONTROLADA
+T39	Problema 1130 1133	IRC
+T40	Tratamento 1142 1151	CAPTOPRIL
+T41	Tratamento 1156 1165	LOSARTANA
+T42	Tratamento 769 778	CLEARENCE
+T43	Anatomia 273 291	HEMITORAX ESQUERDO
+T44	Anatomia 677 703	VENTRICULAR LATERAL E ALTA
+T2	Problema 109 145	TOSSE SECA, FREQUENTES, MAIS A NOITE
+T1	Problema 43 46	IAM
+T2	Tratamento 53 56	ATC
+T3	Problema 113 130	QX  CARDIOLOGICAS
+T4	Tratamento 172 178	ENL 10
+T5	Tratamento 189 200	CLOPIDOGREL
+T6	Tratamento 209 212	SVT
+T7	Tratamento 214 217	AAS
+T8	Teste 223 228	EXAME
+T9	Teste 237 240	ECO
+T10	Teste 241 243	TE
+T11	Teste 245 248	LAB
+T12	Problema 162 166	TBGH
+T13	Anatomia 71 73	CD
+T14	Anatomia 117 130	CARDIOLOGICAS
+T1	Problema 43 46	DAC
+T2	Problema 56 87	LESAO  REMANESCENTE    MODERADA
+T3	Problema 100 103	TBG
+T4	Problema 108 124	QX  CARDILOGICAS
+T5	Problema 131 139	MUIALGIA
+T6	Problema 144 165	DESCONFORTO  DE  MMII
+T7	Problema 197 214	INSUF MI DISCRETA
+T8	Problema 244 252	ISQUEMIA
+T9	Teste 261 263	HB
+T10	Teste 270 272	HT
+T11	Teste 279 280	K
+T12	Teste 287 289	NA
+T13	Teste 297 300	CRE
+T14	Teste 305 308	GLI
+T15	Teste 315 316	U
+T16	Teste 326 328	CK
+T17	Teste 334 337	TRI
+T18	Teste 342 345	TGP
+T19	Teste 350 353	HDL
+T20	Teste 359 362	TGO
+T21	Teste 370 373	COL
+T22	Teste 381 384	LDL
+T23	Teste 393 396	LAB
+T24	Tratamento 402 405	SVT
+T25	Teste 409 416	CINTILO
+T26	Tratamento 437 440	SVT
+T27	Tratamento 449 459	ATORVA  20
+T28	Tratamento 463 470	LIPANON
+T29	Tratamento 473 479	MTP 25
+T30	Tratamento 495 501	ENL 10
+T31	Tratamento 509 523	CLOPIDOGREL 75
+T32	Tratamento 528 531	AAS
+T33	Anatomia 161 165	MMII
+T34	Anatomia 190 192	AE
+T35	Anatomia 203 205	MI
+T36	Anatomia 112 124	CARDILOGICAS
+T1	Problema 43 46	DAC
+T2	Problema 71 74	IAM
+T3	Tratamento 82 88	ATC DA
+T4	Problema 94 112	QXC  CARDIOLOGICAS
+T5	Tratamento 117 128	CLOPIDOGREL
+T6	Tratamento 130 136	ATV 20
+T7	Tratamento 138 141	AAS
+T8	Tratamento 144 149	ENL10
+T9	Tratamento 156 163	LIPANON
+T10	Tratamento 164 171	MTP  25
+T11	Tratamento 174 181	ANCORON
+T12	Teste 190 197	CINTILO
+T13	Problema 213 221	ISQUEMIA
+T14	Teste 222 224	TE
+T15	Problema 227 232	INFRA
+T16	Problema 248 251	DAC
+T17	Teste 263 266	LAB
+T18	Tratamento 297 304	ANCORON
+T19	Tratamento 288 294;297 304	CESSAR ANCORON
+T20	Tratamento 314 328	MONOCORDIL  20
+T21	Anatomia 57 59	CD
+T22	Anatomia 86 88	DA
+T23	Anatomia 99 112	CARDIOLOGICAS
+T1	Problema 132 143	PALPITAÇÕES
+T2	Problema 146 168	TAQUICARDIA AO REPOUSO
+T3	Problema 170 180	FA CRONICA
+T4	Tratamento 208 225	ATRIOSEPTOPLASTIA
+T5	Problema 361 379;390 410	VENTRICULO DIREITO DIMENSÕES AUMENTADAS
+T6	Problema 413 456	FUNÇÃO SISTOLICA COMPROMETIDA DISCRETAMENTE
+T7	Problema 458 490	REGURGITAÇÃO TRICUSPIDE DISCRETA
+T8	Problema 517 551	ATRIO ESQUERDO E DIREITO DILATADOS
+T9	Tratamento 555 567	MEDICAMENTOS
+T10	Tratamento 577 589	WARFARIM 5MG
+T11	Tratamento 590 603	SELOKEN 100MG
+T12	Tratamento 604 619	DIGOXINA 0,25MG
+T13	Tratamento 642 662	PENICILINA BENZATINA
+T14	Teste 691 694	RNI
+T15	Teste 757 759	FC
+T16	Teste 764 766	PA
+T17	Tratamento 799 806	SELOKEN
+T18	Tratamento 811 818	SELOZOK
+T19	Tratamento 183 205	2CX DE TROCA DE MITRAL
+T20	Anatomia 517 531	ATRIO ESQUERDO
+T21	Anatomia 199 205	MITRAL
+T22	Anatomia 272 278	MITRAL
+T23	Anatomia 361 379	VENTRICULO DIREITO
+T25	Anatomia 297 299	VE
+T26	Anatomia 471 481	TRICUSPIDE
+T24	Anatomia 517 522;534 541	ATRIO DIREITO
+T1	Tratamento 45 68	2 CX DE TROCA DE MITRAL
+T2	Tratamento 71 88	ATRIOSEPTOPLASTIA
+T3	Problema 98 111	FA PERMANENTE
+T4	Problema 241 290	VENTRICULO DIREITO APRESENTA DIMENSÕES AUMENTADAS
+T5	Problema 293 336	FUNÇÃO SISTOLICA COMPROMETIDA DISCRETAMENTE
+T6	Problema 338 370	REGURGITAÇÃO TRICUSPIDE DISCRETA
+T7	Problema 397 431	ATRIO ESQUERDO E DIREITO DILATADOS
+T8	Tratamento 436 448	MEDICAMENTOS
+T9	Tratamento 457 469	WARFARIM 5MG
+T10	Tratamento 470 483	SELOKEN 100MG
+T11	Problema 540 548	SINTOMAS
+T12	Teste 604 609	EXAME
+T13	Problema 663 665	RA
+T14	Problema 667 691	RITMO CARDÍACO IRREGULAR
+T15	Problema 728 745	ESTALIDO METÁLICO
+T16	Teste 750 752	FC
+T17	Teste 757 759	PA
+T18	Tratamento 792 799	SELOKEM
+T19	Problema 555 570	INTERCORRÊNCIAS
+T20	Anatomia 397 411	ATRIO ESQUERDO
+T21	Anatomia 62 68	MITRAL
+T22	Anatomia 152 158	MITRAL
+T23	Anatomia 177 179	VE
+T24	Anatomia 241 259	VENTRICULO DIREITO
+T25	Anatomia 351 361	TRICUSPIDE
+T26	Anatomia 673 681	CARDÍACO
+T27	Anatomia 397 402;414 421	ATRIO DIREITO
+T1	Tratamento 45 68	2 CX DE TROCA DE MITRAL
+T2	Tratamento 71 88	ATRIOSEPTOPLASTIA
+T3	Problema 98 111	FA PERMANENTE
+T4	Problema 243 292	VENTRICULO DIREITO APRESENTA DIMENSÕES AUMENTADAS
+T5	Problema 295 338	FUNÇÃO SISTOLICA COMPROMETIDA DISCRETAMENTE
+T6	Problema 340 372	REGURGITAÇÃO TRICUSPIDE DISCRETA
+T7	Problema 399 433	ATRIO ESQUERDO E DIREITO DILATADOS
+T8	Tratamento 438 450	MEDICAMENTOS
+T9	Tratamento 460 472	WARFARIM 5MG
+T10	Tratamento 473 486	SELOKEN 100MG
+T11	Tratamento 494 514	PENICILINA BENZATINA
+T12	Problema 573 589;595 662	DOR INFRAMAMARIA MESMO EM REPOUSO, TIPO FISGADA, CONTINUA, SEM RELAÇÃO COM ATIVIDADE
+T13	Problema 669 677	DISPNEIA
+T14	Problema 681 696	OUTROS SINTOMAS
+T15	Problema 701 715	OUTRAS QUEIXAS
+T16	Teste 733 738	EXAME
+T17	Problema 790 792	RA
+T18	Problema 794 818	RITMO CARDÍACO IRREGULAR
+T19	Teste 880 882	FC
+T20	Teste 886 888	PA
+T21	Tratamento 919 929	MEDICAÇÕES
+T22	Teste 930 944	RAIOX DE TORAX
+T23	Problema 861 878	ESTALIDO METÁLICO
+T24	Anatomia 399 413	ATRIO ESQUERDO
+T25	Anatomia 939 944	TORAX
+T26	Anatomia 62 68	MITRAL
+T27	Anatomia 154 160	MITRAL
+T28	Anatomia 243 261	VENTRICULO DIREITO
+T30	Anatomia 353 363	TRICUSPIDE
+T29	Anatomia 577 589	INFRAMAMARIA
+T31	Anatomia 179 181	VE
+T32	Anatomia 800 808	CARDÍACO
+T33	Anatomia 399 404;416 423	ATRIO DIREITO
+T1	Tratamento 45 68	2 CX DE TROCA DE MITRAL
+T2	Tratamento 71 88	ATRIOSEPTOPLASTIA
+T3	Problema 98 111	FA PERMANENTE
+T5	Problema 243 261;272 292	VENTRICULO DIREITO DIMENSÕES AUMENTADAS
+T6	Problema 340 372	REGURGITAÇÃO TRICUSPIDE DISCRETA
+T7	Problema 399 433	ATRIO ESQUERDO E DIREITO DILATADOS
+T8	Tratamento 438 450	MEDICAMENTOS
+T9	Tratamento 459 471	WARFARIM 5MG
+T10	Tratamento 472 485	SELOKEN 100MG
+T11	Tratamento 493 513	PENICILINA BENZATINA
+T12	Problema 542 550	DISPNEIA
+T13	Problema 554 557	DOR
+T14	Problema 566 577	PALPITAÇÕES
+T15	Problema 593 607	OUTRAS QUEIXAS
+T16	Teste 625 630	EXAME
+T17	Problema 682 684	RA
+T18	Problema 686 710	RITMO CARDÍACO IRREGULAR
+T19	Problema 753 770	ESTALIDO METÁLICO
+T20	Teste 772 774	FC
+T21	Teste 778 780	PA
+T22	Teste 788 790	FC
+T23	Teste 830 839	edocardio
+T24	Anatomia 399 413	ATRIO ESQUERDO
+T25	Anatomia 62 68	MITRAL
+T26	Anatomia 154 160	MITRAL
+T27	Anatomia 179 181	VE
+T28	Anatomia 243 261	VENTRICULO DIREITO
+T29	Anatomia 353 363	TRICUSPIDE
+T30	Anatomia 692 700	CARDÍACO
+T31	Anatomia 399 404;416 423	ATRIO DIREITO
+T4	Problema 295 338	FUNÇÃO SISTOLICA COMPROMETIDA DISCRETAMENTE
+T1	Tratamento 115 134	CIRURGIA BARIÁTRICA
+T2	Problema 152 155	HAS
+T3	Problema 158 170	EX-TABAGISTA
+T4	Problema 197 200	IAM
+T5	Problema 202 210	ETILISMO
+T6	Problema 213 216	ICC
+T7	Tratamento 246 256	MEDICAÇÕES
+T8	Tratamento 259 273	ENALAPRIL 10MG
+T9	Tratamento 282 300	CARVEDILOL 6,25 MG
+T10	Tratamento 309 329	ESPIRONOLACTONA 25MG
+T11	Tratamento 335 350	FUROSEMIDA 40MG
+T12	Tratamento 356 371	MONOCORDIL 20MG
+T13	Teste 380 394	ECOCARDIOGRAMA
+T14	Problema 477 500	REFLUXO MITRAL DISCRETO
+T15	Problema 515 532	FIBRILAÇÃO ATRIAL
+T17	Problema 649 682	EDEMA EM MMII DE LEVE INTENSIDADE
+T18	Problema 689 701	DOR TORÁCICA
+T19	Problema 703 710	SÍNCOPE
+T20	Problema 714 725	PALPITAÇÕES
+T21	Teste 728 730	PA
+T22	Teste 744 746	FC
+T23	Problema 772 774	RA
+T24	Problema 775 787	RC IRREGULAR
+T25	Problema 789 819	SOPRO SISTÓLICO MITRAL 3+ / 6+
+T26	Problema 844 863	EDEMA MMII 1+ / 4+ 
+T27	Teste 864 871	GLICOSE
+T28	Teste 877 882	URÉIA
+T29	Teste 888 898	CREATININA
+T30	Problema 909 912	ICC
+T31	Problema 933 935	FA
+T32	Problema 915 930	INSUF MITRAL 2ª
+T33	Teste 952 955	ECG
+T34	Teste 963 991	ECOCARDIOGRAMA TRANSTORÁCICO
+T35	Tratamento 1000 1018	CARVEDILOL 12,5 MG
+T36	Tratamento 1028 1042	ENALAPRIL 20MG
+T37	Tratamento 1068 1082	ANTICOAGULAÇÃO
+T38	Anatomia 412 414	AE
+T39	Anatomia 420 422	VD
+T40	Anatomia 485 491	MITRAL
+T42	Anatomia 658 662	MMII
+T43	Anatomia 693 701	TORÁCICA
+T41	Anatomia 526 532	ATRIAL
+T44	Anatomia 921 927	MITRAL
+T45	Anatomia 805 811	MITRAL
+T46	Anatomia 850 854	MMII
+T47	Anatomia 448 453	SEPTO
+T48	Anatomia 459 463	PPVE
+T16	Problema 550 587	DISPNEIA AO SUBIR UM LANCE DE ESCADAS
+T1	Problema 109 126;75 104	piora progressiva dispneia aos mínimos esforços
+T2	Problema 128 137	ortopneia
+T3	Problema 139 154	roncos noturnos
+T4	Problema 156 169	edema de MMII
+T5	Problema 196 202;229 249	angina aos mínimos esforços
+T6	Tratamento 251 264	Cx bariátrica
+T7	Problema 314 335	edema agudo de pulmão
+T8	Problema 378 388	hipertenso
+T9	Problema 402 405	ICC
+T10	Problema 407 422	hérnia de hiato
+T11	Tratamento 434 448	enalapril 10mg
+T12	Tratamento 457 474	carvedilol 12,5mg
+T13	Tratamento 483 498	furosemida 40mg
+T14	Tratamento 507 527	espironolactona 25mg
+T15	Tratamento 536 551	apresolina 25mg
+T16	Tratamento 561 576	monocordil 20mg
+T17	Tratamento 585 599	warfarina 50mg
+T18	Problema 622 632	Ex fumante
+T19	Teste 683 689	Eletro
+T20	Problema 702 719	fibrilação atrial
+T21	Problema 721 753	hipertrofia ventricular esquerda
+T22	Problema 755 802	alterações difusas de repolarização ventricular
+T23	Teste 804 818	Ecocardiograma
+T24	Problema 905 940	disfunção sistolica global moderada
+T25	Problema 945 963	hipocinesia difusa
+T26	Problema 976 1025	Aumento das dimensões do atrio direito e esquerdo
+T27	Problema 1027 1056	estenose aortica de grau leve
+T28	Problema 1058 1092	insuficiencia aortica de grau leve
+T29	Problema 1094 1119	insuf mitral de grau leve
+T30	Teste 1159 1170	Cateterismo
+T31	Problema 1185 1214	doença coronariana importante
+T32	Problema 830 885	importante aumento das dimensões do ventriculo esquerdo
+T33	Teste 1215 1226	Laboratorio
+T34	Teste 1238 1248	Creatinina
+T35	Teste 1254 1264	Glic jejum
+T36	Teste 1268 1271	PCR
+T37	Teste 1281 1284	TAP
+T38	Tratamento 1331 1349	compensação da ICC
+T39	Anatomia 1001 1014	atrio direito
+T40	Anatomia 165 169	MMII
+T41	Anatomia 329 335	pulmão
+T42	Anatomia 713 719	atrial
+T44	Anatomia 791 802	ventricular
+T43	Anatomia 866 885	ventriculo esquerdo
+T45	Anatomia 733 753	ventricular esquerda
+T46	Anatomia 1036 1043	aortica
+T47	Anatomia 1072 1079	aortica
+T48	Anatomia 1100 1106	mitral
+T49	Anatomia 1139 1147	pulmonar
+T50	Anatomia 1192 1203	coronariana
+T51	Anatomia 1001 1006;1017 1025	atrio esquerdo
+T1	Problema 79 102	Valva aortica bicúspide
+T2	Teste 114 118	cate
+T3	Tratamento 136 148	Enalapril 10
+T4	Tratamento 159 169	Monocordil
+T5	Tratamento 182 185	FSM
+T6	Tratamento 202 220	Espironolactona 25
+T7	Tratamento 228 241	Apresolina 25
+T8	Tratamento 252 267	Carvedilol 12.5
+T9	Problema 278 286;302 336	Dispnéia progressiva,aos moderados esforços
+T10	Problema 338 381	Ardencia retoresternal aos grandes esforços
+T11	Teste 457 458	P
+T12	Teste 469 471	FR
+T13	Problema 499 509	ruidoa adv
+T14	Problema 520 544	BNFss++ / 6+ FAO e Ao ac
+T15	Teste 547 551	Cate
+T16	Problema 570 595	coronariopatia obstrutiva
+T17	Problema 597 626	VE disfunção de grau moderado
+T18	Problema 628 658	estenose aortica grau moderado
+T19	Teste 431 443	PA (sentado)
+T20	Tratamento 43 59	Cx bariatrica 2x
+T22	Anatomia 85 92	aortica
+T21	Anatomia 347 360	retoresternal
+T23	Anatomia 597 599	VE
+T24	Anatomia 637 644	aortica
+T25	Anatomia 533 536	FAO
+T26	Anatomia 539 544	Ao ac
+T1	Problema 45 67	IC ETIOLOGIA ISQUEMICA
+T2	Problema 70 73	IAM
+T3	Tratamento 94 97	ATC
+T4	Tratamento 100 105	STENT
+T5	Tratamento 112 115	RVM
+T6	Tratamento 153 166	CARVEDILOL 50
+T7	Tratamento 175 184	ROSUVA 10
+T8	Tratamento 187 200	VALSARTAN 320
+T9	Tratamento 203 210	FURO 40
+T10	Tratamento 214 228	APRESOLINA 100
+T11	Tratamento 237 246	ESPIRO 25
+T12	Tratamento 249 256	AAS 100
+T13	Tratamento 259 267	MONOC 20
+T14	Tratamento 276 283	MTF 850
+T15	Tratamento 289 301	LEVOTIROX 50
+T16	Tratamento 304 318	INDAPAMIDA 1,5
+T17	Problema 337 350	PRECORDIALGIA
+T18	Problema 359 388	DISPNEIA AOS GRANDES ESFORÇOS
+T19	Problema 394 407	EDEMA DE MMII
+T20	Tratamento 431 441	MEDICAÇÕES
+T21	Problema 458 482	PERDA DA POTENCIA SEXUAL
+T22	Teste 495 502	CINTILO
+T25	Teste 690 692	PA
+T26	Teste 703 705	FC
+T27	Teste 710 713	SAT
+T28	Problema 764 766	SS
+T29	Problema 785 788	SRA
+T30	Problema 796 800;803 808	MMII EDEMA
+T31	Problema 813 825	IC ISQUEMICA
+T32	Tratamento 839 849	MEDICAÇÕES
+T33	Teste 873 878	ECOTT
+T34	Tratamento 913 923	MONOCORDIL
+T35	Problema 942 950	DISPNEIA
+T36	Tratamento 980 986	CIALIS
+T37	Tratamento 989 995	VIAGRA
+T38	Anatomia 403 407	MMII
+T39	Anatomia 575 614	SEGMENTO MEIO APICAL DA PAREDE ANTERIOR
+T40	Anatomia 617 628	ÁPICE DE VE
+T41	Anatomia 650 670	PAREDE ANTEROSSEPTAL
+T42	Anatomia 796 800	MMII
+T43	Anatomia 789 792	ABD
+T23	Problema 515 670	HIPOPERFUSÃO PERSISTENTE ( FIBROSE ) DE GRANDE EXTENSÃO, NO SEGMENTO MEIO APICAL DA PAREDE ANTERIOR E ÁPICE DE VE, EM GRAU DISCRETO NA PAREDE ANTEROSSEPTAL
+T1	Problema 60 82	IC ETIOLOGIA ISQUEMICA
+T2	Problema 85 88	IAM
+T3	Tratamento 109 120	ATC C STENT
+T4	Tratamento 127 130	RVM
+T5	Tratamento 172 187	CARVEDILOL 25MG
+T6	Tratamento 198 207	ROSUVA 10
+T7	Tratamento 211 224	VALSARTAN 320
+T8	Tratamento 228 235	FURO 40
+T9	Tratamento 238 253	APRESOLINA 50MG
+T10	Tratamento 265 274	ESPIRO 25
+T11	Tratamento 278 285	AAS 100
+T12	Tratamento 289 299	MONOC 20MG
+T13	Tratamento 308 315	MTF 850
+T14	Tratamento 321 333	LEVOTIROX 50
+T15	Tratamento 337 351	INDAPAMIDA 1,5
+T16	Problema 363 395	DISPNEIA PARA MODERADOS ESFORÇOS
+T17	Problema 402 416	DOR PRECORDIAL
+T18	Problema 418 431	EDEMA DE MMII
+T19	Problema 433 442	ORTOPNEIA
+T20	Problema 445 448	DPN
+T21	Teste 453 460	CINTILO
+T22	Problema 473 628	HIPOPERFUSÃO PERSISTENTE ( FIBROSE ) DE GRANDE EXTENSÃO, NO SEGMENTO MEDIOAPICAL DA PAREDE ANTERIOR E ÁPICE DE VE, EM GRAU DISCRETO NA PAREDE ANTEROSSEPTAL
+T23	Problema 724 782	VE ACINESIA ANTERO-SEPTAL E ANTERIOR MEDIO-APICAL E APICAL
+T24	Teste 647 650	ECO
+T25	Teste 786 789	LAB
+T26	Teste 802 803	K
+T27	Teste 809 811	CR
+T28	Teste 818 826	T4 LIVRE
+T29	Teste 846 848	PA
+T30	Teste 857 859	FC
+T31	Teste 863 866	SAT
+T32	Problema 905 907	SS
+T33	Problema 926 929	SRA
+T34	Problema 937 941;944 949	MMII EDEMA
+T35	Problema 954 966	IC ISQUEMICA
+T36	Tratamento 980 990	MEDICAÇÕES
+T37	Teste 1008 1028	EXAMES LABORATORIAIS
+T38	Problema 1060 1091	T4 ACIMA DO VALOR DE REFERENCIA
+T39	Teste 1107 1108	K
+T40	Anatomia 1049 1057	TIREOIDE
+T41	Anatomia 427 431	MMII
+T42	Anatomia 533 572	SEGMENTO MEDIOAPICAL DA PAREDE ANTERIOR
+T43	Anatomia 575 586	ÁPICE DE VE
+T44	Anatomia 608 628	PAREDE ANTEROSSEPTAL
+T45	Anatomia 661 663	AE
+T46	Anatomia 668 670	VD
+T47	Anatomia 724 726	VE
+T51	Anatomia 930 933	ABD
+T52	Anatomia 937 941	MMII
+T53	Anatomia 1101 1106	RENAL
+T54	Anatomia 675 677	SE
+T55	Anatomia 682 684	PP
+T48	Anatomia 736 782	ANTERO-SEPTAL E ANTERIOR MEDIO-APICAL E APICAL
+T1	Problema 60 82	IC ETIOLOGIA ISQUEMICA
+T2	Problema 85 88	IAM
+T3	Tratamento 109 120	ATC C STENT
+T4	Tratamento 127 130	RVM
+T5	Tratamento 172 187	CARVEDILOL 25MG
+T6	Tratamento 198 207	ROSUVA 10
+T7	Tratamento 210 223	VALSARTAN 320
+T8	Tratamento 226 233	FURO 40
+T9	Tratamento 236 251	APRESOLINA 50MG
+T10	Tratamento 262 271	ESPIRO 25
+T11	Tratamento 274 281	AAS 100
+T12	Tratamento 284 294	MONOC 20MG
+T13	Tratamento 303 310	MTF 850
+T14	Tratamento 316 328	LEVOTIROX 50
+T15	Tratamento 331 345	INDAPAMIDA 1,5
+T16	Problema 357 387	DISPNEIA PARA GRANDES ESFORÇOS
+T17	Problema 394 408	DOR PRECORDIAL
+T18	Problema 410 423	EDEMA DE MMII
+T19	Problema 425 434	ORTOPNEIA
+T20	Problema 437 440	DPN
+T21	Teste 444 451	CINTILO
+T22	Problema 464 619	HIPOPERFUSÃO PERSISTENTE ( FIBROSE ) DE GRANDE EXTENSÃO, NO SEGMENTO MEDIOAPICAL DA PAREDE ANTERIOR E ÁPICE DE VE, EM GRAU DISCRETO NA PAREDE ANTEROSSEPTAL
+T23	Teste 638 641	ECO
+T24	Problema 715 773	VE ACINESIA ANTERO-SEPTAL E ANTERIOR MEDIO-APICAL E APICAL
+T25	Teste 779 781	PA
+T26	Teste 790 792	FC
+T27	Teste 796 799	SAT
+T28	Problema 857 860	SRA
+T29	Problema 869 873;876 881	MMII EDEMA
+T30	Problema 886 898	IC ISQUEMICA
+T31	Tratamento 912 922	MEDICAÇÕES
+T32	Teste 940 960	EXAMES LABORATORIAIS
+T33	Teste 963 975	ECOCARDIO TT
+T34	Anatomia 419 423	MMII
+T37	Anatomia 599 619	PAREDE ANTEROSSEPTAL
+T38	Anatomia 652 654	AE
+T39	Anatomia 659 661	VD
+T40	Anatomia 715 717	VE
+T44	Anatomia 869 873	MMII
+T45	Anatomia 861 864	ABD
+T46	Anatomia 666 668	SE
+T47	Anatomia 673 675	PP
+T35	Anatomia 524 577	SEGMENTO MEDIOAPICAL DA PAREDE ANTERIOR E ÁPICE DE VE
+T36	Anatomia 727 773	ANTERO-SEPTAL E ANTERIOR MEDIO-APICAL E APICAL
+T1	Problema 57 76	DOR   RETROESTRENAL
+T2	Problema 80 103	DISPNEIA   AOS ESFORÇOS
+T3	Problema 158 177	HIPOCINESAI  DIFUSA
+T4	Problema 182 207	REGURGITAÇÃO MI  DISCRETA
+T5	Teste 219 228	ECOESTRES
+T6	Problema 245 258	MCP  DILATADA
+T7	Teste 282 289	CINTILO
+T8	Teste 310 314	CATE
+T9	Problema 318 330	HIPOTIROIDEA
+T10	Tratamento 345 350	PURAN
+T11	Anatomia 63 76	RETROESTRENAL
+T12	Anatomia 129 131	AE
+T13	Anatomia 195 197	MI
+T14	Anatomia 123 125	EP
+T1	Problema 56 67	DOR ATIPICA
+T2	Teste 69 76	CINTILO
+T3	Teste 137 141	CATE
+T4	Problema 143 156	TORTUOSIDADES
+T5	Problema 160 199	MIOCSRDIOPATIA   VE   DISCRETA MODERADA
+T6	Problema 246 258	MCP DILATADA
+T7	Teste 275 281	HOLTER
+T8	Tratamento 290 299	CVD  12,5
+T9	Problema 77 112	ISQUEMIA  DISCRETA   P INFERIOR  VE
+T10	Anatomia 98 112	P INFERIOR  VE
+T11	Anatomia 177 179	VE
+T1	Problema 43 56	MCP  DILATADA
+T2	Teste 59 66	CINTILO
+T3	Teste 80 84	CETS
+T4	Problema 91 106	CORONARIOPATIAS
+T5	Teste 116 122	HOLTER
+T6	Problema 124 146	ALTA  DENSIDADE DE ESV
+T7	Problema 180 200	VERTIGEM  ESPORADICA
+T8	Teste 236 239	CVD
+T9	Tratamento 253 262	CVD  12,5
+T10	Tratamento 279 282	AAS
+T11	Tratamento 286 289	SVT
+T1	Problema 134 146	MCP dilatada
+T2	Teste 173 175	TE
+T3	Teste 198 208	ECOESTRESS
+T4	Problema 244 271	FÇAO SISTOLICA COMPROMETIDA
+T5	Problema 272 290	HIPOCINESIA DIFUSA
+T6	Problema 291 306	REG MI DISCRETA
+T7	Problema 307 330	DOR TIPICA AOS ESFORÇOS
+T8	Teste 353 360	CINTILO
+T9	Teste 369 372	T5E
+T10	Teste 398 401	ECG
+T11	Problema 405 413	ISQUEMIA
+T12	Problema 414 455	ISQUEMIA PEQUENA EXTENSAO PAREDE INFERIOR
+T13	Teste 469 489	CATETERISMO CARDIACO
+T14	Problema 502 528	TORTUOSIDADES CORONARIANAS
+T15	Teste 530 536	ECO TT
+T16	Teste 564 567	ECG
+T17	Problema 583 587	ADRV
+T18	Problema 599 609	patologias
+T19	Problema 623 632	tabagismo
+T20	Problema 638 646	etilismo
+T21	Tratamento 707 719	Medicamentos
+T22	Tratamento 728 738	Carvedilol
+T23	Tratamento 740 743	AAS
+T24	Tratamento 745 760	ENALAPRIL 10 MG
+T25	Teste 770 775	EXAME
+T26	Teste 778 780	FC
+T27	Teste 788 790	PA
+T28	Problema 828 831	ARA
+T29	Problema 857 863	EDEMAS
+T30	Tratamento 879 889	CARVEDILOL
+T31	Tratamento 892 901	ENALAPRIL
+T32	Teste 930 936	ECO TT
+T33	Problema 659 674	drogas ilicitas
+T34	Anatomia 238 240	AE
+T35	Anatomia 295 297	MI
+T36	Anatomia 440 455	PAREDE INFERIOR
+T37	Anatomia 516 528	CORONARIANAS
+T38	Anatomia 832 844	PANTURRILHAS
+T39	Anatomia 232 234	EP
+T40	Anatomia 481 489	CARDIACO
+T1	Tratamento 59 66	Cx Ross
+T2	Tratamento 80 125	Valva aórtica biscúspide com refluxo moderado
+T3	Tratamento 134 141	AAS 100
+T4	Tratamento 149 159	selozok 25
+T5	Tratamento 161 173	Enalapril 10
+T6	Problema 194 201	queixas
+T7	Teste 212 227	eco de controle
+T8	Problema 234 242	dispneia
+T11	Problema 271 281	edema mmii
+T12	Problema 294 304	palpitação
+T13	Problema 306 316	Tosee seca
+T14	Teste 325 331	exames
+T15	Teste 332 334	Hb
+T16	Teste 342 346	Leuc
+T17	Teste 355 358	Pla
+T18	Teste 367 369	cr
+T19	Teste 376 378	Ur
+T20	Teste 382 383	K
+T21	Teste 388 401	Haptoglobiina
+T22	Teste 408 426	Cont reticulocitos
+T23	Teste 433 436	LDH
+T24	Problema 495 505	edema mmii
+T25	Teste 508 510	PA
+T26	Teste 525 526	P
+T27	Teste 537 539	FR
+T28	Problema 567 578	ruidosd adv
+T30	Problema 614 631	Ferida operatorio
+T31	Problema 649 654;668 677	torax creptação
+T32	Tratamento 686 693	Cx Ross
+T33	Tratamento 703 713	medicações
+T34	Teste 738 741	lbs
+T35	Teste 751 760	ecocardio
+T37	Anatomia 649 654	torax
+T38	Anatomia 80 93	Valva aórtica
+T39	Anatomia 248 256	toracica
+T40	Anatomia 277 281	mmii
+T36	Anatomia 501 505	mmii
+T41	Anatomia 604 612	FA o e P
+T9	Problema 244 266	dor toracica qdo tosse
+T10	Problema 593 612	ss + / 6 + FA o e P
+T1	Tratamento 54 56	MP
+T2	Problema 76 83	síncope
+T3	Problema 111 113	FA
+T4	Tratamento 117 131	anticoagulação
+T5	Problema 134 149	hipotireoidismo
+T6	Problema 152 164	Ex tabagista
+T7	Teste 184 186	CT
+T8	Tratamento 204 211	marevan
+T9	Tratamento 233 243	medicações
+T10	Teste 252 255	Lab
+T11	Teste 269 271	Cr
+T12	Teste 278 282	Glic
+T13	Teste 287 289	Ur
+T14	Teste 295 298	TGP
+T15	Teste 304 307	TGO
+T16	Teste 313 315	Na
+T17	Teste 322 323	K
+T18	Teste 330 332	CT
+T19	Teste 339 342	TSH
+T20	Teste 350 353	PSA
+T21	Teste 361 364	HDL
+T22	Teste 370 373	LDL
+T23	Teste 380 382	TG
+T24	Teste 388 390	t4
+T25	Problema 542 546;551 556	mmii edema
+T26	Tratamento 604 630	medicações de uso contínuo
+T27	Problema 521 523	ra
+T28	Problema 439 446;461 487	tontura melhora no decorrer do dia
+T29	Anatomia 532 538	abdome
+T30	Anatomia 542 546	mmii
+T1	Problema 58 70	COMORBIDADES
+T2	Problema 74 86	MCP DILATADA
+T3	Problema 89 95	CHAGAS
+T4	Problema 98 101	HAS
+T5	Problema 104 116	DISLIPIDEMIA
+T6	Tratamento 119 130	MARCA-PASSO
+T7	Problema 161 173	EX-TABAGISTA
+T8	Problema 211 234	ICC CLASSE FUNCIONAL II
+T9	Teste 260 263	CAT
+T10	Problema 313 318	EDEMA
+T11	Teste 345 348	CAT
+T12	Teste 429 437	RVP WOOD
+T13	Tratamento 472 484	MEDICAMENTOS
+T14	Tratamento 488 503	ENALAPRIL 10 MG
+T15	Tratamento 529 545	APRESOLINA 25 MG
+T16	Tratamento 566 581	MONOCORDL 20 MG
+T17	Tratamento 614 635	ESPIRONOLACTONA 25 MG
+T18	Tratamento 651 667	FUROSEMIDA 40 MG
+T19	Tratamento 701 717	CARVEDILOL 25 MG
+T20	Tratamento 741 759	SINVASTATINA 20 MG
+T21	Teste 810 823	MONITORIZAÇÃO
+T22	Tratamento 843 854	TRANSPLANTE
+T23	Anatomia 397 405	CARDÍACO
+T1	Problema 58 70	COMORBIDADES
+T2	Problema 74 86	MCP DILATADA
+T3	Problema 89 95	CHAGAS
+T4	Problema 98 101	HAS
+T5	Problema 104 116	DISLIPIDEMIA
+T6	Tratamento 119 130	MARCA-PASSO
+T7	Problema 187 199	EX-TABAGISTA
+T8	Problema 231 243	COMORBIDADES
+T9	Problema 247 259	MCP DILATADA
+T10	Problema 260 266	CHAGAS
+T11	Problema 269 272	HAS
+T12	Problema 275 287	DISLIPIDEMIA
+T13	Tratamento 290 301	MARCA-PASSO
+T14	Problema 358 370	EX-TABAGISTA
+T15	Teste 387 391	CATE
+T16	Teste 471 479	RVP WOOD
+T17	Problema 560 573	EDEMA DE MMII
+T18	Problema 580 593	PRECORDIALGIA
+T19	Tratamento 596 608	MEDICAMENTOS
+T20	Tratamento 612 627	ENALAPRIL 10 MG
+T21	Tratamento 653 669	APRESOLINA 50 MG
+T22	Tratamento 690 705	MONOCORDL 20 MG
+T23	Tratamento 738 759	ESPIRONOLACTONA 25 MG
+T24	Tratamento 774 790	FUROSEMIDA 40 MG
+T25	Tratamento 823 839	CARVEDILOL 25 MG
+T26	Tratamento 862 880	SINVASTATINA 20 MG
+T27	Teste 894 906	Exame Físico
+T28	Teste 907 909	PA
+T29	Teste 921 923	FC
+T30	Teste 931 933	FR
+T33	Problema 1027 1029	RA
+T34	Teste 1053 1061	PIPAROTE
+T35	Problema 1064 1085	Edema em MMII ++/++++
+T36	Problema 1090 1099	IC CF III
+T37	Tratamento 1112 1125	FSM PARA 80MG
+T38	Anatomia 439 447	CARDÍACO
+T39	Anatomia 569 573	MMII
+T42	Anatomia 1030 1033	ABD
+T43	Anatomia 1073 1077	MMII
+T40	Anatomia 957 972	FOCO TRICUSPIDE
+T41	Anatomia 988 999	FOCO MITRLA
+T31	Problema 951 980	SS EM FOCO TRICUSPIDE 3+ / 6+
+T32	Problema 982 1007	SS EM FOCO MITRLA 2+ / 6+
+T1	Problema 43 55	COMORBIDADES
+T2	Problema 59 71	MCP DILATADA
+T3	Problema 74 80	CHAGAS
+T4	Problema 83 86	HAS
+T5	Problema 88 100	DISLIPIDEMIA
+T6	Tratamento 117 128	MARCA-PASSO
+T7	Problema 170 182	EX-TABAGISTA
+T8	Teste 216 220	CATE
+T9	Teste 300 308	RVP WOOD
+T10	Tratamento 343 355	MEDICAMENTOS
+T11	Tratamento 359 375	APRESOLINA 50 MG
+T12	Tratamento 398 413	MONOCORDL 20 MG
+T13	Tratamento 446 467	ESPIRONOLACTONA 25 MG
+T14	Tratamento 482 498	FUROSEMIDA 40 MG
+T15	Tratamento 531 547	CARVEDILOL 25 MG
+T16	Tratamento 570 588	SINVASTATINA 20 MG
+T17	Teste 602 612	EXAMES LAB
+T18	Teste 614 619	CREAT
+T19	Teste 627 629	UR
+T20	Teste 636 637	K
+T21	Problema 650 657	QUEIXSA
+T22	Teste 664 666	PA
+T23	Teste 677 679	FC
+T24	Tratamento 725 733	ESPIRONO
+T25	Tratamento 742 746	FURO
+T26	Anatomia 268 276	CARDÍACO
+T27	Anatomia 703 707	MMII
+T28	Anatomia 693 696	CPP
+T1	Tratamento 47 58	TX CARDIACO
+T2	Tratamento 115 130	EVEROLIMUS 0,75
+T3	Tratamento 140 151	AZATIOPRINA
+T4	Tratamento 162 177	PREDNISONA 20MG
+T5	Tratamento 191 195	FURO
+T6	Tratamento 198 201	AAS
+T7	Tratamento 204 209	SINVA
+T8	Problema 218 225	QUEIXAS
+T9	Problema 234 254	QUEIMAÇÃO NAS PERNAS
+T10	Teste 270 272	PA
+T11	Teste 281 283	FC
+T12	Problema 308 312;317 322	MMII EDEMA
+T13	Tratamento 332 343	TX CARDIACO
+T14	Teste 374 381	BIOPSIA
+T15	Teste 383 386	ECO
+T16	Teste 389 392	LAB
+T17	Teste 70 84	ULTIMA BIOPSIA
+T18	Anatomia 50 58	CARDIACO
+T19	Anatomia 248 254	PERNAS
+T20	Anatomia 308 312	MMII
+T21	Anatomia 335 343	CARDIACO
+T22	Anatomia 298 301	CPP
+T1	Tratamento 63 74	Tx cardíaco
+T2	Problema 88 112	Miocardiopatia chagásica
+T3	Problema 115 118	IRC
+T4	Tratamento 166 168	HD
+T5	Teste 190 214	Cateterismo hemodinamico
+T6	Tratamento 240 251	Marca-passo
+T7	Problema 265 268	HAS
+T8	Problema 272 284	Dislipidemia
+T9	Problema 288 300	Ex-tabagista
+T10	Problema 337 340	IRC
+T11	Tratamento 343 355	Medicamentos
+T12	Tratamento 357 372	furosemida 40mg
+T13	Tratamento 383 399	azatioprina 50mg
+T14	Tratamento 408 423	prednisona 20mg
+T15	Tratamento 426 443	everolimus 0,75mg
+T16	Problema 458 465	QUEIXAS
+T17	Problema 477 495	hipocorado 2+ / 4+
+T18	Problema 507 514	afebril
+T19	Teste 515 517	PA
+T20	Teste 529 531	FC
+T21	Problema 547 549	SS
+T22	Problema 550 553;555 587	CPP MV+ bilateral, REDUZIDO EM BASES
+T23	Problema 615 618	VCM
+T24	Problema 588 591;622 638	ABD massas palpáveis
+T25	Problema 639 643;645 658	MMII edema 2+ / 4+
+T26	Tratamento 670 681	TX CARDIACO
+T27	Teste 695 707	ECOCARDIO TT
+T28	Tratamento 715 728	PDN PARA 10MG
+T29	Tratamento 743 757	CILOSPORINA 50
+T30	Anatomia 66 74	cardíaco
+T31	Anatomia 588 591	ABD
+T32	Anatomia 639 643	MMII
+T33	Anatomia 673 681	CARDIACO
+T34	Anatomia 550 553	CPP
+T1	Teste 161 164	RNI
+T2	Problema 174 195	SINAIS DE SANGRAMENTO
+T3	Tratamento 208 211	ATB
+T4	Tratamento 234 243	MEDICAÇÃO
+T5	Problema 354 365	SANGRAMENTO
+T1	Problema 48 65	qx  cardiologicas
+T2	Problema 75 78	pnm
+T3	Problema 86 107	dor difusa pelo corpo
+T4	Problema 112 123	inapetencia
+T5	Tratamento 127 150	protese valvar metalica
+T6	Problema 155 168	estenpose  ao
+T7	Tratamento 173 180	marevan
+T8	Teste 217 220	rni
+T9	Tratamento 225 232	enl  20
+T10	Tratamento 240 246	atl 50
+T11	Tratamento 253 276	espironolac]tona  25 mg
+T12	Tratamento 282 292	svt  20 mg
+T13	Anatomia 102 107	corpo
+T14	Anatomia 52 65	cardiologicas
+T15	Anatomia 166 168	ao
+T1	Tratamento 43 61	PROTESE  VALVAR MI
+T2	Tratamento 73 80	MAREVAN
+T3	Tratamento 83 91	ENL   20
+T4	Tratamento 99 105	ATL 50
+T5	Tratamento 114 136	ESPIRONOLACTONA  25 MG
+T6	Tratamento 143 153	SVT  20 MG
+T7	Problema 163 180	QX  CARDIOLOGICAS
+T8	Problema 217 246	VE  REMODELAMENTO CONCENTRICO
+T9	Problema 248 269	AE  E AD   AUMENTADOS
+T10	Problema 299 315	REFLUXO DISCRETO
+T11	Problema 318 365	DUPLA  LESAO MI  COM ESTENOSE E INSUF MODERADAS
+T12	Problema 368 401	INSUF TRI MODERADA  A  IMPORTANTE
+T13	Problema 405 425	HIPERTENSAO PULMONAR
+T14	Tratamento 427 435	CONTROLE
+T15	Tratamento 453 456	ACO
+T16	Anatomia 59 61	MI
+T22	Anatomia 374 377	TRI
+T23	Anatomia 417 425	PULMONAR
+T21	Anatomia 331 333	MI
+T20	Anatomia 254 256	AD
+T19	Anatomia 248 250	AE
+T18	Anatomia 217 219	VE
+T17	Anatomia 209 211	AE
+T24	Anatomia 167 180	CARDIOLOGICAS
+T25	Anatomia 201 203	EP
+T1	Tratamento 82 94	Enalapril 10
+T2	Tratamento 111 122	Atenolol 50
+T3	Tratamento 138 156	Espironolactona 25
+T4	Tratamento 164 179	Sinvastatina 20
+T5	Tratamento 192 202	Calcio 500
+T6	Tratamento 210 219	Marevan 5
+T7	Tratamento 235 247	Trazodona 25
+T8	Problema 254 272	Dispnia esporadica
+T9	Problema 274 293	edema mmii eventual
+T10	Problema 299 309	palpitação
+T13	Tratamento 362 373	paracetamol
+T14	Teste 375 378	Lab
+T15	Teste 391 397	Hbglic
+T16	Teste 404 407	TSH
+T17	Teste 414 416	Hb
+T18	Teste 423 425	VG
+T19	Teste 430 435	leuco
+T20	Teste 442 446	plaq
+T21	Teste 455 462	Urina I
+T22	Teste 468 469	K
+T23	Teste 475 477	Cr
+T24	Teste 483 486	Gli
+T25	Teste 491 492	U
+T26	Teste 497 500	Tri
+T27	Teste 505 511	HDL- C
+T28	Teste 516 520	ColT
+T29	Teste 526 532	LDL- C
+T30	Teste 537 546	Ecocardio
+T31	Problema 592 595;607 618	VMi calcificada
+T32	Problema 592 595;620 636	VMi refluxo discreto
+T33	Problema 638 675	VAo protese metalica com espessamento
+T34	Problema 638 641;679 695	VAo relfuxo discreto
+T35	Problema 740 744;747 763	VTri refluxo discreto
+T36	Problema 781 798	VP refluxo minimo
+T37	Problema 800 816	VE hipertrofiado
+T38	Teste 836 850	PA ( sentada )
+T39	Problema 901 920	ruidos adsventicios
+T40	Problema 935 948	ss++ / 6+ FAo
+T41	Problema 951 960	Mi ( +/6+
+T42	Problema 1061 1082	Disfunbção diastolica
+T43	Tratamento 1096 1111	Espironolactona
+T44	Tratamento 1162 1174	Omeprazol 20
+T45	Teste 1200 1203	lab
+T46	Tratamento 43 67	Protese Metalica Aortica
+T47	Problema 1004 1014	edema mmii
+T48	Teste 864 865	P
+T49	Tratamento 1119 1141	Sinvastatina para 10mg
+T51	Anatomia 60 67	Aortica
+T52	Anatomia 280 284	mmii
+T53	Anatomia 315 323	toracica
+T54	Anatomia 559 561	AE
+T55	Anatomia 800 802	VE
+T50	Anatomia 1010 1014	mmii
+T56	Anatomia 592 595	VMi
+T57	Anatomia 638 641	VAo
+T58	Anatomia 740 744	VTri
+T59	Anatomia 781 783	VP
+T60	Anatomia 1036 1043	AOrtoca
+T61	Anatomia 951 953	Mi
+T62	Anatomia 945 948	FAo
+T12	Problema 311 344;349 374	dor toracica quando epigastralgia melhoram com paracetamol.
+T1	Problema 107 119	DÇ DE CHAGAS
+T2	Problema 122 126	BAVT
+T3	Tratamento 129 152	MARCA-PASSO DUPLACAMARA
+T4	Problema 243 251	DISPNEIA
+T5	Problema 258 267	ORTOPNEIA
+T6	Problema 274 277	DPN
+T7	Problema 283 297	OUTRAS QUEIXAS
+T8	Problema 311 314	HAS
+T9	Problema 316 318	DM
+T10	Problema 320 332	DISLIPIDEMIA
+T11	Problema 335 349	TIREOIDOPATIAS
+T12	Tratamento 403 442	CX DE APENDICITE E HERNIAS PARAMEDIANAS
+T13	Tratamento 469 484	METOPROLOL 50MG
+T14	Tratamento 493 508	ENALAPRIL 10 MG
+T15	Tratamento 517 528	ESPIRONO 25
+T16	Tratamento 529 535	SVT 20
+T17	Teste 536 546	EXAMES LAB
+T18	Teste 554 559	CREAT
+T19	Teste 563 565	UR
+T20	Teste 570 573	GLI
+T21	Teste 578 580	TG
+T22	Teste 585 588	HDL
+T23	Teste 593 595	CT
+T24	Teste 601 604	LDL
+T25	Teste 609 611	Na
+T26	Teste 617 618	K
+T27	Teste 624 626	Hb
+T28	Teste 633 635	Ht
+T29	Teste 641 645	LEUC
+T30	Teste 651 653	EF
+T31	Teste 687 689	PA
+T32	Teste 702 703	P
+T33	Problema 720 737	TURGÊNCIA JUGULAR
+T34	Problema 738 784	ICTUS PALPÁVEL EM 7º EIC EM LINHA HEMIAXILAR E
+T35	Problema 794 796	SS
+T36	Problema 806 814;819 829	PULMONAR ALTERAÇÕES
+T37	Problema 852 865	EDEMA EM MMII
+T38	Problema 895 905	DÇA CHAGAS
+T39	Tratamento 918 928	MEDICAÇÕES
+T40	Teste 938 947	ECOCARDIO
+T41	Anatomia 831 837	ABDOME
+T42	Anatomia 738 743	ICTUS
+T43	Anatomia 806 814	PULMONAR
+T44	Anatomia 861 865	MMII
+T47	Anatomia 730 737	JUGULAR
+T48	Anatomia 430 442	PARAMEDIANAS
+T45	Anatomia 756 781	7º EIC EM LINHA HEMIAXILA
+T1	Problema 49 56	queixas
+T2	Problema 59 65	chagas
+T3	Tratamento 198 210	medicamentos
+T4	Tratamento 235 250	mp camara dupla
+T5	Anatomia 315 326	ventricular
+T1	Problema 47 54	queixas
+T2	Teste 77 102	avaliação exclusiva de mp
+T3	Tratamento 105 120	mp camara-dupla
+T1	Problema 59 71	COMORBIDADES
+T2	Teste 81 106	avaliação exclusiva de mp
+T3	Tratamento 109 124	mp camara-dupla
+T1	Tratamento 43 72	ABLAÇÃO DE TAQUICARDIA ATRIAL
+T2	Problema 99 102	HAS
+T3	Problema 109 111	DM
+T4	Problema 113 117	DLPD
+T5	Problema 119 128	TABAGISMO
+T6	Problema 130 151	ALERGIA MEDICAMENTOSA
+T7	Teste 153 164	CATETERISMO
+T8	Problema 181 195	CORONARIOPATIA
+T9	Tratamento 208 222	ATENOLOL 100MG
+T10	Tratamento 231 245	DILTIAZEN 60MG
+T11	Tratamento 254 268	ENALAPRIL 10MG
+T12	Tratamento 277 287	HCTZ  25MG
+T13	Tratamento 289 300	MAREVAN 5MG
+T14	Teste 302 308	HOLTER
+T15	Problema 325 391	EV E ESV RARAS COM EPISODIOS NAO SUSTENTADOS DE TAQUICARDIA ATRIAL
+T16	Problema 408 416	SINTOMAS
+T17	Tratamento 465 475	MEDICAÇÕES
+T18	Problema 494 505	PALPITAÇÕES
+T19	Problema 606 616	HIPOTENSAO
+T20	Teste 642 644	PA
+T21	Teste 659 661	FC
+T22	Problema 703 708	SOPRO
+T23	Problema 727 729	RA
+T24	Tratamento 735 744	MEDICAÇÃO
+T25	Teste 768 774	HOLTER
+T26	Teste 777 786	ECOCARDIO
+T27	Problema 514 543;549 568	DISPNEIA AOS GRANDES ESFORCOS MELHORA COM REPOUSO
+T28	Problema 625 633	CEFALEIA
+T29	Anatomia 66 72	ATRIAL
+T30	Anatomia 385 390	ATRIA
+T31	Anatomia 681 688	CORAÇÃO
+T32	Anatomia 710 716	PULMAO
+T1	Problema 59 71	Comorbidades
+T2	Problema 73 76	HAS
+T3	Tratamento 78 90	Medicamentos
+T4	Tratamento 91 105	atenolol 100mg
+T5	Tratamento 117 131	diltiazen 60mg
+T6	Tratamento 143 157	Enalapril 10mg
+T7	Tratamento 169 178	HCTZ 25mg
+T8	Tratamento 182 193	Marevan 5mg
+T9	Tratamento 204 215	02 ablações
+T10	Problema 234 245	PALPITAÇÕES
+T11	Problema 250 268	taquicardia atrial
+T12	Problema 287 326	palpitações quando faz grandes esforços
+T13	Problema 329 342;347 375	dor de cabeça melhora com analgésico comum
+T14	Tratamento 359 375	analgésico comum
+T15	Teste 399 406	pressão
+T16	Teste 443 445	FC
+T17	Problema 451 469	Edema discreto mmi
+T18	Anatomia 336 342	cabeça
+T20	Anatomia 466 469	mmi
+T21	Anatomia 480 488	pulmonar
+T22	Anatomia 491 499	cardiaca
+T19	Anatomia 262 268	atrial
+T1	Problema 60 63	HAS
+T2	Problema 66 95	ABLAÇÃO DE TAQUICARDIA ATRIAL
+T3	Teste 123 134	CATETERISMO
+T4	Problema 151 165	CORONARIOPATIA
+T5	Tratamento 193 207	ATENOLOL 100MG
+T6	Tratamento 216 230	DILTIAZEN 60MG
+T7	Tratamento 237 251	ENALAPRIL 10MG
+T8	Tratamento 260 269	HCTZ 25MG
+T9	Tratamento 271 284	MAREVAN 7,5MG
+T10	Teste 351 357	exames
+T11	Teste 359 362	Lab
+T12	Teste 372 374	PU
+T13	Teste 380 382	HG
+T14	Teste 388 393	Hb1AC
+T15	Teste 399 401	Cr
+T16	Teste 408 411	HDL
+T17	Teste 417 419	Ur
+T18	Teste 425 427	TG
+T19	Teste 433 436	LDL
+T20	Teste 443 447	Glic
+T21	Teste 453 455	CT
+T22	Teste 462 464	AU
+T23	Teste 471 474	T4l
+T24	Teste 482 485	TSH
+T25	Teste 493 502	PSA total
+T26	Teste 508 514	Holter
+T27	Teste 532 535	ETT
+T28	Problema 562 589	Disfunção diastólica grau I
+T29	Teste 624 626	FC
+T30	Teste 631 633	PA
+T31	Problema 648 650	ss
+T32	Tratamento 706 713	marevan
+T33	Tratamento 715 734	demais medicamentos
+T35	Anatomia 545 547	AE
+T34	Anatomia 89 95	ATRIAL
+T1	Problema 66 76;85 96	PALPITAÇÃO TRÊS CRISES
+T2	Problema 233 241	DISPNEIA
+T3	Problema 243 270	DOR RETROESTERNAL EM APERTO
+T4	Problema 273 279	NÁUSEA
+T5	Problema 283 311	DISPNEIA AOS MÉDIOS ESFORÇOS
+T6	Problema 325 345	QUEIMAÇÃO NO PESCOÇO
+T7	Problema 347 350	HAS
+T8	Tratamento 361 375	ATENOLOL 25 MG
+T9	Problema 396 404	GASTRITE
+T10	Tratamento 415 426	DOMPERIDONA
+T11	Tratamento 429 439	RANITIDINA
+T12	Problema 441 453	EX-TABAGISTA
+T13	Teste 492 501	ECOCARDIO
+T14	Teste 547 561	ECG DE REPOUSO
+T15	Problema 572 613	TAQUICARDIA PAROXÍSTICA SUPRA VENTRICULAR
+T16	Teste 615 617	FC
+T17	Teste 627 629	PA
+T18	Problema 696 698	RA
+T19	Problema 726 745	MMII COM EDEMA +/4+
+T20	Teste 763 766	ECG
+T22	Anatomia 247 260	RETROESTERNAL
+T23	Anatomia 338 345	PESCOÇO
+T24	Anatomia 654 662	PULMONAR
+T25	Anatomia 709 717	CARDÍACA
+T26	Anatomia 726 730	MMII
+T1	Problema 54 57	HAS
+T2	Problema 61 75	ULCERA PEPTICA
+T3	Tratamento 84 97	ATENOLOL 25mg
+T4	Problema 110 143;173 192;194 212	PALPITAÇÃO AOS MODERADOS ESFORÇOS 3 EPISODIOS POR DIA MELHORA ESPONTANEA
+T5	Problema 244 275	DISPNEIA AOS MODERADOS ESFORÇOS
+T6	Problema 288 316	QUEIMAÇÃO DA REGIÃO CERVICAL
+T7	Teste 363 366	LAB
+T8	Teste 379 382	HDL
+T9	Teste 387 390	LDL
+T10	Teste 396 401	TRIGL
+T11	Teste 407 410	TSH
+T12	Teste 416 418	CT
+T13	Teste 424 434	CREATININA
+T14	Teste 441 449	GLICEMIA
+T15	Teste 454 456	HB
+T16	Teste 463 467	PLAQ
+T17	Teste 479 482	ECG
+T18	Teste 570 579	ECOCARDIO
+T19	Teste 676 690	ECG DE REPOUSO
+T20	Problema 701 742	TAQUICARDIA PAROXÍSTICA SUPRA VENTRICULAR
+T21	Teste 783 785	PA
+T22	Teste 799 801	FC
+T23	Problema 816 818	SS
+T24	Problema 832 854	EDEMA DISCRETO EM MMII
+T25	Teste 876 882	HOLTER
+T26	Teste 902 904	FC
+T27	Tratamento 934 952	ATENOLO PARA 100MG
+T28	Teste 994 1000	HOLTER
+T29	Problema 227 241	DEMAIS QUEIXAS
+T30	Anatomia 301 316	REGIÃO CERVICAL
+T31	Anatomia 625 627	AE
+T32	Anatomia 632 634	VD
+T33	Anatomia 656 658	VE
+T34	Anatomia 850 854	MMII
+T36	Anatomia 639 644	SEPTO
+T37	Anatomia 648 652	PPVE
+T35	Anatomia 820 823	CPP
+T1	Problema 60 63	HAS
+T2	Problema 66 78	Ex-tabagista
+T3	Problema 130 175	taquicardia supra - ventricular paroxicistica
+T4	Problema 246 257	palpitações
+T5	Problema 261 319	sensação de palpitação se localiza em regiçao de epigastro
+T6	Problema 342 349	astenia
+T8	Problema 402 418	pré - cordialgia
+T9	Problema 425 453	dispneia paroxistica noturna
+T10	Tratamento 506 518	Medicamentos
+T11	Tratamento 527 541	Atenolol 25 mg
+T12	Teste 557 563	HOLTER
+T13	Problema 565 594	arritmia ventricular complexa
+T14	Problema 613 651	taquicardia ventricular não sustentada
+T15	Problema 695 710	sopro carotideo
+T16	Teste 712 714	PA
+T17	Teste 729 731	FC
+T18	Problema 758 763	sopro
+T19	Problema 779 797	ruidos adventicios
+T20	Problema 799 802;835 840	Ext edema
+T21	Problema 853 857	TVNS
+T22	Teste 900 925	estudo eletrofisiológicos
+T23	Tratamento 966 974	atenolol
+T24	Teste 991 996	exame
+T25	Anatomia 299 319	regiçao de epigastro
+T26	Anatomia 701 710	carotideo
+T28	Anatomia 574 585	ventricular
+T29	Anatomia 625 636	ventricular
+T27	Anatomia 799 802	Ext
+T7	Problema 351 381	dispneia quando deambula 1 qua
+T1	Tratamento 57 76	Homoenxerto aortico
+T2	Problema 83 86	EAo
+T3	Problema 129 139	Hipertenso
+T4	Tratamento 152 162	AAS 100 mg
+T5	Tratamento 168 184	losartana 100 mg
+T6	Tratamento 190 208	atovastatina 20 mg
+T7	Tratamento 323 336	atenolol 25mg
+T8	Tratamento 344 359	furosemida 40mg
+T9	Tratamento 367 382	omeoprazol 40mg
+T10	Tratamento 391 406	ezatimibe 10 mg
+T11	Tratamento 408 422	Hidantal 100mg
+T12	Problema 429 441	cisticercose
+T13	Tratamento 443 479	Penicilina G benzatina 1,200,000U IM
+T14	Teste 514 520	Exames
+T15	Teste 522 536	Ecocardiograma
+T16	Tratamento 551 581	Homoenxerto em posição aórtica
+T17	Problema 600 616	VE hipertrofiado
+T18	Problema 670 700	ALteração do relaxamento do VE
+T19	Problema 702 713	AE dilatado
+T20	Tratamento 715 726	Homoenxerto
+T21	Teste 763 766	Lab
+T22	Teste 779 781	Cr
+T23	Teste 788 790	CT
+T24	Teste 796 799	TGC
+T25	Teste 805 808	HDL
+T26	Teste 813 814	K
+T27	Teste 820 823	LDL
+T28	Teste 828 832	Glic
+T29	Problema 854 890;892 922;965 998	dor em ponto específico paraesternal sem relação com esforço físico desde a cx, sem piora desde então
+T30	Problema 1005 1019	dor precordial
+T31	Teste 1025 1030	exame
+T32	Teste 1073 1075	FC
+T33	Teste 1081 1083	PA
+T34	Problema 1101 1115	estase jugular
+T35	Problema 1131 1137	sopros
+T36	Problema 1175 1177	RA
+T37	Problema 1183 1194	ICO crônica
+T38	Teste 1223 1226	eco
+T39	Teste 1229 1232	lab
+T40	Teste 1246 1250	TTOG
+T41	Teste 1253 1263	Hb glicada
+T42	Tratamento 1275 1278	MEV
+T43	Tratamento 973 975	cx
+T44	Anatomia 600 602	VE
+T45	Anatomia 698 700	VE
+T46	Anatomia 702 704	AE
+T47	Anatomia 878 890	paraesternal
+T48	Anatomia 1009 1019	precordial
+T49	Anatomia 1108 1115	jugular
+T1	Tratamento 58 77	Homoenxerto aortico
+T2	Problema 84 87	EAo
+T3	Problema 152 162	Hipertenso
+T4	Tratamento 175 185	AAS 100 mg
+T5	Tratamento 191 207	losartana 100 mg
+T6	Tratamento 213 231	atovastatina 20 mg
+T7	Tratamento 243 256	atenolol 25mg
+T8	Tratamento 264 279	furosemida 40mg
+T9	Tratamento 287 302	omeoprazol 40mg
+T10	Tratamento 311 326	ezatimibe 10 mg
+T11	Tratamento 328 342	Hidantal 100mg
+T12	Problema 349 361	cisticercose
+T13	Problema 433 452	DOR REGIAO ESTERNAL
+T14	Teste 500 502	tg
+T15	Teste 509 511	ct
+T16	Teste 518 521	ldl
+T17	Teste 539 548	Ecocardio
+T18	Problema 661 694	Regurgitacao grau leve a moderada
+T19	Teste 732 738	Exames
+T20	Teste 740 754	Ecocardiograma
+T21	Problema 818 834	VE hipertrofiado
+T22	Problema 888 918	ALteração do relaxamento do VE
+T23	Problema 919 930	AE dilatado
+T24	Teste 979 982	Lab
+T25	Teste 995 997	Cr
+T26	Teste 1004 1006	CT
+T27	Teste 1012 1015	TGC
+T28	Teste 1021 1024	HDL
+T29	Teste 1029 1030	K
+T30	Teste 1036 1039	LDL
+T31	Teste 1044 1048	Glic
+T32	Teste 1056 1061	exame
+T33	Teste 1110 1112	PA
+T34	Problema 1129 1143	estase jugular
+T35	Problema 1158 1164	sopros
+T36	Problema 1201 1203	RA
+T37	Tratamento 1214 1224	medicações
+T38	Tratamento 363 396	Penicilina G benzatina 1,200,000U
+T39	Anatomia 1282 1289	esterno
+T40	Anatomia 713 725	valva mitral
+T41	Anatomia 437 452	REGIAO ESTERNAL
+T42	Anatomia 564 566	VD
+T43	Anatomia 818 820	VE
+T44	Anatomia 916 918	VE
+T45	Anatomia 919 921	AE
+T46	Anatomia 792 799	aórtica
+T47	Anatomia 1136 1143	jugular
+T48	Anatomia 572 577	Septo
+T49	Anatomia 1244 1252	cardiaca
+T1	Teste 58 69	CATETERISMO
+T2	Tratamento 74 86	ANGIOPLASTIA
+T3	Problema 114 123	HEMATURIA
+T4	Tratamento 132 137	SONDA
+T5	Problema 184 203	NAO CONSEGUE URINAR
+T6	Teste 224 240	AVALIAÇÃO PRÉ-OP
+T7	Teste 258 267	AVALIAÇÃO
+T8	Problema 280 292	COMORBIDADES
+T9	Problema 295 297	DM
+T10	Problema 299 302	HAS
+T11	Problema 304 319	HIPOTIREOIDISMO
+T12	Problema 321 333	DISLIPIDEMIA
+T13	Tratamento 346 355	AAS 100MG
+T14	Tratamento 357 373	CLOPIDOGREL 75MG
+T15	Tratamento 375 392	SINVASTATINA 40MG
+T16	Tratamento 394 408	LOSARTANA 50MG
+T17	Tratamento 410 422	SELOZOK 50MG
+T18	Tratamento 424 443	LEVOTIROXINA 125MCG
+T19	Tratamento 445 460	FINASTERIDA 5MG
+T20	Tratamento 462 470	INSULINA
+T21	Problema 476 482	ANGINA
+T22	Problema 505 514	TABAGISMO
+T23	Problema 516 527	EX-ETILISTA
+T24	Problema 584 616	HABITO INTESTINAL MAIS RESSECADO
+T25	Problema 645 655	HEMORROIDA
+T26	Problema 661 672	SANGRAMENTO
+T27	Problema 688 699	TUBERCULOSE
+T28	Problema 726 761	AMORTECIMENTO DE MEMBROS SUPERIORES
+T29	Tratamento 762 776	APENDICECTOMIA
+T30	Teste 813 819	EXAMES
+T31	Teste 829 832	LDL
+T32	Teste 837 842	HBA1C
+T33	Teste 849 856	GLICOSE
+T34	Teste 861 866	UREIA
+T35	Teste 871 881	CREATININA
+T36	Teste 885 901	COLESTEROL TOTAL
+T37	Teste 907 909	TG
+T38	Teste 915 918	HDL
+T39	Teste 923 934	PROT TOTAIS
+T40	Teste 941 949	ALBUMINA
+T41	Teste 956 965	GLOBULINA
+T42	Teste 971 974	TSH
+T43	Teste 981 983	HB
+T44	Teste 990 999	PLAQUETAS
+T45	Teste 1011 1016	EXAME
+T46	Teste 1018 1020	PA
+T47	Teste 1029 1031	FC
+T48	Teste 1035 1037	FR
+T49	Problema 1052 1054	RA
+T50	Problema 1063 1084	MEMBROS COM EDEMA +/4
+T51	Teste 1103 1127	CINTILOGRAFIA MIOCÁRDICA
+T52	Teste 1133 1161	AVALIAÇÃO DE RISCO CIRURGICO
+T53	Teste 1162 1204	ELETRONEUROMIOGRAFIA DE MEMBROS SUPERIORES
+T54	Teste 1217 1223	EXAMES
+T55	Problema 489 498	DISPINEIA
+T57	Anatomia 1063 1070	MEMBROS
+T59	Anatomia 743 761	MEMBROS SUPERIORES
+T60	Anatomia 1186 1204	MEMBROS SUPERIORES
+T61	Anatomia 591 601	INTESTINAL
+T56	Anatomia 1117 1127	MIOCÁRDICA
+T1	Problema 81 106	PERDA DE VISÃO À ESQUERDA
+T2	Problema 117 120	HAS
+T3	Tratamento 137 147	MEDICAÇÕES
+T4	Tratamento 149 163	ENALAPRIL 10MG
+T5	Problema 234 248	PERDA DE VISÃO
+T6	Problema 265 284	PROBLEMAS CARDÍACOS
+T7	Teste 285 287	PA
+T8	Teste 301 303	FC
+T9	Problema 318 320	SS
+T10	Problema 339 341	RA
+T11	Teste 342 345	ECG
+T12	Problema 367 405	DISTÚRBIOS DE CONDUÇÃO DE RAMO DIREITO
+T13	Teste 423 429	ECO TT
+T14	Teste 439 441	TE
+T15	Teste 444 447	LAB
+T16	Teste 432 436	MAPA
+T17	Anatomia 275 284	CARDÍACOS
+T18	Anatomia 393 405	RAMO DIREITO
+T1	Problema 81 106	PERDA DE VISÃO À ESQUERDA
+T2	Problema 117 120	HAS
+T3	Tratamento 137 147	MEDICAÇÕES
+T4	Tratamento 149 163	ENALAPRIL 10MG
+T5	Problema 233 247	PERDA DE VISÃO
+T6	Problema 264 283	PROBLEMAS CARDÍACOS
+T7	Teste 284 286	PA
+T8	Teste 300 302	FC
+T9	Problema 317 319	SS
+T10	Problema 338 340	RA
+T11	Teste 341 344	ECG
+T12	Teste 346 348	FC
+T13	Problema 366 404	DISTÚRBIOS DE CONDUÇÃO DE RAMO DIREITO
+T14	Teste 405 414	ECOCARDIO
+T15	Teste 422 424	TE
+T16	Anatomia 274 283	CARDÍACOS
+T17	Anatomia 392 404	RAMO DIREITO
+T1	Teste 86 89	ECO
+T2	Problema 113 125;166 199	VALVA MITRAL REGURGITAÇÃO MODERADA A ACENTUADA
+T3	Problema 201 225	HIPOCINESIA DIFUSA DO VE
+T4	Teste 226 230	CATE
+T5	Problema 236 245;250 256	CORONARIA LESOES
+T6	Problema 236 245;263 288	CORONARIA IRREGULARIDADES PARIETAIS
+T7	Problema 290 315	VE COM HIPOCINESIA DIFUSA
+T8	Problema 318 337	INSUF MITRAL SEVERA
+T9	Teste 373 379	EXAMES
+T10	Teste 345 352	ECO ETE
+T11	Problema 113 125;150 159	VALVA MITRAL VEGETAÇÃO
+T12	Anatomia 113 125	VALVA MITRAL
+T13	Anatomia 100 102	AE
+T14	Anatomia 223 225	VE
+T15	Anatomia 236 245	CORONARIA
+T16	Anatomia 290 292	VE
+T17	Anatomia 324 330	MITRAL
+T1	Tratamento 69 103	valvuloplastia mitral e tricúspide
+T2	Problema 118 121	IRC
+T3	Tratamento 128 135	diálise
+T4	Tratamento 159 176	transplante renal
+T5	Teste 201 223	avaliação cardiológica
+T6	Tratamento 229 246	transplante renal
+T7	Problema 247 259	Comorbidades
+T8	Problema 261 286	Dopença renal policística
+T9	Problema 300 303	HAS
+T10	Problema 305 313	diabetes
+T11	Tratamento 315 327	Medicamentos
+T12	Tratamento 329 343	Renagel 800 mg
+T13	Tratamento 351 376	Cabornato de cálcio 500mg
+T14	Teste 405 408	ECO
+T15	Anatomia 84 90	mitral
+T16	Anatomia 93 103	tricúspide
+T17	Anatomia 171 176	renal
+T18	Anatomia 241 246	renal
+T19	Anatomia 269 274	renal
+T20	Anatomia 211 223	cardiológica
+T1	Problema 54 56	FA
+T2	Problema 70 73	HAS
+T3	Problema 74 91	DEFICIT COGNITIVO
+T4	Tratamento 103 109	ADDERA
+T5	Tratamento 113 126	ATENOLOL 50MG
+T6	Tratamento 136 144	ENL 10MG
+T7	Tratamento 154 163	AAS 200MG
+T8	Tratamento 167 173	EXELON
+T9	Tratamento 176 186	QUETIAPINA
+T10	Problema 200 207	QEUIXAS
+T11	Problema 214 222	DISPNEIA
+T12	Problema 224 235	PALPITACOES
+T13	Problema 238 250	DOR TORACICA
+T14	Problema 271 279	CATARATA
+T15	Tratamento 262 268	OPEROU
+T16	Teste 284 286	PA
+T17	Teste 296 297	P
+T18	Problema 307 309	SS
+T19	Problema 324 334	FA CRONICA
+T20	Tratamento 339 342	ACO
+T21	Tratamento 353 364	CX CATARATA
+T22	Problema 365 368	HAS
+T23	Tratamento 381 387	MEDICS
+T24	Tratamento 404 415	CX CATARATA
+T25	Tratamento 429 432	ACO
+T26	Tratamento 455 474	OFTALMO DA STA CASA
+T27	Anatomia 242 250	TORACICA
+T28	Anatomia 310 313	CPP
+T1	Problema 62 74	Comorbidades
+T2	Problema 76 79	HAS
+T3	Problema 81 93	Dislipidemia
+T4	Problema 126 143	IAM ST - Killip I
+T5	Tratamento 178 181	ATC
+T6	Tratamento 186 197	stent em DA
+T7	Tratamento 223 233	AAS 100 mg
+T8	Tratamento 247 262	Enalapril 10 mg
+T9	Tratamento 280 294	Brilinta 90 mg
+T10	Tratamento 312 325	Selozok 50 mg
+T11	Tratamento 340 358	Sinvastatina 40 mg
+T12	Tratamento 373 394	Espironolactona 25 mg
+T13	Problema 413 441	dispneia paroxística noturna
+T14	Problema 444 452	dispneia
+T15	Problema 475 486	angina leve
+T16	Teste 492 493	P
+T17	Teste 503 505	PA
+T18	Problema 520 535	Estetores finos
+T19	Problema 554 557	IAM
+T20	Problema 570 598	dispneia paroxística noturna
+T21	Tratamento 604 620	Furosemida 40 mg
+T22	Problema 95 104	Tabagismo
+T23	Teste 642 670	Ecocardiograma transtorácico
+T24	Teste 678 690	Espirometria
+T25	Anatomia 195 197	DA
+T1	Problema 60 63	HAS
+T2	Problema 66 70	DSLP
+T3	Problema 73 97	MIOCARDIOPATIA ISQUEMICA
+T4	Problema 109 127	IAMCSST - KILLIP I
+T5	Tratamento 131 147	ATC DA COM STENT
+T6	Problema 162 174	EX-TABAGISTA
+T7	Tratamento 223 232	AAS 100MG
+T8	Problema 201 209	INFARTOU
+T9	Tratamento 234 248	ENALAPRIL 10MG
+T10	Tratamento 257 270	BRILINTA 90MG
+T11	Tratamento 279 292	SELOZOK 150MG
+T12	Tratamento 294 311	SINVASTATINA 40MG
+T13	Tratamento 317 337	ESPIRONOLACTONA 25MG
+T14	Teste 344 353	ECOCARDIO
+T15	Problema 412 441	VE AUMENTADO EM GRAU DISCRETO
+T16	Problema 443 475	PADRÃO DE HIPERTROFIA EXCENTRICA
+T17	Problema 477 505	DISFUNÇÃO SISTOLICA MODERADA
+T18	Problema 507 541	CONTRAÇÃO SEGMENTAR DO VE ALTERADA
+T19	Problema 543 590	DISFUNÇÃO DIASTÓLICA GRAU II DO VE - RESTRITIVO
+T20	Problema 591 620	AE AUMENTADO EM GRAU DISCRETO
+T21	Problema 622 651	INSUFICIENCIA MITRAL DISCRETA
+T23	Problema 736 756	DISPNEIA PAROXISTICA
+T24	Teste 919 928	ECOCARDIO
+T25	Teste 951 956	EXAME
+T26	Teste 968 970	PA
+T27	Teste 985 987	FC
+T28	Problema 994 1021	MVB+, DIFUSAMENTE DIMINUIDO
+T29	Problema 1025 1027	RA
+T30	Problema 1037 1039	SS
+T31	Teste 1051 1054	LAB
+T32	Teste 1056 1061	HBA1C
+T33	Teste 1068 1069	K
+T34	Problema 1079 1082	DAC
+T35	Problema 1084 1107	IC ETIOLOGIA  ISQUEMICA
+T36	Tratamento 1121 1129	BRILINTA
+T37	Tratamento 1130 1145	CARVEDILOL 25MG
+T38	Tratamento 1158 1165	SELOZOK
+T39	Tratamento 1176 1186	FUROSEMIDA
+T40	Teste 1196 1205	ECOCARDIO
+T42	Anatomia 135 137	DA
+T43	Anatomia 364 366	AE
+T44	Anatomia 373 375	VD
+T45	Anatomia 412 414	VE
+T46	Anatomia 530 532	VE
+T47	Anatomia 575 577	VE
+T48	Anatomia 591 593	AE
+T49	Anatomia 636 642	MITRAL
+T50	Anatomia 762 770	TORACICA
+T51	Anatomia 1040 1044	MMII
+T52	Anatomia 382 387	SEPTO
+T53	Anatomia 394 396	VE
+T41	Problema 758 805;832 846;848 889	DOR TORACICA CONTINUA DIARIAMENTE, TIPO FISGADA SEM IRRADIAÇAO SEM RELAÇAO COM ESFORÇO FISICO OU REPOUSO
+T22	Problema 656 701	DISPNEIA EM REPOUSO, PRINCIPALMENTE AO DEITAR
+T1	Problema 60 63	HAS
+T2	Problema 66 70	DSLP
+T3	Problema 73 97	MIOCARDIOPATIA ISQUEMICA
+T4	Problema 109 127	IAMCSST - KILLIP I
+T5	Tratamento 131 147	ATC DA COM STENT
+T6	Problema 162 174	EX-TABAGISTA
+T7	Problema 201 209	INFARTOU
+T8	Tratamento 223 232	AAS 100MG
+T9	Tratamento 234 248	ENALAPRIL 10MG
+T10	Tratamento 257 270	BRILINTA 90MG
+T11	Tratamento 279 292	SELOZOK 150MG
+T12	Tratamento 294 311	SINVASTATINA 40MG
+T13	Tratamento 317 337	ESPIRONOLACTONA 25MG
+T14	Teste 344 353	ECOCARDIO
+T15	Problema 412 441	VE AUMENTADO EM GRAU DISCRETO
+T16	Problema 453 475	HIPERTROFIA EXCENTRICA
+T17	Problema 477 505	DISFUNÇÃO SISTOLICA MODERADA
+T18	Problema 507 541	CONTRAÇÃO SEGMENTAR DO VE ALTERADA
+T19	Problema 543 590	DISFUNÇÃO DIASTÓLICA GRAU II DO VE - RESTRITIVO
+T20	Problema 591 620	AE AUMENTADO EM GRAU DISCRETO
+T21	Problema 622 651	INSUFICIENCIA MITRAL DISCRETA
+T22	Problema 674 682	DISPNEIA
+T23	Teste 687 692	EXAME
+T24	Teste 704 706	PA
+T25	Teste 719 721	FC
+T26	Problema 729 756	MVB+, DIFUSAMENTE DIMINUIDO
+T27	Problema 760 762	RA
+T28	Problema 772 774	SS
+T29	Teste 783 789	EX LAB
+T30	Teste 791 796	CREAT
+T31	Teste 802 804	UR
+T32	Problema 812 815	DAC
+T33	Problema 816 838	IC ETIOLOGIA ISQUEMICA
+T34	Anatomia 135 137	DA
+T35	Anatomia 364 366	AE
+T36	Anatomia 373 375	VD
+T37	Anatomia 394 396	VE
+T38	Anatomia 412 414	VE
+T39	Anatomia 530 532	VE
+T40	Anatomia 575 577	VE
+T41	Anatomia 591 593	AE
+T42	Anatomia 636 642	MITRAL
+T43	Anatomia 775 779	MMII
+T44	Anatomia 382 387	SEPTO
+T1	Problema 97 105	arritmia
+T2	Teste 133 139	exames
+T3	Problema 145 156	palpitações
+T6	Tratamento 244 252	dipirona
+T7	Problema 264 273	muita dor
+T8	Problema 420 435	queda de cabelo
+T9	Problema 396 411	Hipotireoidismo
+T10	Problema 373 383	Hipertensa
+T11	Problema 437 446	Menopausa
+T12	Problema 480 485	fumou
+T13	Problema 490 495	bebeu
+T14	Tratamento 497 511	Atenolol 50 mg
+T15	Tratamento 521 536	Enalapril 10 mg
+T16	Tratamento 546 561	Warfarina 25 mg
+T17	Tratamento 622 641	Levotiroxina 25 mcg
+T18	Teste 642 648	Holter
+T19	Problema 650 652	FA
+T20	Teste 745 748	RNI
+T21	Problema 783 786	HAS
+T22	Problema 789 791	FA
+T23	Anatomia 301 310	cardíacos
+T24	Anatomia 429 435	cabelo
+T4	Problema 220 237	dores por artrose
+T1	Problema 55 58	HAS
+T2	Problema 61 63	FA
+T3	Tratamento 67 81	Anticoagulação
+T4	Problema 84 99	Hipotireoidismo
+T5	Problema 102 114	Dislipidemia
+T6	Problema 117 126	Obesidade
+T7	Problema 153 162	tabagismo
+T8	Problema 163 171	etilismo
+T9	Problema 178 186	alergias
+T10	Tratamento 189 192	Med
+T11	Tratamento 201 214	Atenolol 50mg
+T12	Tratamento 223 238	enalapril  10mg
+T13	Tratamento 247 256	marevan 1
+T14	Tratamento 311 320	LT4 50mcg
+T15	Tratamento 323 331	SVT 20mg
+T16	Teste 340 350	exames lab
+T17	Teste 358 372	Triglicerídeos
+T18	Teste 383 385	Cr
+T19	Teste 391 392	U
+T20	Teste 397 399	CT
+T21	Teste 405 408	HDL
+T22	Teste 413 416	HMG
+T23	Teste 425 428	TGO
+T24	Teste 431 434	TGp
+T25	Problema 452 459	queixas
+T26	Problema 466 474	dispnéia
+T27	Problema 478 488	palpitação
+T28	Teste 509 511	FC
+T29	Teste 516 520	Sp02
+T30	Problema 529 542	B  Arrítmicas
+T31	Problema 566 570;575 580	MMII edema
+T32	Teste 582 583	P
+T33	Teste 590 593	IMC
+T34	Tratamento 612 628	atividade física
+T35	Teste 645 651	exames
+T36	Teste 663 677	Triglicerídeos
+T37	Teste 719 728	Ecocardio
+T38	Tratamento 770 782	medicamentos
+T39	Anatomia 566 570	MMII
+T40	Anatomia 547 550	CPP
+T41	Anatomia 559 562	abd
+T1	Problema 76 87	CARDIOPATIA
+T2	Problema 90 93	IAM
+T3	Tratamento 98 110	ANGIOPLASTIA
+T4	Tratamento 136 153	3 PONTE DE SAFENA
+T5	Problema 172 179	CANSAÇO
+T6	Problema 180 217	DOR NO PEITO DE VARIADAS INTENSIDADES
+T7	Problema 262 307;321 347;352 371	CANSAÇO QUANDO CAMINHA EM TORNO DE UMA QUADRA DOR EMPATURRILHA BILATERAL CESSA COM O REPOUSO
+T9	Problema 377 389	EDEMA DE MMI
+T10	Problema 407 439	DOR TORÁCICA DE LEVE INTENSIDADE
+T11	Problema 489 494	ENJOO
+T12	Teste 495 501	EXAMES
+T13	Teste 503 517	ECOCARDIOGRAMA
+T14	Problema 538 571	HIPERTROFIADE VENTRICULO ESQUERDO
+T15	Problema 576 595	DIMENSOESAUMENTADAS
+T16	Problema 598 644	FUNÇÃO SISTOLICA COMPROMETIDA DE GRAU MODERADO
+T17	Problema 646 673	ACINESIA DE PAREDE INFERIOR
+T18	Problema 677 708	HIPOCINESIANOS DEMAIS SEGMENTOS
+T19	Problema 710 755	ALTERAÇÃO DO RELAXAMENTO VENTRICULAR ESQUERDO
+T20	Problema 757 785	REGURGITAÇÃO MITRAL MODERADA
+T21	Problema 787 810	ATRIO ESQUERDO DILATADO
+T22	Teste 812 823	LABORATORIO
+T23	Teste 826 834	GLICEMIA
+T24	Teste 845 847	CT
+T25	Teste 853 863	CREATININA
+T26	Teste 869 872	HDL
+T27	Teste 877 880	TGO
+T28	Teste 885 888	LDL
+T29	Teste 894 897	CPK
+T30	Teste 903 904	K
+T31	Teste 918 921	TGP
+T32	Teste 926 931	UREIA
+T33	Teste 936 945	HEMOGRAMA
+T34	Problema 951 961	ALTERAÇÕES
+T35	Teste 962 966	KPTT
+T36	Teste 986 989	TAP
+T37	Teste 1004 1007	TSH
+T38	Teste 1015 1026	LABORATORIO
+T39	Teste 1036 1052	MICROALBUMINURIA
+T40	Tratamento 1085 1094	AAS 100MG
+T41	Tratamento 1096 1110	LOSARTANA 50MG
+T42	Tratamento 1140 1160	ESPIRONOLACTONA 25MG
+T43	Tratamento 1178 1194	AMIODARONA 200MG
+T44	Tratamento 1208 1223	FUROSEMIDA 40MG
+T45	Tratamento 1254 1265	MAREVAN 5MG
+T46	Tratamento 1346 1356	CONCOR 5MG
+T47	Problema 1367 1370	HAS
+T48	Problema 1371 1379	DIABETES
+T49	Tratamento 1381 1389	INSULINA
+T50	Tratamento 1409 1425	OUTRAS MEDICAÇÃO
+T51	Tratamento 1427 1429	CX
+T52	Tratamento 1446 1460	2 ANGIOSPLATIA
+T53	Tratamento 1462 1479	3 PONTE DE SAFENA
+T54	Problema 1486 1494	ALERGIAS
+T55	Tratamento 1500 1515	OUTRAS CIRURGAS
+T56	Teste 910 912	NA
+T57	Teste 1431 1444	6 CATETERISMO
+T58	Anatomia 187 192	PEITO
+T59	Anatomia 386 389	MMI
+T61	Anatomia 411 419	TORÁCICA
+T63	Anatomia 552 571	VENTRICULO ESQUERDO
+T64	Anatomia 658 673	PAREDE INFERIOR
+T65	Anatomia 735 755	VENTRICULAR ESQUERDO
+T66	Anatomia 770 776	MITRAL
+T67	Anatomia 787 801	ATRIO ESQUERDO
+T60	Anatomia 327 337	PATURRILHA
+T1	Teste 78 80	RM
+T2	Tratamento 90 106	3 PONTES SAFENAS
+T3	Problema 109 112	HAS
+T4	Problema 126 128	DM
+T5	Tratamento 140 148	INSULINA
+T6	Tratamento 161 173	ANGIOPLASTIA
+T7	Problema 187 195	ARRITMIA
+T8	Tratamento 196 206	MEDICAÇÕES
+T9	Tratamento 208 223	LOSARTANA 100MG
+T10	Tratamento 255 275	ESPIRONOLACTONA 25MG
+T11	Tratamento 292 303	CONCOR 5 MG
+T12	Tratamento 316 332	AMIODARONA 200MG
+T13	Tratamento 356 372	FUROSEMIDA 40 MG
+T14	Tratamento 390 402	MAREVAN 5 MG
+T15	Tratamento 426 439	INSULINA 30 U
+T16	Tratamento 448 465	METFORMINA 500 MG
+T17	Tratamento 477 497	ATORVASTATINA  20 MG
+T18	Problema 526 543	DISPNEIA NYHA III
+T19	Teste 562 568	EXAMES
+T20	Teste 577 580	RNI
+T21	Teste 598 612	ECOCARDIOGRAMA
+T22	Problema 633 666	HIPERTROFIADE VENTRICULO ESQUERDO
+T23	Problema 672 691	DIMENSOESAUMENTADAS
+T24	Problema 694 740	FUNÇÃO SISTOLICA COMPROMETIDA DE GRAU MODERADO
+T25	Problema 742 769	ACINESIA DE PAREDE INFERIOR
+T26	Problema 772 803	HIPOCINESIANOS DEMAIS SEGMENTOS
+T27	Problema 805 850	ALTERAÇÃO DO RELAXAMENTO VENTRICULAR ESQUERDO
+T28	Problema 852 879	REGURGITAÇÃOMITRAL MODERADA
+T29	Problema 881 904	ATRIO ESQUERDO DILATADO
+T30	Problema 911 923	EX TABAGISTA
+T31	Problema 966 979	USO DE ÁLCOOL
+T32	Problema 988 998	SEDENTÁRIO
+T33	Problema 1040 1050	ICC GLOBAL
+T34	Problema 1051 1065	FA PAROXISTICA
+T35	Tratamento 1100 1114	2 ANGIOSPLATIA
+T36	Tratamento 1116 1133	3 PONTE DE SAFENA
+T37	Problema 1140 1148	ALERGIAS
+T38	Problema 1176 1199	FRATUROU JOELHO E PERNA
+T39	Tratamento 1206 1214	CIRURGIA
+T40	Problema 1220 1227	QUEIXAS
+T41	Teste 1240 1246	EXAMES
+T42	Teste 1085 1098	6 CATETERISMO
+T43	Problema 549 561	DOR ANGINOSA
+T44	Anatomia 1185 1191	JOELHO
+T46	Anatomia 647 666	VENTRICULO ESQUERDO
+T47	Anatomia 754 769	PAREDE INFERIOR
+T48	Anatomia 830 850	VENTRICULAR ESQUERDO
+T49	Anatomia 864 870	MITRAL
+T50	Anatomia 881 895	ATRIO ESQUERDO
+T45	Anatomia 1194 1199	PERNA
+T1	Problema 144 201	Dor retroesternal, em repouso, em pontada, sem irradiação
+T2	Problema 264 267	dor
+T3	Tratamento 277 289	angioplastia
+T4	Teste 306 312	um ECG
+T5	Tratamento 332 352	cirurgia de catarata
+T6	Teste 373 390	teste ergométrico
+T7	Problema 428 434	um IAM
+T8	Tratamento 463 474	angioplasta
+T9	Problema 503 510	infarto
+T10	Teste 547 576	cateterismo cardíaco esquerdo
+T11	Teste 578 623	coronariografia com ventriculografia esquerda
+T12	Problema 624 639	Hipotireoidismo
+T13	Problema 754 762	etilismo
+T14	Problema 765 774	tabagismo
+T15	Problema 800 810	Obstipação
+T16	Problema 864 879	Amnésia recente
+T17	Problema 892 900	desânimo
+T18	Problema 902 910	angústia
+T19	Problema 912 927	humor deprimido
+T20	Problema 928 944	Insônia terminal
+T21	Problema 945 958	Muito cansaço
+T22	Tratamento 959 968	Medicação
+T23	Tratamento 969 985	Clopidogrel 75mg
+T24	Tratamento 987 996	AAs 100mg
+T25	Tratamento 998 1012	Enalapril 10mg
+T26	Tratamento 1014 1028	Omeprazol 20mg
+T27	Tratamento 1030 1045	Levotiroxina 50
+T28	Tratamento 1059 1076	Sinvastatina 40mg
+T30	Anatomia 148 161	retroesternal
+T1	Problema 43 46	HAS
+T2	Tratamento 53 62	Atenol 50
+T3	Tratamento 70 81	Enalapril 5
+T4	Problema 96 120	queixas cardiovasculares
+T5	Teste 155 164	ecocardio
+T6	Problema 178 203	estenose aortica discreta
+T7	Problema 214 241	cardiomiopatia hipertensiva
+T8	Teste 243 252	Ecocardio
+T9	Problema 325 328;331 350	VMi folhetos espessados
+T10	Problema 325 328;373 389	VMi refluxo discreto
+T11	Problema 424 427;430 451	VAo cúspides calcificadas
+T12	Problema 424 427;457 468	VAo dupla lesão
+T13	Problema 513 517;520 539	Vtri folhetos espessados
+T14	Problema 591 593;596 609	VE hipertrofiado
+T15	Problema 591 593;663 681	VE alt de relaxamento
+T16	Problema 742 752	edema mmii
+T17	Teste 754 756	PA
+T18	Teste 783 784	P
+T19	Teste 796 798	Fr
+T20	Problema 826 832	ruidos
+T21	Problema 858 921	ss ++/6+, crsec / decres, FAO, irradiação para todo o precórdio
+T22	Problema 844 856	taquicardico
+T23	Problema 938 945	ansioso
+T24	Teste 974 976	PA
+T25	Teste 1036 1045	ecocardio
+T26	Anatomia 104 120	cardiovasculares
+T27	Anatomia 187 194	aortica
+T28	Anatomia 265 267	AE
+T29	Anatomia 274 277	SIV
+T30	Anatomia 280 284	PPVE
+T31	Anatomia 325 328	VMi
+T32	Anatomia 504 506	VP
+T33	Anatomia 591 593	VE
+T34	Anatomia 683 685	AD
+T35	Anatomia 513 517	Vtri
+T36	Anatomia 424 427	VAo
+T37	Anatomia 748 752	mmii
+T38	Anatomia 884 887	FAO
+T39	Problema 683 685;688 697	AD aumentado
+T40	Anatomia 912 921	precórdio
+T1	Problema 60 63	EAo
+T2	Problema 67 70	HAS
+T3	Tratamento 78 87	Atenol 50
+T4	Tratamento 95 106	Enalapril 5
+T5	Problema 123 147	queixas cardiovasculares
+T6	Teste 149 158	Ecocardio
+T7	Problema 231 234;237 256	VMi folhetos espessados
+T8	Problema 231 234;279 295	VMi refluxo discreto
+T9	Problema 330 333;336 357	VAo cúspides calcificadas
+T10	Problema 330 333;363 374	VAo dupla lesão
+T11	Problema 419 423;426 445	Vtri folhetos espessados
+T12	Problema 497 499;502 515	VE hipertrofiado
+T13	Problema 497 499;568 586	VE alt de relaxamento
+T14	Teste 604 607	Eco
+T15	Problema 675 677;679 700	AO CUSPIDES CALCIFICADAS
+T16	Problema 675 677;706 717	AO DUPLA LESAO
+T17	Problema 744 764	INSUF TRICU DISCRETA
+T18	Problema 777 800	REFLUXO MITRAL DISCRETO
+T19	Problema 824 832	dispneia
+T20	Problema 834 846	dor toracica
+T21	Problema 848 855	sincope
+T22	Problema 862 875	edema de MMII
+T23	Problema 954 968	elevação de PA
+T24	Problema 970 986	Sd Jaleco Branco
+T25	Teste 1028 1030	PA
+T26	Teste 1046 1047	P
+T27	Problema 1074 1080	ruidos
+T28	Problema 1093 1105	taquicardico
+T29	Problema 1107 1170	ss ++/6+, crsec / decres, FAO, irradiação para todo o precórdio
+T30	Problema 1176 1220	DUPLA LESAO AO ESTENOSE MOD + INSUF DISCRETA
+T31	Tratamento 1233 1247	Enalapril 20mg
+T32	Tratamento 1262 1271	HCTZ 25mg
+T33	Teste 1306 1309	eco
+T34	Problema 419 423;468 480	Vtri insuficiente
+T35	Problema 588 590;593 602	AD aumentado
+T36	Anatomia 131 147	cardiovasculares
+T37	Anatomia 171 173	AE
+T38	Anatomia 180 183	SIV
+T39	Anatomia 186 190	PPVE
+T40	Anatomia 231 234	VMi
+T41	Anatomia 410 412	VP
+T42	Anatomia 419 423	Vtri
+T43	Anatomia 497 499	VE
+T44	Anatomia 588 590	AD
+T45	Anatomia 330 333	VAo
+T46	Anatomia 619 621	RA
+T47	Anatomia 626 628	AE
+T48	Anatomia 634 636	VD
+T49	Anatomia 641 642	S
+T50	Anatomia 647 649	PP
+T51	Anatomia 654 656	VE
+T52	Anatomia 675 677	AO
+T53	Anatomia 750 755	TRICU
+T54	Anatomia 785 791	MITRAL
+T55	Anatomia 838 846	toracica
+T56	Anatomia 871 875	MMII
+T57	Anatomia 1133 1136	FAO
+T58	Anatomia 1161 1170	precórdio
+T59	Anatomia 1188 1190	AO
+T1	Problema 43 54	ins cardiac
+T2	Teste 71 77	exames
+T3	Problema 79 85	chagas
+T4	Teste 114 124	hb glicada
+T5	Teste 131 136	creat
+T6	Teste 143 150	glicose
+T7	Teste 155 157	ct
+T8	Teste 163 166	hdl
+T9	Teste 171 174	ldl
+T10	Teste 179 181	tg
+T11	Teste 187 190	tsh
+T12	Teste 196 204	ecocardo
+T13	Problema 258 265;283 303	dispmia classe funcional III
+T14	Tratamento 314 323	enalapril
+T15	Tratamento 333 343	furosemida
+T16	Tratamento 353 363	carvedilol
+T17	Tratamento 378 388	apresolina
+T18	Tratamento 399 418	espironoloactona 25
+T19	Anatomia 47 54	cardiac
+T20	Anatomia 205 207	ve
+T21	Anatomia 228 230	vd
+T22	Anatomia 235 237	ae
+T1	Problema 51 63	MCP dilatada
+T2	Problema 64 78	Cansaço CF III
+T3	Teste 79 81	PA
+T4	Problema 98 120	ingurgitamento jugular
+T5	Problema 139 141	RA
+T6	Problema 149 151	SS
+T7	Problema 156 159	VCM
+T8	Problema 164 174	edema MMII
+T9	Teste 175 178	CAT
+T10	Problema 203 236	coronariopatia obstrutiva crítica
+T11	Teste 237 239	IC
+T12	Teste 262 274	RVP em woods
+T13	Teste 297 309	Espirometria
+T14	Anatomia 113 120	jugular
+T15	Anatomia 170 174	MMII
+T1	Problema 60 85;86 105	MCP dilatada - IDIOPÁTICA CF III-II OSCILANTE
+T2	Teste 137 152	INDICE CARDIACO
+T3	Teste 161 164	CAT
+T4	Problema 189 222	coronariopatia obstrutiva crítica
+T5	Teste 223 225	IC
+T6	Teste 248 260	RVP em woods
+T7	Problema 283 302	sintomas oscilantes
+T8	Problema 313 335	dispnéia aos moderados
+T9	Problema 350 355	TOSSE
+T10	Problema 368 388	DISPNÉIA IMPORTANTER
+T11	Problema 390 405	CIANOSE CENTRAL
+T12	Problema 409 416	SINCOPE
+T13	Teste 418 420	PA
+T14	Problema 437 459	ingurgitamento jugular
+T15	Problema 478 480	RA
+T16	Problema 488 490	SS
+T17	Problema 495 498	VCM
+T18	Problema 503 513	edema MMII
+T19	Problema 518 522	TVNS
+T20	Tratamento 546 557	TX CARDIACO
+T21	Anatomia 144 152	CARDIACO
+T22	Anatomia 452 459	jugular
+T23	Anatomia 509 513	MMII
+T24	Anatomia 549 557	CARDIACO
+T25	Anatomia 126 134	CARDIACO
+T1	Problema 60 85	MCP dilatada - IDIOPÁTICA
+T2	Problema 86 105	CF II-III OSCILANTE
+T3	Teste 137 152	INDICE CARDIACO
+T4	Tratamento 176 190	Omeprazol 20mg
+T5	Tratamento 196 205	AAS 100mg
+T6	Tratamento 211 224	Losartan 50mg
+T7	Tratamento 234 254	Espironolactona 25mg
+T8	Tratamento 260 277	Hidralazina 100mg
+T9	Tratamento 287 304	Carvedilol 12,5mg
+T10	Teste 315 321	Exames
+T11	Teste 323 326	CAT
+T12	Problema 351 384	coronariopatia obstrutiva crítica
+T13	Teste 385 387	IC
+T14	Teste 410 422	RVP em woods
+T15	Problema 449 463	Dispnéia CF II
+T16	Problema 470 482	dor torácica
+T17	Problema 489 499	palpitação
+T18	Problema 502 509	síncope
+T19	Tratamento 543 551	losartan
+T20	Problema 556 578	hipotensão sintomática
+T21	Teste 580 583	PAS
+T22	Problema 615 625	tosse seca
+T23	Problema 628 664;684 714	dor torácica precordial em queimação sem relação com esforço físico
+T24	Teste 717 720	ECG
+T25	Problema 721 724	BRE
+T26	Teste 726 731	tropo
+T27	Teste 748 753	exame
+T28	Teste 795 797	PA
+T29	Problema 810 839	discreta estase jugular a 45º
+T30	Problema 858 860	RA
+T31	Problema 868 870	SS
+T32	Problema 871 885	ictus desviado
+T33	Problema 891 894	VCM
+T34	Problema 899 909	edema MMII
+T35	Problema 938 958	MCP dilatada - CF II
+T36	Tratamento 983 991	losartan
+T37	Tratamento 1001 1015	hidralazina 50
+T38	Teste 1037 1040	lab
+T39	Anatomia 144 152	CARDIACO
+T40	Anatomia 126 134	CARDIACO
+T41	Anatomia 474 482	torácica
+T42	Anatomia 632 651	torácica precordial
+T43	Anatomia 826 833	jugular
+T44	Anatomia 871 876	ictus
+T45	Anatomia 905 909	MMII
+T1	Problema 60 85	MCP dilatada - IDIOPÁTICA
+T2	Problema 86 105	CF II-III OSCILANTE
+T3	Teste 137 152	INDICE CARDIACO
+T4	Tratamento 176 190	Omeprazol 20mg
+T5	Tratamento 196 205	AAS 100mg
+T6	Tratamento 211 224	Losartan 50mg
+T7	Tratamento 234 254	Espironolactona 25mg
+T8	Tratamento 260 276	Hidralazina 50mg
+T9	Tratamento 286 303	Carvedilol 12,5mg
+T10	Teste 314 320	Exames
+T11	Teste 322 325	CAT
+T12	Problema 350 383	coronariopatia obstrutiva crítica
+T13	Teste 384 386	IC
+T14	Teste 409 421	RVP em woods
+T15	Teste 460 473	laboratoriais
+T16	Problema 523 535;548 585;611 652	dor torácica retroesternal e em MSE, em queimação, pior de acordo com movimentação do tronco
+T18	Problema 731 740	ortopneia
+T19	Problema 761 807	dor torácica associada à caminhada mais rápida
+T20	Problema 814 821	sincope
+T21	Problema 824 835	palpitações
+T22	Problema 837 866	Edema de MMII esporadicamente
+T23	Teste 912 914	PA
+T24	Teste 922 924	FC
+T25	Problema 932 949	TURGÊNCIA JUGULAR
+T26	Problema 950 953;972 999	CPP CREPITANTES EM BASE DIREITA
+T27	Problema 1005 1021	BC HIPOFONETICAS
+T28	Problema 1027 1033	SOPROS
+T29	Problema 1035 1049	ICTUS DESVIADO
+T30	Problema 1063 1066	VCM
+T31	Problema 1068 1098	DOR A PALPAÇÃO DE FLANCO E FIE
+T32	Problema 1099 1103;1110 1115	MMII EDEMA
+T33	Problema 1120 1144	MCP dilatada CF II / III
+T34	Tratamento 1149 1159	MEDICAÇÕES
+T35	Teste 1198 1201	LAB
+T36	Anatomia 1050 1056	ABDOME
+T37	Anatomia 126 134	CARDIACO
+T38	Anatomia 144 152	CARDIACO
+T39	Anatomia 527 535	torácica
+T40	Anatomia 765 773	torácica
+T41	Anatomia 846 850	MMII
+T42	Anatomia 942 949	JUGULAR
+T43	Anatomia 950 953	CPP
+T44	Anatomia 987 999	BASE DIREITA
+T45	Anatomia 1035 1040	ICTUS
+T46	Anatomia 1086 1092	FLANCO
+T47	Anatomia 1095 1098	FIE
+T48	Anatomia 1099 1103	MMII
+T49	Anatomia 548 561	retroesternal
+T50	Anatomia 567 570	MSE
+T51	Anatomia 646 652	tronco
+T17	Problema 654 725	Dispneia para moderados esforços CF II, às vezes para pequenos esforços
+T1	Problema 45 70	MCP dilatada - IDIOPÁTICA
+T2	Problema 71 90	CF II-III OSCILANTE
+T3	Teste 122 137	INDICE CARDIACO
+T4	Tratamento 154 168	Omeprazol 20mg
+T5	Tratamento 174 183	AAS 100mg
+T6	Tratamento 189 202	Losartan 50mg
+T7	Tratamento 212 232	Espironolactona 25mg
+T8	Tratamento 238 254	Hidralazina 50mg
+T9	Tratamento 264 281	Carvedilol 12,5mg
+T10	Problema 304 324	CANSAÇO AOS ESFORÇOS
+T11	Teste 336 338	TG
+T12	Teste 344 347	HDL
+T13	Teste 352 353	K
+T14	Teste 359 361	CT
+T15	Teste 367 370	LDL
+T16	Teste 376 379	TSH
+T17	Teste 386 388	HB
+T18	Teste 393 405	HB GLICASADA
+T19	Teste 412 414	NA
+T20	Teste 420 423	TGP
+T21	Teste 428 431	TGO
+T22	Teste 436 441	CREAT
+T23	Teste 450 455	EAXME
+T24	Teste 456 458	PA
+T25	Teste 466 468	FC
+T26	Problema 476 493	TURGÊNCIA JUGULAR
+T27	Problema 530 536	SOPROS
+T28	Problema 538 542;549 553	MMII EDEM
+T29	Problema 558 582	MCP dilatada CF II / III
+T30	Tratamento 587 597	MEDICAÇÕES
+T31	Anatomia 111 119	CARDIACO
+T32	Anatomia 129 137	CARDIACO
+T33	Anatomia 486 493	JUGULAR
+T34	Anatomia 494 497	CPP
+T35	Anatomia 538 542	MMII
+T1	Problema 61 70	IC CF III
+T2	Problema 121 123	DM
+T3	Problema 125 129	DSLP
+T4	Problema 131 140	TABAGISMO
+T5	Problema 142 147	IAM´S
+T6	Tratamento 168 176	LST 50MG
+T7	Tratamento 186 203	CARVEDILOL 12,5MG
+T8	Tratamento 217 232	APRESOLINA 50MG
+T9	Tratamento 239 259	ESPIRONOLACTONA 25MG
+T10	Tratamento 267 273	OMP 20
+T11	Teste 276 296	ECOCARDIO COM STRESS
+T12	Problema 309 338	AUMENTO DE CABIDADES ESQUERDA
+T13	Problema 343 364	FUNÇÃO DE VE REDUZIDA
+T14	Problema 366 403	REFLUXO MITRAL MODERADO / IMPORTANTES
+T15	Problema 405 429	REFLUXO AORTICO MODERADO
+T16	Problema 431 458	REFLUXO TRICUSPIDE DISCRETO
+T17	Teste 470 491	AVALIAÇÃO DA ISQUEMIA
+T18	Problema 496 518	DISFUNÇÃO SEVERA DO VE
+T19	Teste 522 525	ECG
+T20	Problema 540 543	BRE
+T21	Teste 547 572	AVALIAÇÃO PRÉ-TRANSPLANTE
+T22	Teste 576 606	DOPPLER CAROTIDAS + VERTEBRAIS
+T23	Problema 620 628;630 669	CAROTIDA ESTENOSE 20-30% NA BIFURCAÇÃO CAROTÍDEA
+T24	Problema 684 691	QUEIXAS
+T25	Teste 694 698	CATE
+T26	Teste 767 777	EXAMES LAB
+T27	Teste 788 790	NA
+T28	Teste 796 797	K
+T29	Teste 801 806	CREAT
+T30	Teste 810 813	GLI
+T31	Teste 818 823	UREIA
+T32	Teste 828 831	CPK
+T33	Teste 836 844	AC URICO
+T34	Teste 850 852	TG
+T35	Teste 858 861	TGP
+T36	Teste 866 869	HDL
+T37	Teste 874 877	TGO
+T38	Teste 882 884	CT
+T39	Teste 890 893	LDL
+T40	Teste 898 901	HMG
+T41	Teste 906 909	TSH
+T42	Teste 916 919	T4L
+T43	Teste 926 929	EQU
+T44	Tratamento 948 959	TTO CLINICO
+T45	Anatomia 320 338	CABIDADES ESQUERDA
+T46	Anatomia 353 355	VE
+T47	Anatomia 374 380	MITRAL
+T48	Anatomia 413 420	AORTICO
+T49	Anatomia 439 449	TRICUSPIDE
+T50	Anatomia 516 518	VE
+T51	Anatomia 584 593	CAROTIDAS
+T52	Anatomia 596 606	VERTEBRAIS
+T53	Anatomia 608 618	CERVICAL D
+T54	Anatomia 620 629	CAROTIDA:
+T55	Anatomia 649 669	BIFURCAÇÃO CAROTÍDEA
+T1	Tratamento 67 78	TX CARDÍACO
+T2	Problema 96 118	IC DILATADA IDIOPÁTICA
+T3	Tratamento 134 152	CICLOSPORINA 150MG
+T4	Tratamento 161 179	MICOFENOLATO 720MG
+T5	Tratamento 186 201	PREDNISONA 20MG
+T6	Tratamento 208 217	AAS 100MG
+T7	Tratamento 225 233	OMZ 20MG
+T8	Teste 244 250	EXAMES
+T9	Teste 253 280	AVALIAÇÃO PRÉ - TRANSPLANTE
+T10	Teste 284 314	DOPPLER CAROTIDAS + VERTEBRAIS
+T11	Problema 328 336;338 377	CAROTIDA ESTENOSE 20-30% NA BIFURCAÇÃO CAROTÍDEA
+T12	Teste 381 385	CATE
+T13	Teste 450 455	ECOTT
+T14	Problema 514 566	VE DILATADO COM HIPOCONTRATIBILIDADE DIFUSA MODERADA
+T15	Problema 569 578	I AO LEVE
+T16	Problema 581 599	IMI LEVE AMODERADA
+T17	Problema 632 641;650 676	DOR NA FO AOS MOVIMENTOS E AO TOSSIR
+T18	Problema 683 691	DISPNÉIA
+T19	Problema 704 706	FO
+T20	Problema 704 706;722 740	FO SINAIS FLOGÍSTICOS
+T21	Problema 748 753	FEBRE
+T22	Problema 765 780	HIPOCORADO +/4+
+T23	Problema 792 799	AFEBRIL
+T24	Teste 800 802	PA
+T25	Teste 814 816	FC
+T26	Problema 830 832	SS
+T27	Problema 833 836;857 859	CPP RA
+T28	Problema 860 862	FO
+T29	Problema 860 862;893 901	FO SECREÇÃO
+T30	Problema 921 925;931 936	MMII EDEMA
+T31	Problema 921 925;940 952	MMII EMPASTAMENTO
+T32	Tratamento 963 974	TX CARDIACO
+T33	Anatomia 70 78	CARDÍACO
+T34	Anatomia 292 301	CAROTIDAS
+T35	Anatomia 304 314	VERTEBRAIS
+T36	Anatomia 316 326	CERVICAL D
+T37	Anatomia 328 336	CAROTIDA
+T38	Anatomia 357 377	BIFURCAÇÃO CAROTÍDEA
+T39	Anatomia 464 466	AE
+T40	Anatomia 472 474	VD
+T41	Anatomia 484 486	PP
+T42	Anatomia 495 497	VE
+T43	Anatomia 514 516	VE
+T44	Anatomia 571 573	AO
+T45	Anatomia 582 584	MI
+T47	Anatomia 833 836	CPP
+T48	Anatomia 902 905	ABD
+T49	Anatomia 921 925	MMII
+T50	Anatomia 966 974	CARDIACO
+T1	Tratamento 47 58	TX CARDIACO
+T2	Tratamento 105 117	CICLOSPORINA
+T3	Tratamento 129 137	MYFORTIC
+T4	Tratamento 190 205	PREDNISONA 5 MG
+T5	Tratamento 219 226	AAS 100
+T6	Problema 241 248	QUEIXAS
+T7	Teste 269 276	BIOPSIA
+T8	Teste 282 284	PA
+T9	Teste 293 295	FC
+T10	Problema 320 324;329 334	MMII EDEMA
+T11	Tratamento 344 355	TX CARDIACO
+T12	Teste 362 374	BOA EVOLUÇÃO
+T13	Teste 414 417	LAB
+T14	Teste 420 425	ECOCC
+T15	Teste 80 94	ULTIMA BIOPSIA
+T16	Anatomia 50 58	CARDIACO
+T17	Anatomia 310 313	CPP
+T18	Anatomia 320 324	MMII
+T19	Anatomia 347 355	CARDIACO
+T1	Tratamento 47 58	TX CARDIACO
+T2	Teste 78 85	BIOPSIA
+T3	Tratamento 109 114	CICLO
+T4	Tratamento 124 138	AZATIOPRINA 50
+T5	Tratamento 147 156	omeprazol
+T6	Tratamento 159 166	AAS 100
+T7	Tratamento 168 179	ATENOLOL 50
+T8	Teste 186 206	DOSAGEM CICLOSPORINA
+T9	Problema 231 238	QUEIXAS
+T10	Teste 243 245	PA
+T11	Teste 254 256	FC
+T12	Problema 280 284;289 294	MMII EDEMA
+T13	Tratamento 303 314	TX CARDIACO
+T14	Teste 338 341	LAB
+T15	Anatomia 50 58	CARDIACO
+T16	Anatomia 270 273	CPP
+T17	Anatomia 280 284	MMII
+T18	Anatomia 306 314	CARDIACO
+T1	Teste 43 52	Ecocardio
+T2	Problema 129 146;151 181	protese biologica espessamentoi de seus folhetos
+T3	Problema 129 146;204 237	protese biologica rgurgitação moderada a importante
+T4	Problema 279 282;367 388	VAo Regurgitação moderada
+T5	Problema 390 394;420 435	VTri refluxo disreto
+T6	Teste 487 496	Ex Fisico
+T7	Problema 541 551	edema mmii
+T8	Teste 553 555	PA
+T9	Teste 581 582	P
+T10	Problema 608 624	ss++/6+ FAo e Mi
+T11	Problema 627 634	SD +/6+
+T12	Problema 279 282;285 306	VAo cuspides calcificadas
+T13	Problema 279 282;311 334	VAo mobilidade comprometida
+T14	Anatomia 65 67	AE
+T15	Anatomia 74 77	SIV
+T16	Anatomia 80 84	PPVE
+T17	Anatomia 123 126	VMi
+T18	Anatomia 279 282	VAo
+T19	Anatomia 390 394	VTri
+T20	Anatomia 547 551	mmii
+T21	Anatomia 616 619	FAo
+T22	Anatomia 622 624	Mi
+T1	Tratamento 61 71	TV AO + MI
+T2	Tratamento 84 106	PROTESE AO BRAILE 25MM
+T3	Tratamento 112 141	PROTESE MI CARDIOPROTESE 29MM
+T4	Tratamento 153 167	ENALAPRIL 10MG
+T5	Tratamento 169 178	HCTZ 25MG
+T6	Tratamento 183 199	METOPROLOL 100MG
+T7	Tratamento 204 213	AAS 100MG
+T8	Tratamento 218 226	SVT 20MG
+T9	Teste 232 241	ECOCARDIO
+T10	Tratamento 309 316	MI BIOL
+T11	Tratamento 342 357	PROTESE AO BIOL
+T12	Problema 342 357;378 391	PROTESE AO BIOL DLAO DISCRETA
+T13	Problema 403 410	QUEIXAS
+T14	Problema 417 425	DISPNÉIA
+T15	Problema 432 441	ORTOPNÉIA
+T16	Tratamento 489 499	METOPROLOL
+T17	Problema 501 519	SEQUELA MOTORA ESQ
+T18	Problema 522 540	PARALISIA INFANTIL
+T19	Teste 544 546	PA
+T20	Teste 555 557	FC
+T21	Problema 571 573	RA
+T22	Problema 583 626	SOPRO SISTOLICO AO E PANFOCAL +4/+6 EJETIVO
+T23	Problema 628 669	SOPRO DIASTOLICO AO E MI ASPIRATIVO +3/+6
+T24	Tratamento 690 707	TROCA DE VAO E MI
+T25	Problema 740 756	ALTERAÇÃO MOTORA
+T26	Tratamento 783 798	ENALAPRIL 10 MG
+T27	Tratamento 807 822	METOPROLOL 50MG
+T28	Teste 861 864	ECO
+T30	Anatomia 64 66	AO
+T31	Anatomia 69 71	MI
+T32	Anatomia 92 94	AO
+T33	Anatomia 120 122	MI
+T34	Anatomia 248 250	RA
+T35	Anatomia 255 257	VD
+T36	Anatomia 262 264	AE
+T37	Anatomia 270 275	SEPTO
+T38	Anatomia 280 282	PP
+T39	Anatomia 309 311	MI
+T40	Anatomia 350 352	AO
+T41	Anatomia 599 601	AO
+T42	Anatomia 645 647	AO
+T43	Anatomia 650 652	MI
+T44	Anatomia 670 673	ABD
+T45	Anatomia 677 681	MMII
+T46	Anatomia 699 702	VAO
+T47	Anatomia 705 707	MI
+T29	Problema 456 499	IMPOTENCIA APÓS INICIAR O USO DE METOPROLOL
+T1	Problema 43 46	IAM
+T2	Tratamento 57 60	ATC
+T3	Problema 62 65	HAS
+T4	Problema 69 71	DM
+T5	Problema 74 80	EX TBG
+T6	Teste 82 85	ECG
+T7	Tratamento 123 126	AAS
+T8	Tratamento 130 137	CVD  25
+T9	Tratamento 145 150	ENL 5
+T10	Tratamento 157 164	MTF 850
+T11	Tratamento 171 177	SVT 20
+T12	Teste 199 206	CINTILO
+T13	Problema 208 289	FIBROSE   PERSISTENTE   APICE   E  MEDIO  APICAL DA P  ANTERIOR  E  ANTERO SEPTAL
+T14	Problema 291 309	DISCRETA  ISQUEMIA
+T15	Teste 388 391	ECO
+T16	Tratamento 406 418	CX  CATARATA
+T17	Anatomia 232 289	APICE   E  MEDIO  APICAL DA P  ANTERIOR  E  ANTERO SEPTAL
+T1	Problema 45 48	IAM
+T2	Tratamento 56 59	ATC
+T3	Problema 62 65	HAS
+T4	Problema 69 71	DM
+T5	Problema 75 84	TBG ATIVA
+T6	Teste 88 91	ECG
+T7	Teste 118 125	CINTILO
+T8	Problema 127 197	FIBROSE PERSISTENTE APICE E MEDIO APICAL DA P ANTERIOR E ANTERO SEPTAL
+T9	Problema 198 215	DISCRETA ISQUEMIA
+T10	Teste 240 253	CINTILOGRAFIA
+T11	Problema 264 359	HIPOPERFUSÃO ACENTUADA E PERSISTENTE NO APICE E MEDIO APICAL PAREDE ANTERIOR E ANTERO SEPTAL VE
+T12	Problema 361 416	HIPOCINESIA DIFUSA DAS PAREDES DO VE, ANTERIOR E APICAL
+T13	Teste 433 446	TESTE ESFORÇO
+T14	Problema 518 537	ISQUEMIA MIOCARDICA
+T15	Tratamento 551 560	AAS 100MG
+T16	Tratamento 566 581	CARVEDILOL 25MG
+T17	Tratamento 587 601	ENALAPRIL 10MG
+T18	Tratamento 616 632	METFORMINA 850MG
+T19	Tratamento 645 662	SINVASTATINA 80MG
+T20	Problema 737 747	LIMITAÇÕES
+T21	Problema 779 808	DISPNEIA AOS GRANDES ESFORÇOS
+T22	Problema 815 843	DISPNEIA PAROXISTICA NOTURNA
+T23	Problema 847 856	ORTOPNEIA
+T24	Problema 865 900	EPISOIDOS ESPORADICOS DE PALPITAÇÃO
+T25	Problema 906 925	SINTOMAS ASSOCIADOS
+T26	Problema 932 944	DOR TORACICA
+T27	Teste 948 960	EXAME FISICO
+T28	Teste 1003 1005	FC
+T29	Teste 1010 1012	PA
+T30	Teste 1021 1024	SAT
+T31	Teste 1030 1031	P
+T32	Problema 1039 1046	AFEBRIL
+T33	Problema 1064 1077	SOPRO AUDIVEL
+T34	Tratamento 1093 1103	TRATAMENTO
+T35	Tratamento 1108 1125	CARVEDILOL 12,5MG
+T36	Tratamento 1135 1149	ENALAPRIL 5 MG
+T37	Tratamento 1168 1188	ESPIRONOLACTONA 25MG
+T38	Teste 1210 1230	EXAMES LABORATORIAIS
+T39	Teste 1255 1264	ECOCARDIO
+T40	Tratamento 1290 1308	CESSAR O TABAGISMO
+T41	Teste 1373 1379	EXAMES
+T42	Anatomia 147 197	APICE E MEDIO APICAL DA P ANTERIOR E ANTERO SEPTAL
+T43	Anatomia 304 359	APICE E MEDIO APICAL PAREDE ANTERIOR E ANTERO SEPTAL VE
+T44	Anatomia 384 416	PAREDES DO VE, ANTERIOR E APICAL
+T45	Anatomia 936 944	TORACICA
+T46	Anatomia 527 537	MIOCARDICA
+T1	Problema 45 48	IAM
+T2	Tratamento 56 59	ATC
+T3	Problema 62 65	HAS
+T4	Problema 68 70	DM
+T5	Problema 73 82	TBG ATIVA
+T6	Problema 99 133	dispneia a medios/grandes esforços
+T7	Problema 142 169;175 196	edema de membros inferiores piora no final do dia
+T8	Problema 205 228	palpitaçoes esporádicas
+T9	Problema 236 245	ortopneia
+T10	Problema 249 269	dispneia paroxistica
+T11	Problema 276 288	dor toracica
+T12	Teste 343 352	ECOCARDIO
+T13	Problema 390 440	função sistólica global diminuída de grau moderado
+T14	Problema 459 496	Alteração de contratilidade segmentar
+T15	Problema 498 525	Disfunção diastólica grau I
+T16	Problema 570 593	Refluxo mitral discreto
+T17	Teste 598 605	CINTILO
+T18	Problema 606 676	FIBROSE PERSISTENTE APICE E MEDIO APICAL DA P ANTERIOR E ANTERO SEPTAL
+T19	Problema 677 694	DISCRETA ISQUEMIA
+T20	Teste 718 731	CINTILOGRAFIA
+T21	Problema 742 837	HIPOPERFUSÃO ACENTUADA E PERSISTENTE NO APICE E MEDIO APICAL PAREDE ANTERIOR E ANTERO SEPTAL VE
+T22	Problema 839 894	HIPOCINESIA DIFUSA DAS PAREDES DO VE, ANTERIOR E APICAL
+T23	Teste 911 924	TESTE ESFORÇO
+T24	Problema 996 1015	ISQUEMIA MIOCARDICA
+T25	Tratamento 1030 1039	AAS 100MG
+T26	Tratamento 1045 1061	CARVEDILOL 12,5G
+T27	Tratamento 1070 1084	ENALAPRIL 10MG
+T28	Tratamento 1099 1115	METFORMINA 850MG
+T29	Tratamento 1128 1145	SINVASTATINA 80MG
+T30	Tratamento 1155 1175	ESPIRONOLACTONA 25MG
+T31	Problema 1221 1229	cefaleia
+T32	Teste 1236 1237	P
+T33	Teste 1242 1244	PA
+T34	Problema 1293 1295	SS
+T35	Problema 1318 1320	RA
+T36	Problema 1322 1357	MMII edema +/++++ em membro direito
+T37	Tratamento 1373 1388	furosemida 40mg
+T38	Tratamento 1398 1416	carvedilol para 25
+T39	Tratamento 1438 1450	sinvastatina
+T40	Tratamento 1455 1473	atorvastatina 80mg
+T41	Teste 1475 1478	LDL
+T42	Anatomia 527 541	àtrio esquerdo
+T43	Anatomia 151 169	membros inferiores
+T44	Anatomia 280 288	toracica
+T45	Anatomia 363 365	VE
+T46	Anatomia 544 560	Câmaras direitas
+T47	Anatomia 578 584	mitral
+T48	Anatomia 626 676	APICE E MEDIO APICAL DA P ANTERIOR E ANTERO SEPTAL
+T49	Anatomia 782 837	APICE E MEDIO APICAL PAREDE ANTERIOR E ANTERO SEPTAL VE
+T50	Anatomia 862 894	PAREDES DO VE, ANTERIOR E APICAL
+T51	Anatomia 1005 1015	MIOCARDICA
+T52	Anatomia 1322 1326	MMII
+T53	Anatomia 1343 1357	membro direito
+T1	Tratamento 77 88	cx cardíaca
+T2	Problema 269 272	IAM
+T3	Problema 275 278	AVC
+T4	Tratamento 300 318	cx ponte de safena
+T5	Tratamento 346 364	3 pontes de safena
+T6	Tratamento 367 388	enchimento de mamária
+T7	Tratamento 405 414	captopril
+T8	Tratamento 422 434	sinvastatina
+T9	Tratamento 438 446	atenolol
+T10	Tratamento 455 465	furosemida
+T11	Problema 485 499	coronariopatia
+T13	Anatomia 80 88	cardíaca
+T12	Anatomia 381 388	mamária
+T1	Teste 62 79	ELETROCARDIOGRAMA
+T2	Problema 81 128	ALTERAÇÕES DIFUSAS DA REPOLARIZAÇÃO VENTRICULAR
+T3	Teste 130 150	EXAMES LABORATORIAIS
+T4	Teste 152 162	CREATININA
+T5	Teste 169 176	GLICOSE
+T6	Teste 184 189	UREIA
+T7	Teste 196 210	TRIGLICERIDEOS
+T8	Teste 218 221	HDL
+T9	Teste 227 235	POTASSIO
+T10	Teste 242 258	COLESTEROL TOTAL
+T11	Teste 265 268	LDL
+T12	Teste 275 279	KPTT
+T13	Tratamento 286 297	CX CARDÍACA
+T14	Tratamento 317 335	3 PONTES DE SAFENA
+T15	Problema 353 360	INFARTO
+T16	Problema 421 427	ANGINA
+T17	Problema 434 442	DISPNÉIA
+T18	Tratamento 477 485	ATENOLOL
+T19	Tratamento 494 503	CAPTOPRIL
+T20	Tratamento 511 521	FUROSEMIDA
+T21	Tratamento 529 541	SINVASTATINA
+T22	Tratamento 558 567	OMEPRAZOL
+T24	Problema 451 464	EDEMA DE MMII
+T25	Problema 573 583	HIPERTENSA
+T26	Anatomia 117 128	VENTRICULAR
+T27	Anatomia 289 297	CARDÍACA
+T28	Anatomia 460 464	MMII
+T23	Problema 386 408	VERTIGEM MESMO SENTADA
+T1	Problema 91 94	IAM
+T2	Problema 148 159	dor em MMII
+T3	Problema 164 176	edema em pés
+T4	Problema 200 213	dor em ombros
+T5	Problema 220 228	dispneia
+T6	Problema 230 243	precordialgia
+T7	Problema 245 254	ortopneia
+T8	Problema 258 261	DPN
+T9	Tratamento 272 282	AAS 100 mg
+T10	Tratamento 284 307	Hidroclorotiazida 25 mg
+T11	Tratamento 309 327	Sinvastatina 20 mg
+T12	Tratamento 329 345	Carvedilol 25 mg
+T13	Tratamento 364 381	Clopidogrel 75 mg
+T14	Tratamento 391 407	Cilostazol 50 mg
+T15	Teste 426 441	Exame de sangue
+T16	Teste 443 457	ecocardiograma
+T17	Teste 516 519	CAT
+T18	Tratamento 533 545	angioplastia
+T19	Problema 558 594	lesão de 80% em grande ramo marginal
+T20	Problema 597 600	HAS
+T21	Problema 602 605	DAC
+T22	Anatomia 155 159	MMII
+T23	Anatomia 173 176	pés
+T24	Anatomia 207 213	ombros
+T25	Anatomia 574 594	grande ramo marginal
+T1	Problema 111 114	IAM
+T2	Teste 119 122	CAT
+T3	Tratamento 125 137	ANGIOPLASTIA
+T4	Problema 152 173	QUEIXAS CARDIOLOGICAS
+T5	Problema 182 199	DOR A DEAMBULACAO
+T6	Tratamento 214 224	AAS 100 MG
+T7	Tratamento 227 243	CARVEDILOL 25 MG
+T8	Tratamento 246 256	HCTZ 25 MG
+T9	Tratamento 259 277	SINVASTATINA 20 MG
+T10	Teste 280 289	ECOCARDIO
+T11	Problema 351 389	FUNÇÃO  GLOBAL MODERADAMENTE DIMINUIDA
+T12	Problema 394 436	ACINESIA MEDIO APICAL PAREDE ANTERO SEPTAL
+T13	Problema 438 451	AUMENTO DE AE
+T14	Problema 453 476	REFLUXO MITRAL DISCRETO
+T15	Problema 478 501	ECTASIA DA RAIZ AÓRTICA
+T16	Problema 503 527	REFLUXO AÓRTICO DISCRETO
+T17	Teste 541 543	EX
+T18	Teste 545 547	PA
+T19	Teste 556 558	FC
+T20	Teste 564 567	SAT
+T21	Problema 577 593	BC HIPOFONETICAS
+T22	Problema 598 604	SORPOS
+T23	Problema 609 623	EXTRASSISTOLES
+T24	Problema 625 643	EDEMA EM MMII ++/4
+T25	Tratamento 657 666	MEDICAÇAO
+T26	Problema 301 348	VE HIPERTROFIADO COM DIMENSÃO INTERNA AUMENTADA
+T27	Anatomia 160 173	CARDIOLOGICAS
+T28	Anatomia 301 303	VE
+T29	Anatomia 403 436	MEDIO APICAL PAREDE ANTERO SEPTAL
+T30	Anatomia 449 451	AE
+T31	Anatomia 461 467	MITRAL
+T32	Anatomia 489 501	RAIZ AÓRTICA
+T33	Anatomia 511 518	AÓRTICO
+T34	Anatomia 634 638	MMII
+T1	Problema 43 46	has
+T2	Tratamento 63 70	aas 100
+T3	Tratamento 73 86	carvedilol 25
+T4	Tratamento 94 105	sinva 40 mg
+T5	Tratamento 114 123	enalapril
+T6	Tratamento 140 150	furo 40 mg
+T7	Teste 162 165	cat
+T8	Tratamento 168 180	angioplastia
+T9	Teste 187 196	ECOCARDIO
+T10	Problema 258 295	FUNÇÃO GLOBAL MODERADAMENTE DIMINUIDA
+T11	Problema 300 342	ACINESIA MEDIO APICAL PAREDE ANTERO SEPTAL
+T12	Problema 344 357	AUMENTO DE AE
+T13	Problema 359 382	REFLUXO MITRAL DISCRETO
+T14	Problema 384 407	ECTASIA DA RAIZ AÓRTICA
+T15	Problema 409 433	REFLUXO AÓRTICO DISCRETO
+T16	Problema 208 255	VE HIPERTROFIADO COM DIMENSÃO INTERNA AUMENTADA
+T17	Teste 456 475	ECODOPPLER ARTERIAR
+T18	Problema 486 540	ESTENOSE APROX DE 75% DA BIFURCAÇÃO DOS VASOS FEMORAIS
+T19	Problema 542 598	LESOES SUBSEGMENTARES DAS ART, TIBIAL ANTERIOR E FIBULAR
+T20	Problema 600 640	OCLUSÃO DA ARTERIA POPLITEA MEDIO DISTAL
+T21	Problema 642 650	ESTENOSE
+T22	Problema 655 690	OCLUSAO DA ARTERIA TIBIAL POSTERIOR
+T23	Problema 702 721	disfunção sistólica
+T24	Problema 727 730	iam
+T26	Anatomia 208 210	VE
+T27	Anatomia 309 342	MEDIO APICAL PAREDE ANTERO SEPTAL
+T28	Anatomia 355 357	AE
+T29	Anatomia 367 373	MITRAL
+T30	Anatomia 395 407	RAIZ AÓRTICA
+T31	Anatomia 417 424	AÓRTICO
+T32	Anatomia 476 484	MMII ESQ
+T33	Anatomia 511 540	BIFURCAÇÃO DOS VASOS FEMORAIS
+T34	Anatomia 568 598	ART, TIBIAL ANTERIOR E FIBULAR
+T25	Anatomia 611 640	ARTERIA POPLITEA MEDIO DISTAL
+T35	Anatomia 666 690	ARTERIA TIBIAL POSTERIOR
+T1	Problema 55 62;74 90	síncope mais com o calor
+T2	Problema 103 110	tontura
+T3	Problema 113 121	sudorese
+T4	Problema 124 144	escurecimento visual
+T5	Problema 185 200	confusão mental
+T6	Problema 204 213	salivação
+T7	Tratamento 232 241	medicação
+T8	Problema 248 263	outros sintomas
+T9	Teste 285 288	ECG
+T10	Problema 290 294	DCRD
+T11	Teste 296 298	PA
+T12	Problema 322 324	ss
+T13	Problema 345 347	ra
+T14	Problema 357 361;364 369	mmii edema
+T15	Problema 371 381	Vaso vagal
+T16	Teste 388 397	ecocardio
+T17	Teste 399 405	holter
+T18	Teste 408 410	TE
+T19	Anatomia 349 352	Abd
+T20	Anatomia 357 361	mmii
+T1	Tratamento 94 107	Diclin  (ACO)
+T2	Problema 127 134;153 169	síncope mais com o calor
+T3	Problema 182 189	tontura
+T4	Problema 192 200	sudorese
+T5	Problema 203 223	escurecimento visual
+T6	Problema 232 271	exacerbação dos sintomas com nervosismo
+T7	Problema 312 327	confusão mental
+T8	Problema 331 340	salivação
+T9	Tratamento 359 368	medicação
+T10	Problema 375 390	outros sintomas
+T11	Problema 425 433;459 488	sintomas durante atividades domesticas
+T12	Teste 491 500	Ecocardio
+T13	Teste 564 569	Exame
+T14	Teste 593 610	Teste ergometrico
+T15	Teste 679 682	ECG
+T16	Problema 684 688	DCRD
+T17	Teste 753 755	FC
+T18	Teste 760 762	FR
+T19	Teste 767 769	PA
+T20	Teste 779 782	SAT
+T21	Problema 805 807	ss
+T22	Problema 828 830	ra
+T23	Problema 840 844;847 852	mmii edema
+T24	Problema 855 865	Vaso vagal
+T25	Teste 879 885	holter
+T26	Teste 899 905	exames
+T27	Anatomia 511 513	RA
+T28	Anatomia 518 520	AE
+T29	Anatomia 525 527	VD
+T30	Anatomia 532 537	Septo
+T31	Anatomia 542 544	PP
+T32	Anatomia 549 551	VE
+T33	Anatomia 832 835	Abd
+T34	Anatomia 840 844	mmii
+T1	Problema 45 47	DM
+T2	Problema 50 53	DLP
+T3	Problema 74 77	FAC
+T4	Problema 56 71	hipotireoidismo
+T8	Problema 156 163	síncope
+T9	Problema 165 176	palpitações
+T10	Problema 179 187	dispnéia
+T11	Teste 197 200	Eco
+T12	Problema 205 217	AE aumentado
+T13	Problema 227 240	IM e IT leves
+T14	Teste 246 251	exame
+T15	Teste 300 302	PA
+T16	Teste 311 313	FC
+T17	Problema 326 332	sopros
+T18	Problema 318 321	RCI
+T19	Anatomia 205 207	AE
+T5	Problema 96 149	tontura, mal estar e cansaço durante os dias de calor
+T1	Problema 99 102	IAM
+T2	Tratamento 144 162	carvediol 6, 25 mg
+T3	Tratamento 165 175	AAS 100 mg
+T4	Tratamento 178 194	furosemida 40 mg
+T5	Tratamento 197 213	losartana 100 mg
+T6	Tratamento 215 233	atorvstatina 20 mg
+T7	Tratamento 236 251	omeprazol 20 mg
+T8	Problema 269 277	dispnéia
+T9	Problema 280 308	cansaço aos minimos esforços
+T10	Problema 326 351	parestesias em pé direito
+T11	Problema 354 385	dores musculares na panturrilha
+T12	Problema 387 399	Comorbidades
+T13	Problema 402 405	HAS
+T14	Problema 407 410	ICC
+T15	Problema 413 425	dislipidemia
+T16	Teste 436 442	2 CATs
+T17	Tratamento 493 505	sinvastatina
+T18	Tratamento 558 570	sinvastatina
+T19	Tratamento 510 523	atorvastatina
+T20	Teste 591 597	exames
+T21	Teste 599 601	EF
+T22	Teste 603 605	PA
+T23	Tratamento 692 704	sinvastatina
+T24	Tratamento 709 722	atorvastatina
+T25	Teste 734 750	exames de sangue
+T26	Teste 753 755	CT
+T27	Teste 757 760	LDL
+T28	Teste 762 765	HDL
+T29	Teste 767 769	TG
+T30	Tratamento 785 802	demais medicações
+T31	Tratamento 445 460	3 angioplastias
+T33	Anatomia 744 750	sangue
+T32	Anatomia 341 351	pé direito
+T34	Anatomia 374 385	panturrilha
+T35	Anatomia 627 664	Pulso MMII pedioso poplíteo e femoral
+T1	Tratamento 47 50	ATC
+T2	Problema 63 71	DISPNEIA
+T3	Problema 78 81	DOR
+T4	Tratamento 102 111	MEDICACAO
+T5	Problema 118 132	OUTRAS QUEIXAS
+T6	Problema 140 149	DEPRESSAO
+T7	Problema 189 205	PERDA DE APETITE
+T8	Problema 208 221	FALTA DE SONO
+T9	Problema 223 226	ICO
+T10	Teste 241 261	EXAMES LABORATORIAIS
+T11	Teste 264 287	CATETERISMO DIAGNOSTICO
+T12	Tratamento 297 305	OSSTENTS
+T1	Problema 81 88	cansaço
+T4	Problema 124 132	dispneia
+T5	Problema 134 143	ortopneia
+T6	Problema 146 149	DNP
+T7	Problema 200 205	gripe
+T8	Problema 207 210	HAS
+T9	Problema 212 215	ICC
+T10	Problema 222 224	DM
+T11	Tratamento 226 236	carvedilol
+T12	Tratamento 249 264	furosemida 20mg
+T13	Tratamento 280 292	sinvastatina
+T14	Tratamento 306 315	AAS 100mg
+T15	Tratamento 330 344	Omeprazol 20mg
+T16	Tratamento 375 389	4 angioplastia
+T17	Problema 413 422	tabagista
+T18	Problema 454 462	etilista
+T19	Problema 508 515	cansaço
+T20	Problema 550 557	afebril
+T21	Teste 573 575	FC
+T22	Problema 599 603;609 614	MMII edema
+T23	Problema 599 603;621 633	MMII empastamento
+T24	Teste 682 702	exames laboratoriais
+T25	Anatomia 94 104	precordial
+T26	Anatomia 559 567	Cardiaco
+T27	Anatomia 585 593	Pulmonar
+T28	Anatomia 599 603	MMII
+T29	Anatomia 635 641	Abdome
+T2	Problema 90 117	dor precordial quando tosse
+T1	Problema 61 64	HAS
+T2	Problema 67 69	IC
+T3	Problema 72 87	HIPOTIREOIDISMO
+T4	Problema 90 113	MIOCARDIOPATIA DILATADA
+T5	Tratamento 128 130	MP
+T6	Tratamento 133 136	CDI
+T7	Tratamento 156 172	CARVEDILOL 50 MG
+T8	Tratamento 180 212	MONONITRATO DE ISOSSORBITA 20 MG
+T9	Tratamento 220 234	ANCORON 200 MG
+T10	Tratamento 242 257	ALDACTONE 25 MG
+T11	Tratamento 263 279	FUROSEMIDA 40 MG
+T12	Tratamento 287 301	LOSARTAN 50 MG
+T13	Tratamento 309 325	DIGOXINA 0,25 MG
+T14	Tratamento 331 349	SINVASTATINA 40 MG
+T15	Tratamento 380 393	RIVOTRIL 2 MG
+T16	Tratamento 399 407	PROCIMAX
+T17	Problema 581 589	DISPNÉIA
+T18	Problema 592 622	CANSAÇO AOS MODERADOS ESFORÇOS
+T19	Problema 629 638	ORTOPNEIA
+T20	Problema 642 645	DPN
+T21	Teste 685 690	EXAME
+T22	Problema 707 714	AFEBRIL
+T23	Problema 731 733	SS
+T24	Problema 749 751	RA
+T25	Problema 776 780;786 791	MMII EDEMA
+T26	Teste 815 818	LAB
+T27	Teste 829 832	TSH
+T28	Teste 838 841	T4L
+T29	Tratamento 863 874	HIDRALAZINA
+T30	Teste 891 896	ECOTT
+T31	Teste 899 908	ECOSTRESS
+T32	Teste 931 946	AVALIAÇÃO DO MP
+T33	Teste 963 966	LAB
+T34	Tratamento 355 374	LEVOTIROXINA 50 MCG
+T35	Problema 471 493;527 537;547 565	DOR TORÁCICA EM APERTO EM REPOUSO PIORA AOS ESFORÇOS
+T36	Tratamento 982 999	PURAN PARA 75 MCG
+T37	Anatomia 475 483	TORÁCICA
+T38	Anatomia 753 756	ABD
+T39	Anatomia 776 780	MMII
+T40	Anatomia 793 805	PANTURRILHAS
+T1	Problema 85 88	HAS
+T3	Problema 96 111	HIPOTIREOIDISMO
+T4	Problema 114 137	MIOCARDIOPATIA DILATADA
+T5	Tratamento 140 168	IMPLANTE DE RESSINCRONIZADOR
+T6	Tratamento 171 184	DESFIBRILADOR
+T7	Problema 200 209	DEPRESSÃO
+T8	Tratamento 219 235	CARVEDILOL 50 MG
+T9	Tratamento 243 275	MONONITRATO DE ISOSSORBITA 20 MG
+T10	Tratamento 283 310	ANCORON (AMIODARONA) 200 MG
+T11	Tratamento 318 339	ESPIRONOLACTONA 25 MG
+T12	Tratamento 345 361	FUROSEMIDA 40 MG
+T13	Tratamento 369 383	LOSARTAN 50 MG
+T14	Tratamento 391 407	DIGOXINA 0,25 MG
+T15	Tratamento 413 431	SINVASTATINA 40 MG
+T16	Tratamento 437 456	LEVOTIROXINA 50 MCG
+T17	Tratamento 462 475	RIVOTRIL 2 MG
+T18	Tratamento 481 496	CITALOPRAM 20MG
+T19	Problema 513 561;563 577;579 601	DOR PRECORDIAL LEVE A MODERADA DO TIPO QUEIMAÇÃO SEM IRRADIAÇÃO SEM PIORA AOS ESFORÇOS
+T23	Problema 669 678	ORTOPNEIA
+T24	Problema 681 684	DPN
+T25	Problema 691 696	TOSSE
+T26	Problema 699 704	EDEMA
+T27	Tratamento 751 758	CESAREA
+T28	Tratamento 767 780	LIPOASPIRAÇÃO
+T29	Problema 787 795	ALERGIAS
+T30	Teste 825 838	CINTILOGRAFIA
+T31	Teste 841 869	EXAMES PARA DOENÇA DE CHAGAS
+T32	Problema 906 915	TABAGISMO
+T33	Problema 922 930	ETILISMO
+T34	Teste 956 962	EXAMES
+T35	Teste 964 966	HB
+T36	Teste 973 975	HT
+T37	Teste 983 993	CREATININA
+T38	Teste 999 1006	GLICOSE
+T39	Teste 1011 1016	UREIA
+T40	Teste 1024 1027	HDL
+T41	Teste 1032 1037	SODIO
+T42	Teste 1043 1051	POTASSIO
+T43	Teste 1057 1073	COLESTEROL TOTAL
+T44	Teste 1079 1082	TSH
+T45	Teste 1089 1097	T4 LIVRE
+T46	Teste 1104 1118	TRIGLICERIDEOS
+T47	Teste 1163 1201	ECOCARDIOGRAMA DE STRESS FARMACOLOGICO
+T48	Problema 1219 1238	ISQUEMIA MIOCÁRDICA
+T49	Tratamento 1269 1294	LEVOTIROXINA PARA 100 MCG
+T50	Tratamento 1296 1314	CIPROFIBRATO 100MG
+T51	Tratamento 1323 1333	FUROSEMIDA
+T52	Tratamento 1350 1372	SINVASTATINA PARA 40MG
+T53	Teste 809 823	3 CATETERISMOS
+T54	Problema 1337 1348	FALTA DE AR
+T55	Tratamento 1374 1390	HIDRALAZINA 25MG
+T56	Teste 1400 1406	EXAMES
+T57	Teste 1410 1413	TSH
+T58	Teste 1415 1423	T4 LIVRE
+T59	Teste 1425 1427	CK
+T60	Teste 1429 1432	TGO
+T61	Teste 1435 1438	TGP
+T62	Teste 1441 1456	PERFIL LIPIDICO
+T63	Teste 1125 1161	STRESS FARMACOLOGICO COM DIPIRIDAMOL
+T64	Anatomia 517 527	PRECORDIAL
+T65	Anatomia 1228 1238	MIOCÁRDICA
+T2	Problema 91 93	IC
+T20	Problema 603 662	DISPNEIA, MAL ESTAR E FADIGA AO SUBIR ESCADAS, ANDAR RÁPIDO
+T1	Teste 76 82	exames
+T2	Problema 85 88	HAS
+T3	Problema 90 104	hipotiroidismo
+T4	Problema 106 118	dislipidemia
+T5	Problema 120 130	síndrome X
+T6	Tratamento 143 158	enalapril 20 mg
+T7	Tratamento 166 176	AAS 100 mg
+T8	Tratamento 178 196	carvedilol 6,25 mg
+T9	Tratamento 208 231	hidroclorotiazida 25 mg
+T10	Tratamento 234 253	rosuvastatina 10 mg
+T11	Tratamento 255 270	ezetinibe 10 mg
+T12	Tratamento 272 287	sustrate 100 mg
+T13	Problema 291 297	angina
+T14	Tratamento 299 311	puran 25 mcg
+T15	Teste 335 358	ecocardio transtorácico
+T16	Problema 360 391	remodelamento concêntrico do VE
+T17	Problema 393 427	disfunção diastólica grau II do VE
+T18	Teste 429 449	exames laboratoriais
+T19	Teste 460 463	LDL
+T20	Teste 521 523	PA
+T21	Teste 533 535	FC
+T22	Teste 585 606	exames labopratoriais
+T23	Anatomia 389 391	VE
+T24	Anatomia 425 427	VE
+T25	Anatomia 549 557	cardiaca
+T1	Problema 62 65	HAS
+T2	Problema 79 83	DSLP
+T3	Problema 87 102	HIPOTIREOIDISMO
+T4	Tratamento 125 139	PURA T4 25 MCG
+T5	Problema 148 157	DEPRESSÃO
+T6	Tratamento 169 185	FLUOXETINA 20 MG
+T7	Teste 195 198	CAT
+T8	Teste 270 310	CINTILOGRAFIA MIOCÁRDICA COM DIPIRIDAMOL
+T9	Problema 320 409	HIPOCAPTAÇÃO APICAL, DO SEGMENTO ANTERIOR (TRANSITÓRIO) E BASAL DO SEGMENTO ANTERO-SEPTAL
+T10	Tratamento 420 430	MEDICAÇÕES
+T11	Tratamento 432 447	ENALAPRIL 20 MG
+T12	Tratamento 461 470	AAS 100MG
+T13	Tratamento 477 495	CARVEDILOL 6,25 MG
+T14	Tratamento 514 532	SINVASTATINA 20 MG
+T15	Tratamento 545 555	HCTZ 25 MG
+T16	Problema 581 595	DOR PRECORDIAL
+T17	Tratamento 598 608	COMPLEXO B
+T18	Tratamento 628 640	PURAN 25 mcg
+T19	Tratamento 650 666	fFLUXETINA 20 mg
+T20	Tratamento 676 702	HIDROXIDOCLOROQUINA  400mg
+T21	Tratamento 712 729	COLCHICINA 0,5 mg
+T24	Problema 916 969	QUEIXAS RESPIRATÓRIAS, URINÁRIAS OU GASTROINTESTINAIS
+T25	Tratamento 562 577	SUSTRATE 100 MG
+T26	Problema 241 256	HÉRNIA DE DISCO
+T27	Problema 882 897	OUTROS SINTOMAS
+T30	Anatomia 585 595	PRECORDIAL
+T31	Anatomia 798 808	PRECORDIAL
+T32	Anatomia 924 937	RESPIRATÓRIAS
+T33	Anatomia 939 948	URINÁRIAS
+T34	Anatomia 952 969	GASTROINTESTINAIS
+T28	Anatomia 333 409	APICAL, DO SEGMENTO ANTERIOR (TRANSITÓRIO) E BASAL DO SEGMENTO ANTERO-SEPTAL
+T29	Anatomia 284 294	MIOCÁRDICA
+T22	Problema 755 823;830 876	EPISÓDIOS INTERMINTES DE PALPITAÇÕES E DOR PRECORDIAL (1-2 X/SEMANA) RELAÇÃO COM EXERCICÍO FÍSICO OU COM O ESTRESSE
+T1	Problema 61 64	HAS
+T2	Problema 78 82	DSLP
+T3	Problema 86 101	HIPOTIREOIDISMO
+T4	Problema 105 114	DEPRESSÃO
+T5	Problema 118 138	OSTEOARTRITE DE MÃOS
+T6	Teste 141 144	CAT
+T7	Problema 186 201	HÉRNIA DE DISCO
+T8	Teste 214 254	CINTILOGRAFIA MIOCÁRDICA COM DIPIRIDAMOL
+T9	Problema 264 353	HIPOCAPTAÇÃO APICAL, DO SEGMENTO ANTERIOR (TRANSITÓRIO) E BASAL DO SEGMENTO ANTERO-SEPTAL
+T10	Tratamento 365 380	FLUOXETINA 20MG
+T11	Tratamento 385 399	ENALAPRIL 10MG
+T12	Tratamento 408 417	AAS 100MG
+T13	Tratamento 422 439	CARVEDILOL 12,5MG
+T14	Tratamento 448 457	HCTZ 25MG
+T15	Tratamento 462 475	SUSTRATE 10MG
+T16	Tratamento 480 497	SINVASTATINA 40MG
+T17	Tratamento 525 548	HIDROXICLOROQUINA 400MG
+T18	Teste 555 558	LAB
+T19	Teste 569 571	TG
+T20	Teste 578 581	HDL
+T21	Teste 587 589	CT
+T22	Teste 596 599	LDL
+T23	Problema 618 656;662 687;689 703;705 730;732 750	DOR TORÁCICA PRECORDIAL TIPO QUEIMAÇÃO MELHORA AO USO DE NITRATO SEM IRRADIAÇÃO SEM RELAÇÃO COM O ESFORÇO 2 EPISÓDIOS AO MÊS
+T24	Problema 757 765	DISPNÉIA
+T25	Problema 767 776	ORTOPNEIA
+T26	Problema 780 783	DPN
+T27	Problema 790 807	EDEMA DE     MMII
+T28	Problema 826 844;845 859	ARTRALGIAS DIFUSAS PIORES AO FRIO
+T29	Teste 910 912	PA
+T30	Teste 921 923	FC
+T31	Teste 928 933	SATO2
+T32	Problema 974 976	RA
+T33	Problema 989 995	SOPROS
+T34	Problema 1042 1045	VCM
+T35	Problema 1004 1010;1049 1065	ABDOME MASSAS PALPAVEIS
+T36	Problema 1068 1072;1077 1082	MMII EDEMA
+T37	Problema 1068 1072;1086 1098	MMII EMPASTAMENTO
+T38	Problema 1109 1124	ANGINA INSTÁVEL
+T39	Tratamento 1145 1160	MONOCORDIL 20MG
+T40	Teste 1185 1221	CINTILOGRAFIA DE PERFUSÃO MIOCÁRDICA
+T41	Teste 1239 1242	LAB
+T42	Teste 1259 1265	EXAMES
+T43	Tratamento 502 520	LEVOTIROXINA 25UCG
+T44	Anatomia 1004 1010	ABDOME
+T45	Anatomia 134 138	MÃOS
+T48	Anatomia 622 641	TORÁCICA PRECORDIAL
+T49	Anatomia 803 807	MMII
+T50	Anatomia 1068 1072	MMII
+T51	Anatomia 1211 1221	MIOCÁRDICA
+T52	Anatomia 228 238	MIOCÁRDICA
+T46	Anatomia 277 353	APICAL, DO SEGMENTO ANTERIOR (TRANSITÓRIO) E BASAL DO SEGMENTO ANTERO-SEPTAL
+T1	Tratamento 43 46	CDI
+T2	Problema 66 79	DÇA CHAGASICA
+T3	Problema 81 83	TV
+T4	Problema 86 93	SINCOPE
+T5	Problema 109 113	BAVT
+T6	Tratamento 125 127	MP
+T7	Problema 227 245	SEM CAPTURA ATRIAL
+T8	Problema 252 267	FC ATRIAL BAIXA
+T9	Anatomia 239 245	ATRIAL
+T10	Anatomia 255 261	ATRIAL
+T1	Problema 92 99	SINCOPE
+T2	Problema 105 115	PALPITAÇÃO
+T3	Tratamento 121 129	TERAPIAS
+T4	Teste 165 184	avaliação de mp-cdi
+T5	Tratamento 204 222	arritmias-terapias
+T6	Anatomia 246 252	atrial
+T7	Anatomia 255 266	ventricular
+T1	Teste 60 63	CAT
+T2	Tratamento 73 93	VALVOPLASTIA AÓRTICA
+T3	Tratamento 103 118	VALVA BIOLÓGICA
+T4	Problema 131 139	ARRITMIA
+T5	Tratamento 141 153	CARDIOVERSAO
+T6	Problema 176 183	CANSAÇO
+T7	Tratamento 193 195	CX
+T8	Problema 198 207	PNEUMONIA
+T9	Problema 215 222	FUMANTE
+T10	Problema 275 294	SINTOMAS CARDIOVASC
+T11	Problema 322 330	PA BAIXA
+T12	Tratamento 352 364	ENALAPRIL 10
+T13	Tratamento 376 391	CARVEDILOL 6,25
+T14	Tratamento 403 410	AAS 100
+T15	Tratamento 414 430	ATORVASTATINA 20
+T16	Teste 445 457	EXAME FISICO
+T17	Teste 459 461	FC
+T18	Teste 466 468	PA
+T19	Teste 478 480	FR
+T20	Problema 495 526	SOPRO SISTÓLICO EM FOCO AORTICO
+T21	Problema 547 549	RA
+T22	Problema 560 574	VISCEROMEGALIA
+T23	Problema 578 592	DOR A PALPAÇÃO
+T24	Problema 594 610	HERNIA UMBULICAL
+T25	Anatomia 86 93	AÓRTICA
+T26	Anatomia 284 294	CARDIOVASC
+T27	Anatomia 514 526	FOCO AORTICO
+T28	Anatomia 601 610	UMBULICAL
+T1	Teste 57 60	CAT
+T2	Tratamento 70 90	VALVOPLASTIA AÓRTICA
+T3	Tratamento 100 115	VALVA BIOLÓGICA
+T4	Tratamento 136 138	CX
+T5	Tratamento 139 151	CARDIOVERSÃO
+T6	Problema 264 271	TONTURA
+T7	Problema 379 386	QUEIXAS
+T8	Problema 438 459	EMAGRECIMENTO DE 7 KG
+T9	Problema 475 487	EX-TABAGISTA
+T10	Tratamento 543 557	ENALAPRIL 10MG
+T11	Tratamento 566 584	CARVEDILOL 12,5 MG
+T12	Tratamento 593 612	ATORVASTATINA 40 MG
+T13	Tratamento 614 625	CLOPIDOGREL
+T14	Tratamento 628 635	MAREVAN
+T15	Teste 641 653	EXAME FÍSICO
+T16	Teste 715 717	FC
+T17	Teste 729 731	PA
+T18	Problema 753 789	HIPOFONESE DE BULHAS EM FOCO AÓRTICO
+T19	Problema 813 815	RA
+T20	Problema 823 829;834 853	ABDOME DOLOROSO A PALPAÇÃO
+T21	Problema 859 874	VISCEROMEGALIAS
+T22	Problema 876 902	HERNIA UMBILICAL REDUTÍVEL
+T23	Problema 904 919	MMII EDEMA +/4+
+T24	Teste 945 948	ECG
+T25	Problema 956 970	FLUTTER ATRIAL
+T26	Problema 1005 1033	EXTRASSÍSTOLES VENTRICULARES
+T27	Tratamento 1042 1050	CONTROLE
+T28	Teste 1054 1057	TAP
+T29	Teste 1082 1085	TAP
+T30	Anatomia 83 90	AÓRTICA
+T31	Anatomia 777 789	FOCO AÓRTICO
+T32	Anatomia 823 829	ABDOME
+T33	Anatomia 883 892	UMBILICAL
+T34	Anatomia 904 908	MMII
+T35	Anatomia 964 970	ATRIAL
+T36	Anatomia 1020 1033	VENTRICULARES
+T37	Anatomia 921 933	PANTURRILHAS
+T1	Tratamento 56 76	VALVOPLASTIA AORTICA
+T2	Problema 83 90	FLUTTER
+T3	Tratamento 121 128	MAREVAN
+T4	Tratamento 130 140	CVD 12,5MG
+T5	Tratamento 149 157	ENL 10MG
+T6	Tratamento 166 182	CLOPIDOGREL 75MG
+T7	Problema 192 199	QUEIXAS
+T8	Problema 206 217	PALPITACOES
+T9	Problema 221 236	OUTROS SINCOPES
+T10	Teste 293 296	ECG
+T11	Teste 328 330	PA
+T12	Problema 341 342	P
+T13	Problema 347 352	BCANF
+T14	Problema 353 355	SS
+T15	Problema 357 371	EXTRA SISTOLES
+T16	Problema 399 412	FLUTTER + ESV
+T17	Problema 414 427	SINUSAL + ESV
+T18	Tratamento 441 444	ACO
+T19	Teste 455 458	ECG
+T20	Teste 461 467	HOLTER
+T21	Teste 481 487	EXAMES
+T22	Anatomia 69 76	AORTICA
+T23	Anatomia 375 378	CPP
+T24	Anatomia 387 390	ABD
+T1	Teste 72 74	TP
+T2	Teste 77 80	RNI
+T3	Problema 87 99	SANGRAMENTOS
+T4	Problema 102 124	ALIMENTAÇÃO INADEQUADA
+T5	Teste 155 158	RNI
+T6	Tratamento 211 220	MEDICAÇÃO
+T7	Teste 241 244	LAB
+T8	Teste 245 248	TAP
+T9	Teste 251 254	RNI
+T1	Tratamento 56 76	VALVOPLASTIA AORTICA
+T2	Problema 83 90	FLUTTER
+T3	Tratamento 119 126	MAREVAN
+T4	Tratamento 128 146	CARVEDILOL 12,5 MG
+T5	Tratamento 153 171	ATORVASTATINA 20MG
+T6	Tratamento 182 197	DIGOXINA 0,25MG
+T7	Problema 220 241	CEFALEIA HOLOCRANIANA
+T8	Problema 248 259	PALPITACOES
+T9	Problema 263 278	OUTROS SINTOMAS
+T10	Problema 285 293	SINCOPES
+T11	Teste 300 302	fc
+T12	Teste 312 314	PA
+T13	Problema 324 351	BC ARRITMICAS HIPOFONETICAS
+T14	Problema 358 371	FLUTTER + ESV
+T15	Problema 374 387	SINUSAL + ESV
+T16	Anatomia 69 76	AORTICA
+T17	Anatomia 229 241	HOLOCRANIANA
+T1	Tratamento 62 94	Troca de valva aórtica biológica
+T2	Problema 99 102	EAo
+T3	Problema 114 128	FA paroxística
+T4	Problema 132 135	HAS
+T5	Problema 139 148	DM tipo 2
+T6	Problema 152 164	Ex-tabagista
+T7	Tratamento 221 236	Carvedilol 25mg
+T8	Tratamento 248 262	Omeprazol 20mg
+T9	Tratamento 269 287	Atorvastatina 40mg
+T10	Tratamento 294 305	Maraven 5mg
+T11	Tratamento 312 328	Metformina 850mg
+T12	Tratamento 340 355	Gliclazida 30mg
+T13	Teste 365 377	Ecocardio TT
+T14	Problema 390 429	VE com hipetrofia excentrica importante
+T15	Problema 471 498	disfunção diastólica grau I
+T16	Problema 524 553	Insuficiência mitral discreta
+T17	Problema 611 619	estenose
+T18	Teste 623 626	ECG
+T19	Problema 639 675	eixo de QRS desviado para a esquerda
+T20	Problema 677 680	BRD
+T21	Problema 682 701	bradicardia sinusal
+T23	Tratamento 885 894	medicação
+T24	Teste 953 955	PA
+T25	Teste 965 967	FC
+T26	Teste 973 975	FR
+T27	Teste 981 986	SatO2
+T28	Problema 1047 1049	RA
+T29	Problema 1071 1106	sopro sistólico em foco Ao de 2+/6+
+T30	Problema 1108 1114;1155 1171	Abdome massas palpáveis
+T31	Problema 1173 1177;1183 1188	MMII edema
+T32	Tratamento 1219 1244	Válvula aórtica biológica
+T33	Problema 1247 1261	FA paroxística
+T34	Problema 1359 1370	bradicardia
+T35	Tratamento 1303 1323	carvedilol para 25mg
+T36	Anatomia 71 84	valva aórtica
+T37	Anatomia 390 392	VE
+T38	Anatomia 538 544	mitral
+T39	Anatomia 500 502	AE
+T40	Anatomia 505 514	câmeras D
+T41	Anatomia 1090 1097	foco Ao
+T42	Anatomia 1108 1114	Abdome
+T43	Anatomia 1173 1177	MMII
+T44	Anatomia 1227 1234	aórtica
+T22	Problema 771 795	tontura ao fazer esforço
+T1	Tratamento 138 150	medicamentos
+T2	Tratamento 164 167	aas
+T3	Tratamento 169 182	gingko biloba
+T4	Tratamento 184 196	sinvastatina
+T5	Tratamento 198 205	aradois
+T6	Tratamento 208 215	ancoron
+T7	Tratamento 238 253	mp camara dupla
+T8	Problema 223 230	queixas
+T1	Problema 120 135	intercorrencias
+T2	Teste 148 173	avaliação exclusiva de mp
+T3	Tratamento 178 193	mp camara-dupla
+T1	Problema 66 69	IAM
+T2	Tratamento 71 73	RM
+T3	Problema 87 95	arritmia
+T4	Tratamento 101 103	RM
+T5	Tratamento 117 129	angioplastia
+T6	Problema 143 153	palpitação
+T7	Problema 259 267	dispneia
+T8	Problema 269 284	aperto no peito
+T9	Problema 287 301	dor nas costas
+T10	Problema 303 312	mal estar
+T11	Tratamento 324 336	angioplastia
+T12	Problema 360 367	síncope
+T13	Problema 369 372	HAS
+T14	Problema 374 388	coronariopatia
+T15	Problema 390 398	arritmia
+T16	Problema 400 408	catarata
+T17	Problema 410 426	hipertireoidismo
+T18	Tratamento 428 442	Prostatectomia
+T19	Tratamento 444 446	RM
+T20	Tratamento 448 460	angioplastia
+T21	Problema 462 468	trauma
+T22	Tratamento 536 548	Medicamentos
+T23	Tratamento 550 563	tapazol 10 mg
+T24	Tratamento 565 580	enalapril 10 mg
+T25	Tratamento 582 595	selozok 50 mg
+T26	Tratamento 597 615	sinvastatina 40 mg
+T27	Tratamento 617 630	xarelto 20 mg
+T28	Teste 632 634	EF
+T29	Teste 636 638	FC
+T30	Tratamento 681 697	25 mg de selozok
+T31	Anatomia 279 284	peito
+T32	Anatomia 295 301	costas
+T33	Anatomia 496 501	peito
+T1	Problema 64 67	DAC
+T2	Tratamento 81 84	RVM
+T3	Problema 70 73	IAM
+T4	Tratamento 88 91	ATC
+T5	Problema 100 116	Hipertireoidismo
+T6	Problema 163 177	FA paroxistica
+T7	Problema 209 242	taquicardia atrial com aberrância
+T8	Problema 259 278	ISQUEMIA MIOCÁRDICA
+T9	Problema 329 345	HIPERTIREOIDISMO
+T10	Teste 384 387	TSH
+T11	Tratamento 398 410	Medicamentos
+T12	Tratamento 412 425	tapazol 10 mg
+T13	Tratamento 427 442	enalapril 10 mg
+T14	Tratamento 451 464	selozok 50 mg
+T15	Tratamento 466 484	sinvastatina 40 mg
+T16	Tratamento 486 499	xarelto 20 mg
+T17	Tratamento 501 509	AAS100mg
+T18	Problema 522 533	palpitações
+T19	Problema 535 543	dispneia
+T20	Problema 545 557	dor torácica
+T21	Problema 559 572	Epigastralgia
+T22	Teste 614 620	exames
+T23	Teste 624 630	Holter
+T24	Problema 703 734	extra-sistole ventricular unica
+T25	Problema 736 772	extra-sistole supra-ventricular rara
+T26	Problema 786 792	pausas
+T27	Problema 801 811	alterações
+T28	Teste 814 817	TSH
+T29	Teste 823 826	t4l
+T30	Teste 835 849	Ecocardiograma
+T31	Teste 976 981	exame
+T32	Teste 996 998	FC
+T33	Problema 1018 1024	sopros
+T34	Problema 1043 1057	FA paroxística
+T35	Tratamento 1145 1154	medicação
+T36	Tratamento 1168 1175	selozok
+T37	Tratamento 1190 1207	propafenona 300mg
+T38	Teste 1228 1237	ecocardio
+T39	Tratamento 1250 1267	Demais medicações
+T40	Anatomia 221 227	atrial
+T41	Anatomia 268 278	MIOCÁRDICA
+T42	Anatomia 549 557	torácica
+T43	Anatomia 717 728	ventricular
+T44	Anatomia 868 870	AE
+T45	Anatomia 876 878	VD
+T46	Anatomia 884 889	septo
+T47	Anatomia 895 897	VE
+T48	Anatomia 914 916	VE
+T49	Anatomia 1026 1029	CPP
+T1	Problema 61 64	IAM
+T2	Tratamento 72 75	ATC
+T3	Problema 79 92	CA de Laringe
+T4	Tratamento 98 100	QT
+T5	Tratamento 103 105	RT
+T6	Tratamento 116 119	TTO
+T7	Problema 128 131	HAS
+T8	Problema 135 138	HPB
+T9	Problema 142 145	DLP
+T10	Problema 149 167	ARTRITE REUMATÓIDE
+T11	Tratamento 188 203	Enalapril 20 mg
+T12	Tratamento 225 242	CARVEDILOL 12,5MG
+T13	Tratamento 264 274	AAS 100 mg
+T14	Tratamento 285 302	Sinvastatina 20mg
+T15	Tratamento 321 334	Omeprazol 20m
+T16	Tratamento 358 373	PREDNISONA 5 MG
+T17	Tratamento 377 386	COMBODART
+T18	Teste 392 408	Teste de esforço
+T19	Problema 442 452	alterações
+T20	Teste 633 642	ECOCARDIO
+T21	Problema 742 792	DISFUNÇÃO DIASTOLICA TIPO ALTERAÇÃO DE RELAXAMENTO
+T22	Problema 847 891	ANORMALIDADES MORFOFUNCIONAIS SIGNIFICATIVAS
+T23	Problema 942 949	QUEIXAS
+T24	Problema 956 964	DISPNEIA
+T25	Problema 967 979	DOR NO PEITO
+T26	Teste 1036 1038	PA
+T27	Teste 1047 1049	FC
+T28	Problema 1089 1091	RA
+T29	Problema 1118 1121	DAC
+T30	Teste 1151 1153	EX
+T31	Anatomia 85 92	Laringe
+T32	Anatomia 500 510	miocardica
+T33	Anatomia 655 657	VE
+T34	Anatomia 696 706	MIOCARDICA
+T35	Anatomia 794 796	AE
+T36	Anatomia 799 817	CAVIDADES DIREITAS
+T37	Anatomia 893 895	AE
+T38	Anatomia 974 979	PEITO
+T39	Anatomia 1093 1096	ABD
+T40	Anatomia 1102 1106	MMII
+T1	Teste 54 56	TE
+T2	Teste 119 122	LDL
+T3	Teste 131 134	GLI
+T4	Teste 142 145	CRE
+T5	Teste 154 157	COL
+T6	Teste 165 168	TRI
+T7	Teste 178 181	HDL
+T8	Problema 190 193	HAS
+T9	Teste 203 206	HCT
+T10	Tratamento 209 212	ATL
+T11	Tratamento 214 217	AAS
+T12	Tratamento 237 248	CLOPIDOGREL
+T13	Tratamento 251 254	SVT
+T14	Problema 76 105	INFRA     4  MMM DESCENDENTE4
+T1	Problema 56 69	DOR TORAXCICA
+T2	Problema 90 92	QX
+T3	Teste 94 98	CATE
+T4	Tratamento 111 114	ATC
+T5	Problema 116 119	HAS
+T6	Tratamento 133 136	ATL
+T7	Tratamento 139 142	AAS
+T8	Tratamento 147 151	CLOP
+T9	Tratamento 154 157	SVT
+T10	Teste 171 175	CATE
+T11	Problema 225 239	LESAO MODERADA
+T12	Problema 282 298	DAC   INCIPIENTE
+T13	Tratamento 315 328	VERAPAMIL  80
+T14	Tratamento 350 353	HCT
+T15	Tratamento 357 363	ATL 50
+T16	Tratamento 368 371	AAS
+T17	Tratamento 376 385	SVT    20
+T18	Teste 396 399	LAB
+T19	Problema 195 215	OBSTRUÇÃO NA SISTOLE
+T20	Tratamento 127 130	HCT
+T21	Anatomia 60 69	TORAXCICA
+T22	Anatomia 178 180	DA
+T1	Problema 43 58	DAC  INCIPIENTE
+T2	Problema 61 64	HAS
+T3	Teste 74 78	CATE
+T4	Problema 82 121	DA  PIM  COM OBSRUÇÃO SISTOLE   >  50 %
+T5	Problema 125 162	LEDSAO   MODERADA  1/3   PROXIMAL  CD
+T6	Tratamento 169 172	HCT
+T7	Tratamento 175 178	ATL
+T8	Tratamento 181 184	AAS
+T9	Tratamento 187 198	CLOPIDOGREL
+T10	Tratamento 200 203	SVT
+T11	Tratamento 208 221	VERAPAMIL  80
+T12	Problema 234 251	QX  CARDIOLOGICAS
+T13	Problema 422 439	INSUF MI DISCRETA
+T14	Teste 464 466	HB
+T15	Teste 472 474	HT
+T16	Teste 483 486	CRE
+T17	Teste 494 497	GLI
+T18	Teste 506 507	U
+T19	Teste 515 518	TRI
+T20	Teste 523 526	HDL
+T21	Teste 533 535	NA
+T22	Teste 544 547	LDL
+T23	Teste 554 555	K
+T24	Teste 565 568	COL
+T25	Tratamento 591 601	SVT  40 MG
+T26	Teste 605 612	CINTILO
+T27	Anatomia 160 162	CD
+T28	Anatomia 82 84	DA
+T29	Anatomia 238 251	CARDIOLOGICAS
+T31	Anatomia 343 345	AE
+T32	Anatomia 403 405	AE
+T33	Anatomia 428 430	MI
+T1	Problema 43 57	DAC INCIPIENTE
+T2	Problema 59 62	HAS
+T3	Teste 71 75	CATE
+T4	Problema 78 131	DA Ponte Intra Miocárdica COM OBSRUÇÃO SISTOLE > 50 %
+T5	Problema 134 165	LEDSAO MODERADA 1/3 PROXIMAL CD
+T6	Tratamento 171 178	HCTZ 25
+T7	Tratamento 180 185	ATL50
+T8	Tratamento 187 193	AAS100
+T9	Tratamento 195 201	SVT 40
+T10	Tratamento 203 215	VERAPAMIL 80
+T11	Teste 220 223	ECO
+T12	Problema 308 325	INSUF MI DISCRETA
+T13	Teste 346 348	HB
+T14	Teste 353 355	HT
+T15	Teste 360 363	CRE
+T16	Teste 369 372	GLI
+T17	Teste 377 378	U
+T18	Teste 383 386	TRI
+T19	Teste 391 394	HDL
+T20	Teste 399 401	NA
+T21	Teste 407 410	LDL
+T22	Teste 416 417	K
+T23	Teste 423 426	COL
+T24	Teste 433 457	Cintilografia miocárdica
+T25	Problema 481 489	isquemia
+T26	Teste 493 495	PA
+T27	Teste 505 507	EF
+T28	Problema 578 580	RA
+T29	Problema 595 601	sorpso
+T30	Problema 604 611;629 635	membros edemas
+T31	Teste 669 679	lipidgrama
+T32	Anatomia 604 611	membros
+T33	Anatomia 93 103	Miocárdica
+T34	Anatomia 78 80	DA
+T35	Anatomia 163 165	CD
+T36	Anatomia 247 249	AE
+T37	Anatomia 294 296	AE
+T38	Anatomia 314 316	MI
+T39	Anatomia 447 457	miocárdica
+T1	Problema 43 46	HAS
+T2	Problema 49 52	DLP
+T3	Problema 54 63	Bronquite
+T4	Problema 65 74	Obesidade
+T5	Problema 79 84	Tosse
+T6	Tratamento 89 98	captopril
+T7	Tratamento 102 115	Losartana 100
+T8	Tratamento 122 134	anlodipino 5
+T9	Tratamento 143 150	HCTZ 25
+T10	Tratamento 152 158	Alenia
+T11	Problema 177 223	dor em MSE e irradiação para região precordial
+T12	Problema 251 281	dificuldade para mexer o braço
+T13	Problema 283 304	Dispnéia aos esforços
+T14	Teste 326 328	EF
+T15	Problema 392 407	sopro carotideo
+T16	Problema 417 437	sibilos expiratorios
+T17	Problema 447 453	sopros
+T18	Problema 455 462;480 486	membors edemas
+T19	Problema 488 502	dermatite ocre
+T20	Teste 507 510	ECO
+T21	Problema 569 594	remodelamento concentrioc
+T22	Teste 609 611	Hb
+T23	Teste 618 620	Ht
+T24	Teste 627 632	Leuco
+T25	Teste 639 641	Eo
+T26	Teste 645 647	Lf
+T27	Teste 652 654	Mo
+T28	Teste 659 661	Sg
+T29	Teste 666 668	Cr
+T30	Teste 674 681	Glicose
+T31	Teste 688 689	U
+T32	Teste 694 696	Mg
+T33	Teste 702 704	FA
+T34	Teste 710 713	GGT
+T35	Teste 719 727	Ác úrico
+T36	Teste 733 735	Na
+T37	Teste 741 743	PK
+T38	Teste 751 753	CT
+T39	Teste 759 762	LDL
+T40	Teste 767 770	HDL
+T41	Teste 776 778	Tg
+T42	Teste 784 787	TSH
+T43	Teste 795 797	PA
+T44	Teste 808 810	EF
+T45	Problema 878 880	Ra
+T46	Problema 894 900	sopros
+T47	Problema 927 934;953 959	membros edenas
+T48	Teste 981 983	TE
+T49	Teste 1028 1036	glicemia
+T50	Teste 1037 1047	Hb glicada
+T51	Anatomia 927 934	membros
+T52	Anatomia 184 187	MSE
+T53	Anatomia 206 223	região precordial
+T54	Anatomia 276 281	braço
+T55	Anatomia 398 407	carotideo
+T56	Anatomia 455 462	membors
+T57	Anatomia 531 533	AE
+T58	Anatomia 539 541	Vd
+T59	Anatomia 546 547	S
+T60	Anatomia 552 554	PP
+T61	Anatomia 902 905	abd
+T1	Problema 43 46	HAS
+T2	Problema 49 52	DLP
+T3	Problema 54 63	Bronquite
+T4	Problema 65 74	Obesidade
+T5	Problema 78 83	Tosse
+T6	Tratamento 88 97	captopril
+T7	Tratamento 102 115	Losartana 100
+T8	Tratamento 122 134	anlodipino 5
+T9	Tratamento 137 144	HCTZ 25
+T10	Tratamento 146 152	Alenia
+T11	Problema 173 185	dor torácica
+T12	Problema 187 208	Dispnéia aos esforços
+T13	Teste 230 232	TE
+T14	Teste 259 261	EF
+T15	Problema 325 340	sopro carotideo
+T16	Problema 350 370	sibilos expiratorios
+T17	Problema 380 386	sopros
+T18	Problema 388 395;413 419	membors edemas
+T19	Problema 421 435	dermatite ocre
+T20	Teste 440 447	Glicose
+T21	Teste 453 463	Hb glicada
+T22	Teste 470 472	PA
+T23	Problema 488 511	Glicemia de JJ alterada
+T24	Tratamento 518 521	MEV
+T25	Tratamento 523 528	dieta
+T26	Anatomia 177 185	torácica
+T27	Anatomia 331 340	carotideo
+T28	Anatomia 388 395	membors
+T1	Problema 50 53	CMD
+T2	Tratamento 79 86	RESSINC
+T3	Tratamento 89 92	CDI
+T4	Problema 235 248;256 272;274 285	SENTIA-SE MAL PENTEAR O CABELO TOMAR BANHO
+T5	Problema 335 338	DPN
+T6	Problema 341 350	ORTOPNEIA
+T7	Tratamento 419 433	mp MULTISSITIO
+T9	Anatomia 266 272	CABELO
+T8	Anatomia 619 621	VE
+T1	Tratamento 62 64;68 106	CX TROCA  VALVAR  MITRAL BIOPROTESE N  31
+T2	Tratamento 68 106	TROCA  VALVAR  MITRAL BIOPROTESE N  31
+T3	Tratamento 166 180	PROTESE  BIOLO
+T4	Problema 191 199	ESTENOSE
+T5	Problema 225 228	ALT
+T6	Problema 276 278	QX
+T7	Tratamento 289 297	CONTROLE
+T8	Tratamento 324 330	GLIBEN
+T9	Tratamento 332 335	ATL
+T10	Tratamento 337 349	CLORTALIDONA
+T11	Tratamento 354 357	LST
+T12	Tratamento 359 374	CONTROLE  DE PÁ
+T13	Anatomia 83 89	MITRAL
+T14	Anatomia 130 132	AE
+T1	Problema 58 70	IC ISQUEMICA
+T2	Tratamento 72 75	RVM
+T3	Tratamento 85 88	ATC
+T4	Problema 99 102	IAM
+T5	Tratamento 111 117	ATC DA
+T6	Problema 163 184	PERDA MEMÓRIA RECENTE
+T7	Tratamento 197 211	ENALAPRIL 10MG
+T8	Tratamento 221 236	CARVEDILOL 25MG
+T9	Tratamento 246 266	ESPIRONOLACTONA 25MG
+T10	Tratamento 272 281	AAS 200MG
+T11	Tratamento 286 301	monocordil 20mg
+T12	Tratamento 305 322	SINVASTATINA 40MG
+T13	Tratamento 328 346	LEVOTIROXINA 50MCG
+T14	Tratamento 365 373	QUETRUSe
+T15	Tratamento 374 381	lamitor
+T16	Tratamento 384 390	exodus
+T17	Teste 398 401	LAB
+T18	Teste 402 404	HB
+T19	Teste 412 416	LEUC
+T20	Teste 424 426	NA
+T21	Teste 432 433	K
+T22	Teste 439 444	CRAET
+T23	Teste 452 456	GLIC
+T24	Teste 461 466	UREIA
+T25	Teste 471 474	CPK
+T26	Teste 480 483	TGP
+T27	Teste 488 491	TGO
+T28	Teste 496 498	CT
+T29	Teste 504 507	TSH
+T30	Teste 514 524	HB GLICADA
+T31	Teste 531 533	TG
+T32	Teste 539 542	HDL
+T33	Teste 547 550	LDL
+T34	Teste 554 563	ECOCARDIO
+T35	Problema 608 625	VE HIPERTROFIACDO
+T36	Problema 627 661	ACINESIA MEDIO BASAL INFERO DORSAL
+T37	Problema 663 684	ALTERACAO RELAXAMENTO
+T38	Problema 702 717	PERDADA MEMORIA
+T39	Problema 753 767	estase jugular
+T40	Problema 782 788	sopros
+T41	Problema 789 807	B2 DESDOBRADA FIXA
+T42	Problema 829 831	RA
+T43	Problema 841 845;851 856	MMII edema
+T44	Problema 885 903	IC isquemica CF II
+T45	Problema 908 929	REMODELAMENTO REVERSO
+T46	Tratamento 944 954	MONOCORDIL
+T47	Tratamento 957 972	ESPIRONOLACTONA
+T48	Tratamento 986 989	AAS
+T49	Teste 1015 1018	LAB
+T50	Teste 1021 1026	ECOTT
+T51	Problema 105 108	PCR
+T52	Problema 127 153	DEFICT NEUROLÓGICO PÓS PCR
+T53	Anatomia 115 117	DA
+T54	Anatomia 134 145	NEUROLÓGICO
+T55	Anatomia 574 576	AE
+T56	Anatomia 582 584	VD
+T57	Anatomia 589 591	VE
+T58	Anatomia 608 610	VE
+T59	Anatomia 636 661	MEDIO BASAL INFERO DORSAL
+T60	Anatomia 760 767	jugular
+T61	Anatomia 833 836	Abd
+T62	Anatomia 841 845	MMII
+T1	Problema 84 101	FIBRILAÇÃO ATRIAL
+T2	Problema 139 141	DM
+T3	Problema 112 114	FA
+T4	Problema 118 121	HAS
+T5	Problema 124 136	DISLIPIDEMIA
+T7	Problema 144 166	CA DE INTESTINO GROSSO
+T8	Problema 249 259	PALPITAÇÃO
+T9	Problema 272 281	MAL ESTAR
+T10	Problema 283 290	TONTURA
+T11	Problema 328 335	QUEIXAS
+T12	Tratamento 344 358	MARCOMAR 1,5MG
+T13	Tratamento 377 393	ANLODIPINO 2,5MG
+T14	Tratamento 406 419	ATENOLOL 50MG
+T15	Tratamento 432 454	HIDROCLOROTIAZIDA 25MG
+T16	Tratamento 467 483	METFORMINA 850MG
+T17	Tratamento 497 514	SINVASTATINA 20MG
+T18	Teste 527 530	RNI
+T19	Teste 567 569	EF
+T20	Teste 570 573	SAT
+T21	Teste 580 582	FC
+T22	Teste 590 592	PA
+T23	Problema 609 631	JUGULARES INGURGITADAS
+T24	Problema 637 668	BULHAS ARRITMICAS HIPOFONETICAS
+T25	Problema 673 675	SS
+T26	Problema 698 701	SRA
+T27	Problema 736 740;742 763	MMII EDEMA BILATERAL ++/4+
+T28	Tratamento 777 787	ANLODIPINO
+T29	Problema 797 810	EDEMA EM MMII
+T30	Problema 876 878	FA
+T31	Anatomia 702 708	ABDOME
+T32	Anatomia 150 166	INTESTINO GROSSO
+T33	Anatomia 95 101	ATRIAL
+T6	Anatomia 606 608	CP
+T34	Anatomia 609 618	JUGULARES
+T35	Anatomia 736 740	MMII
+T36	Anatomia 806 810	MMII
+T1	Problema 155 163	arritmia
+T2	Tratamento 202 210	atenolol
+T3	Tratamento 252 261	medicação
+T4	Problema 269 285	leve falta de ar
+T5	Problema 287 299	dor no peito
+T6	Problema 300 308	fraqueza
+T7	Problema 310 317	tontura
+T8	Problema 319 328	rouquidão
+T9	Problema 331 344	dor de cabeça
+T10	Problema 355 384	dispneia aos grandes esforços
+T11	Problema 394 430	dor torácica ventilatorio dependente
+T12	Problema 451 467	vertigem noturna
+T13	Problema 505 542;547 567	cefaléia em regiao parietal bilateral melhora com dipirona
+T14	Problema 588 596	fraqueza
+T15	Tratamento 665 681	amiodarona 200mg
+T16	Problema 688 696	asmatica
+T17	Tratamento 707 717	salbutamol
+T18	Tratamento 720 730	budesonida
+T19	Tratamento 737 756	outros medicamentos
+T20	Problema 764 823	mal estar com café, chas, chocolates, refrigerantes de cola
+T21	Problema 837 848;852 865;868 891	palpitações inicio súbito desaparecimento gradual
+T22	Problema 899 919	paracoccidioiomicose
+T23	Tratamento 559 567	dipirona
+T24	Tratamento 954 968	amigdalectomia
+T25	Tratamento 970 991	herniorrafia inguinal
+T26	Problema 1052 1061	tabagismo
+T27	Problema 1064 1072	etilismo
+T28	Teste 1205 1219	ecocardiograma
+T29	Problema 1226 1259	discreto prolapso de valva mitral
+T30	Teste 1294 1297	EEF
+T31	Teste 1305 1307	FC
+T32	Problema 1334 1350	hipofonese de B1
+T33	Problema 1352 1391	discreto sopro sistólico em foco mitral
+T34	Problema 1392 1396;1401 1406	MMII edema
+T35	Teste 1458 1464	holter
+T36	Problema 1527 1551	exacerbação dos sintomas
+T37	Teste 1563 1566	ECG
+T38	Teste 1576 1579	ECG
+T39	Teste 1589 1603	ecocardiograma
+T40	Tratamento 1611 1621	amiodarona
+T41	Tratamento 942 952	2 cesárias
+T42	Problema 1023 1046	alergias a medicamentos
+T43	Problema 1078 1097	outras comorbidades
+T44	Anatomia 338 344	cabeça
+T46	Anatomia 1247 1259	valva mitral
+T47	Anatomia 294 299	peito
+T48	Anatomia 398 406	torácica
+T49	Anatomia 517 542	regiao parietal bilateral
+T50	Anatomia 1260 1277	camaras cardiacas
+T51	Anatomia 1320 1328	cardiaca
+T52	Anatomia 1380 1391	foco mitral
+T53	Anatomia 1392 1396	MMII
+T54	Problema 607 641	cansada mesmo sem grandes esforços
