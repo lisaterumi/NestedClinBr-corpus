@@ -8,6 +8,8 @@ Arquivos -> Quebrando frases grandes (80 tokens) e tbm por ponto final
 
 Repositprio: "lisaterumi/portuguese-ner-nestedclinbr"
 
+Treinei v4 com bibertclinico, mas nao sei se ficou melhor
+
 ### Kappa aqui:
 
 https://github.com/lisaterumi/NestedClinBr-corpus/blob/main/kappa/bratutils-master/src/main-kappa.ipynb
