@@ -1,11 +1,21 @@
 # NestedClinBr-corpus
 
-Kappa aqui:
+### Resultados NER:
+
+https://docs.google.com/spreadsheets/d/1P9gtmFC0vKp0ug_-xKYZ2fLGEKVZzGrvmpT6hQf2A-o/edit?usp=sharing
+
+Arquivos -> Quebrando frases grandes (80 tokens) e tbm por ponto final
+
+Repositprio: "lisaterumi/portuguese-ner-nestedclinbr"
+
+Treinei v4 com bibertclinico, mas nao sei se ficou melhor
+
+### Kappa aqui:
 
 https://github.com/lisaterumi/NestedClinBr-corpus/blob/main/kappa/bratutils-master/src/main-kappa.ipynb
 
 -------------------MUC-Table--------------------
-------------------------------------------------
+
 pos:4743
 
 act:4447
@@ -40,4 +50,4 @@ bor:4447
 ibo:0
 ------------------------------------------------
 
-------------------------------------------------
+
